@@ -10,7 +10,10 @@ interface PageProps {
   searchParams: { period?: string };
 }
 
-export default async function CompanyPage({ params, searchParams }: PageProps) {
+export default async function CompanyPage(
+  propsPromise: Promise<PageProps>
+) {
+  const { params, searchParams } = await propsPromise;
   const companyData = await fetchCompanyQuestions(params.slug);
   
   if (!companyData) {
@@ -47,75 +50,8 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
         questionCounts={companyData.company.questionCounts}
       />
 
-### Filter Tabs Component
-
-```typescript
-// src/components/FilterTabs.tsx
-'use client';
-
-import Link from 'next/link';
-import { TimePeriod } from '@/lib/types';
-
-interface FilterTabsProps {
-  companySlug: string;
-  currentPeriod: TimePeriod;
-  availablePeriods: string[];
-  questionCounts: {
-    underSixMonths?: number;
-    moreThanSixMonths?: number;
-    all?: number;
-  };
-}
-
-const PERIOD_LABELS = {
-  underSixMonths: 'Under 6 Months',
-  moreThanSixMonths: 'More than 6 Months',
-  all: 'All Questions'
-};
-
-export default function FilterTabs({ 
-  companySlug, 
-  currentPeriod, 
-  availablePeriods, 
-  questionCounts 
-}: FilterTabsProps) {
-  return (
-    <div className="border-b border-gray-200 mb-6">
-      <nav className="-mb-px flex space-x-8">
-        {availablePeriods.map((period) => {
-          const isActive = currentPeriod === period;
-          const count = questionCounts[period as TimePeriod];
-          
-          return (
-            <Link
-              key={period}
-              href={`/company/${companySlug}?period=${period}`}
-              className={`
-                py-2 px-1 border-b-2 font-medium text-sm whitespace-nowrap
-                ${isActive 
-                  ? 'border-blue-500 text-blue-600' 
-                  : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
-                }
-              `}
-            >
-              {PERIOD_LABELS[period as TimePeriod] || period}
-              {count !== undefined && (
-                <span className="ml-2 py-0.5 px-2 text-xs bg-gray-100 text-gray-900 rounded-full">
-                  {count}
-                </span>
-              )}
-            </Link>
-          );
-        })}
-      </nav>
+      <QuestionTable questions={questions} />
     </div>
   );
 }
 
-// Generate static params for all companies
-export async function generateStaticParams() {
-  const companies = await fetchCompanies();
-  return companies.map((company) => ({
-    slug: company.slug,
-  }));
-}

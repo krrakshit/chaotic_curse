@@ -25,7 +25,7 @@ export async function parseCSV(csvContent: string): Promise<Question[]> {
           reject(error);
         }
       },
-      error: (error) => reject(error)
+      error: (error : any) => reject(error)
     });
   });
 }

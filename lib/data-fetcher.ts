@@ -9,12 +9,23 @@ const CSV_FILE_MAPPING = {
 };
 
 export async function fetchCompanies(): Promise<Company[]> {
+  // Try to use fs if available (server-side)
   try {
-    const response = await fetch('/data/companies-list.json');
-    return await response.json();
-  } catch (error) {
-    console.error('Error fetching companies:', error);
-    return [];
+    // Only import fs on the server
+    const fs = await import('fs');
+    const path = await import('path');
+    const filePath = path.join(process.cwd(), 'public', 'data', 'companies-list.json');
+    const data = fs.readFileSync(filePath, 'utf-8');
+    return JSON.parse(data);
+  } catch (err) {
+    // Fallback to fetch for client-side (should rarely happen)
+    try {
+      const response = await fetch('/data/companies-list.json');
+      return await response.json();
+    } catch (error) {
+      console.error('Error fetching companies:', error);
+      return [];
+    }
   }
 }
 

@@ -1,0 +1,8786 @@
+[
+  {
+    "id": "1kosmos",
+    "name": "1kosmos",
+    "slug": "1kosmos",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "6sense",
+    "name": "6sense",
+    "slug": "6sense",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "accelya",
+    "name": "Accelya",
+    "slug": "accelya",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "accenture",
+    "name": "Accenture",
+    "slug": "accenture",
+    "questionCounts": {
+      "all": 143,
+      "moreThanSixMonths": 130
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "accolite",
+    "name": "Accolite",
+    "slug": "accolite",
+    "questionCounts": {
+      "all": 17,
+      "moreThanSixMonths": 15
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "acko",
+    "name": "Acko",
+    "slug": "acko",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "acorns",
+    "name": "Acorns",
+    "slug": "acorns",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "activision",
+    "name": "Activision",
+    "slug": "activision",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "addepar",
+    "name": "Addepar",
+    "slug": "addepar",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "adobe",
+    "name": "Adobe",
+    "slug": "adobe",
+    "questionCounts": {
+      "all": 539,
+      "moreThanSixMonths": 520
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "adp",
+    "name": "Adp",
+    "slug": "adp",
+    "questionCounts": {
+      "all": 3
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "aetion",
+    "name": "Aetion",
+    "slug": "aetion",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "affinity",
+    "name": "Affinity",
+    "slug": "affinity",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "affirm",
+    "name": "Affirm",
+    "slug": "affirm",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 11
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "agoda",
+    "name": "Agoda",
+    "slug": "agoda",
+    "questionCounts": {
+      "all": 40,
+      "moreThanSixMonths": 35
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "questionCounts": {
+      "all": 59,
+      "moreThanSixMonths": 55
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "airbus",
+    "name": "Airbus",
+    "slug": "airbus",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "airtel",
+    "name": "Airtel",
+    "slug": "airtel",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "airwallex",
+    "name": "Airwallex",
+    "slug": "airwallex",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "akamai",
+    "name": "Akamai",
+    "slug": "akamai",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "akuna-capital",
+    "name": "Akuna Capital",
+    "slug": "akuna-capital",
+    "questionCounts": {
+      "all": 23,
+      "moreThanSixMonths": 22
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "alibaba",
+    "name": "Alibaba",
+    "slug": "alibaba",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "allincall",
+    "name": "Allincall",
+    "slug": "allincall",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "alphagrep",
+    "name": "Alphagrep",
+    "slug": "alphagrep",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "alphonso",
+    "name": "Alphonso",
+    "slug": "alphonso",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "alten",
+    "name": "Alten",
+    "slug": "alten",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "altimetrik",
+    "name": "Altimetrik",
+    "slug": "altimetrik",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "amadeus",
+    "name": "Amadeus",
+    "slug": "amadeus",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "slug": "amazon",
+    "questionCounts": {
+      "all": 1854,
+      "moreThanSixMonths": 1673
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "amd",
+    "name": "Amd",
+    "slug": "amd",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "amdocs",
+    "name": "Amdocs",
+    "slug": "amdocs",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "american-airlines",
+    "name": "American Airlines",
+    "slug": "american-airlines",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "american-express",
+    "name": "American Express",
+    "slug": "american-express",
+    "questionCounts": {
+      "all": 24,
+      "moreThanSixMonths": 22
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "amplitude",
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "analytics-quotient",
+    "name": "Analytics Quotient",
+    "slug": "analytics-quotient",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "andela",
+    "name": "Andela",
+    "slug": "andela",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "anduril",
+    "name": "Anduril",
+    "slug": "anduril",
+    "questionCounts": {
+      "all": 32,
+      "moreThanSixMonths": 21
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "slug": "anthropic",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "anyscale",
+    "name": "Anyscale",
+    "slug": "anyscale",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "aon",
+    "name": "Aon",
+    "slug": "aon",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "apna",
+    "name": "Apna",
+    "slug": "apna",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "apolloio",
+    "name": "Apolloio",
+    "slug": "apolloio",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "appdynamics",
+    "name": "Appdynamics",
+    "slug": "appdynamics",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "appfolio",
+    "name": "Appfolio",
+    "slug": "appfolio",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "slug": "apple",
+    "questionCounts": {
+      "all": 589,
+      "moreThanSixMonths": 541
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "applied-intuition",
+    "name": "Applied Intuition",
+    "slug": "applied-intuition",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "applovin",
+    "name": "Applovin",
+    "slug": "applovin",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "appviewx",
+    "name": "Appviewx",
+    "slug": "appviewx",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "aqr-capital-management-llc",
+    "name": "Aqr Capital Management Llc",
+    "slug": "aqr-capital-management-llc",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "arcesium",
+    "name": "Arcesium",
+    "slug": "arcesium",
+    "questionCounts": {
+      "all": 20,
+      "moreThanSixMonths": 19
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "argo-ai",
+    "name": "Argo Ai",
+    "slug": "argo-ai",
+    "questionCounts": {
+      "all": 3
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "arista-networks",
+    "name": "Arista Networks",
+    "slug": "arista-networks",
+    "questionCounts": {
+      "all": 40,
+      "moreThanSixMonths": 32
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "arm",
+    "name": "Arm",
+    "slug": "arm",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "asana",
+    "name": "Asana",
+    "slug": "asana",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ascend",
+    "name": "Ascend",
+    "slug": "ascend",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "asus",
+    "name": "Asus",
+    "slug": "asus",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "at-t",
+    "name": "At T",
+    "slug": "at-t",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "athenahealth",
+    "name": "Athenahealth",
+    "slug": "athenahealth",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "atlassian",
+    "name": "Atlassian",
+    "slug": "atlassian",
+    "questionCounts": {
+      "all": 73,
+      "moreThanSixMonths": 58
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "attentive",
+    "name": "Attentive",
+    "slug": "attentive",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "audible",
+    "name": "Audible",
+    "slug": "audible",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "auriga",
+    "name": "Auriga",
+    "slug": "auriga",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "slug": "aurora",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "autodesk",
+    "name": "Autodesk",
+    "slug": "autodesk",
+    "questionCounts": {
+      "all": 32,
+      "moreThanSixMonths": 19
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "avalara",
+    "name": "Avalara",
+    "slug": "avalara",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "avito",
+    "name": "Avito",
+    "slug": "avito",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "axis-bank",
+    "name": "Axis Bank",
+    "slug": "axis-bank",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "axon",
+    "name": "Axon",
+    "slug": "axon",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "baidu",
+    "name": "Baidu",
+    "slug": "baidu",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bank-of-america",
+    "name": "Bank Of America",
+    "slug": "bank-of-america",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "barclays",
+    "name": "Barclays",
+    "slug": "barclays",
+    "questionCounts": {
+      "all": 19,
+      "moreThanSixMonths": 17
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bcg",
+    "name": "Bcg",
+    "slug": "bcg",
+    "questionCounts": {
+      "all": 10
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "bentley-systems",
+    "name": "Bentley Systems",
+    "slug": "bentley-systems",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bharatpe",
+    "name": "Bharatpe",
+    "slug": "bharatpe",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bidgely",
+    "name": "Bidgely",
+    "slug": "bidgely",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "billcom",
+    "name": "Billcom",
+    "slug": "billcom",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bitgo",
+    "name": "Bitgo",
+    "slug": "bitgo",
+    "questionCounts": {
+      "all": 13,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "blackbuck",
+    "name": "Blackbuck",
+    "slug": "blackbuck",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "blackrock",
+    "name": "Blackrock",
+    "slug": "blackrock",
+    "questionCounts": {
+      "all": 17,
+      "moreThanSixMonths": 17
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "blackstone",
+    "name": "Blackstone",
+    "slug": "blackstone",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "blend",
+    "name": "Blend",
+    "slug": "blend",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "blinkit",
+    "name": "Blinkit",
+    "slug": "blinkit",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "blizzard",
+    "name": "Blizzard",
+    "slug": "blizzard",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg",
+    "slug": "bloomberg",
+    "questionCounts": {
+      "all": 1073,
+      "moreThanSixMonths": 927
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bloomreach",
+    "name": "Bloomreach",
+    "slug": "bloomreach",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "blue-origin",
+    "name": "Blue Origin",
+    "slug": "blue-origin",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "blue-yonder",
+    "name": "Blue Yonder",
+    "slug": "blue-yonder",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bnp-paribas",
+    "name": "Bnp Paribas",
+    "slug": "bnp-paribas",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bny-mellon",
+    "name": "Bny Mellon",
+    "slug": "bny-mellon",
+    "questionCounts": {
+      "all": 20,
+      "moreThanSixMonths": 19
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "boeing",
+    "name": "Boeing",
+    "slug": "boeing",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bolt",
+    "name": "Bolt",
+    "slug": "bolt",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bookingcom",
+    "name": "Bookingcom",
+    "slug": "bookingcom",
+    "questionCounts": {
+      "all": 16,
+      "moreThanSixMonths": 12
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bosch",
+    "name": "Bosch",
+    "slug": "bosch",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "box",
+    "name": "Box",
+    "slug": "box",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bp",
+    "name": "Bp",
+    "slug": "bp",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "braze",
+    "name": "Braze",
+    "slug": "braze",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "brex",
+    "name": "Brex",
+    "slug": "brex",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bridgewater-associates",
+    "name": "Bridgewater Associates",
+    "slug": "bridgewater-associates",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "brillio",
+    "name": "Brillio",
+    "slug": "brillio",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "broadcom",
+    "name": "Broadcom",
+    "slug": "broadcom",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "browserstack",
+    "name": "Browserstack",
+    "slug": "browserstack",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "bt-group",
+    "name": "Bt Group",
+    "slug": "bt-group",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "buyhatke",
+    "name": "Buyhatke",
+    "slug": "buyhatke",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "bytedance",
+    "name": "Bytedance",
+    "slug": "bytedance",
+    "questionCounts": {
+      "all": 63,
+      "moreThanSixMonths": 51
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "c3-ai",
+    "name": "C3 Ai",
+    "slug": "c3-ai",
+    "questionCounts": {
+      "all": 5
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "caastle",
+    "name": "Caastle",
+    "slug": "caastle",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cadence",
+    "name": "Cadence",
+    "slug": "cadence",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "canonical",
+    "name": "Canonical",
+    "slug": "canonical",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "slug": "canva",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "capgemini",
+    "name": "Capgemini",
+    "slug": "capgemini",
+    "questionCounts": {
+      "all": 25,
+      "moreThanSixMonths": 13
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "capital-one",
+    "name": "Capital One",
+    "slug": "capital-one",
+    "questionCounts": {
+      "all": 46,
+      "moreThanSixMonths": 35
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "careem",
+    "name": "Careem",
+    "slug": "careem",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cars24",
+    "name": "Cars24",
+    "slug": "cars24",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "carwale",
+    "name": "Carwale",
+    "slug": "carwale",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cashfree",
+    "name": "Cashfree",
+    "slug": "cashfree",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "caterpillar",
+    "name": "Caterpillar",
+    "slug": "caterpillar",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "cedcoss",
+    "name": "Cedcoss",
+    "slug": "cedcoss",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "celigo",
+    "name": "Celigo",
+    "slug": "celigo",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "chalo",
+    "name": "Chalo",
+    "slug": "chalo",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "chargebee",
+    "name": "Chargebee",
+    "slug": "chargebee",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "chewy",
+    "name": "Chewy",
+    "slug": "chewy",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "chime",
+    "name": "Chime",
+    "slug": "chime",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "chronus",
+    "name": "Chronus",
+    "slug": "chronus",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "chubb",
+    "name": "Chubb",
+    "slug": "chubb",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ciena",
+    "name": "Ciena",
+    "slug": "ciena",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "circle",
+    "name": "Circle",
+    "slug": "circle",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco",
+    "slug": "cisco",
+    "questionCounts": {
+      "all": 88,
+      "moreThanSixMonths": 71
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "citadel",
+    "name": "Citadel",
+    "slug": "citadel",
+    "questionCounts": {
+      "all": 106,
+      "moreThanSixMonths": 94
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "citi",
+    "name": "Citi",
+    "slug": "citi",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "citrix",
+    "name": "Citrix",
+    "slug": "citrix",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "clari",
+    "name": "Clari",
+    "slug": "clari",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cleartax",
+    "name": "Cleartax",
+    "slug": "cleartax",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cleartrip",
+    "name": "Cleartrip",
+    "slug": "cleartrip",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cloudera",
+    "name": "Cloudera",
+    "slug": "cloudera",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "clumio",
+    "name": "Clumio",
+    "slug": "clumio",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "clutter",
+    "name": "Clutter",
+    "slug": "clutter",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cme-group",
+    "name": "Cme Group",
+    "slug": "cme-group",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cockroach-labs",
+    "name": "Cockroach Labs",
+    "slug": "cockroach-labs",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "code-studio",
+    "name": "Code Studio",
+    "slug": "code-studio",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "codingmart",
+    "name": "Codingmart",
+    "slug": "codingmart",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cognizant",
+    "name": "Cognizant",
+    "slug": "cognizant",
+    "questionCounts": {
+      "all": 30,
+      "moreThanSixMonths": 22
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cohesity",
+    "name": "Cohesity",
+    "slug": "cohesity",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "coinbase",
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 12
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "coindcx",
+    "name": "Coindcx",
+    "slug": "coindcx",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "comcast",
+    "name": "Comcast",
+    "slug": "comcast",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "commvault",
+    "name": "Commvault",
+    "slug": "commvault",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 11
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "compass",
+    "name": "Compass",
+    "slug": "compass",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "confluent",
+    "name": "Confluent",
+    "slug": "confluent",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "consultadd",
+    "name": "Consultadd",
+    "slug": "consultadd",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 11
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "couchbase",
+    "name": "Couchbase",
+    "slug": "couchbase",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "coupang",
+    "name": "Coupang",
+    "slug": "coupang",
+    "questionCounts": {
+      "all": 51,
+      "moreThanSixMonths": 35
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "coursera",
+    "name": "Coursera",
+    "slug": "coursera",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "coveo",
+    "name": "Coveo",
+    "slug": "coveo",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cred",
+    "name": "Cred",
+    "slug": "cred",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "credit-karma",
+    "name": "Credit Karma",
+    "slug": "credit-karma",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "criteo",
+    "name": "Criteo",
+    "slug": "criteo",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "crowdstrike",
+    "name": "Crowdstrike",
+    "slug": "crowdstrike",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cruise-automation",
+    "name": "Cruise Automation",
+    "slug": "cruise-automation",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ctc",
+    "name": "Ctc",
+    "slug": "ctc",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "curefit",
+    "name": "Curefit",
+    "slug": "curefit",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cvent",
+    "name": "Cvent",
+    "slug": "cvent",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cyntexa",
+    "name": "Cyntexa",
+    "slug": "cyntexa",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "cyware",
+    "name": "Cyware",
+    "slug": "cyware",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dailyhunt",
+    "name": "Dailyhunt",
+    "slug": "dailyhunt",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "darwinbox",
+    "name": "Darwinbox",
+    "slug": "darwinbox",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dassault-sysetmes",
+    "name": "Dassault Sysetmes",
+    "slug": "dassault-sysetmes",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "databricks",
+    "name": "Databricks",
+    "slug": "databricks",
+    "questionCounts": {
+      "all": 33,
+      "moreThanSixMonths": 32
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "datadog",
+    "name": "Datadog",
+    "slug": "datadog",
+    "questionCounts": {
+      "all": 19,
+      "moreThanSixMonths": 16
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dataminr",
+    "name": "Dataminr",
+    "slug": "dataminr",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "de-shaw",
+    "name": "De Shaw",
+    "slug": "de-shaw",
+    "questionCounts": {
+      "all": 120,
+      "moreThanSixMonths": 105
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "deepmind",
+    "name": "Deepmind",
+    "slug": "deepmind",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "delhivery",
+    "name": "Delhivery",
+    "slug": "delhivery",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "deliveroo",
+    "name": "Deliveroo",
+    "slug": "deliveroo",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dell",
+    "name": "Dell",
+    "slug": "dell",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "deloitte",
+    "name": "Deloitte",
+    "slug": "deloitte",
+    "questionCounts": {
+      "all": 29,
+      "moreThanSixMonths": 16
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "deltax",
+    "name": "Deltax",
+    "slug": "deltax",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "deutsche-bank",
+    "name": "Deutsche Bank",
+    "slug": "deutsche-bank",
+    "questionCounts": {
+      "all": 31,
+      "moreThanSixMonths": 29
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "devrev",
+    "name": "Devrev",
+    "slug": "devrev",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "devsinc",
+    "name": "Devsinc",
+    "slug": "devsinc",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "devtron",
+    "name": "Devtron",
+    "slug": "devtron",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dialpad",
+    "name": "Dialpad",
+    "slug": "dialpad",
+    "questionCounts": {
+      "all": 3
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "didi",
+    "name": "Didi",
+    "slug": "didi",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "directi",
+    "name": "Directi",
+    "slug": "directi",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "slug": "discord",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "disney",
+    "name": "Disney",
+    "slug": "disney",
+    "questionCounts": {
+      "all": 20,
+      "moreThanSixMonths": 14
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dji",
+    "name": "Dji",
+    "slug": "dji",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "docusign",
+    "name": "Docusign",
+    "slug": "docusign",
+    "questionCounts": {
+      "all": 37,
+      "moreThanSixMonths": 22
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "doordash",
+    "name": "Doordash",
+    "slug": "doordash",
+    "questionCounts": {
+      "all": 87,
+      "moreThanSixMonths": 74
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dp-world",
+    "name": "Dp World",
+    "slug": "dp-world",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "drawbridge",
+    "name": "Drawbridge",
+    "slug": "drawbridge",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dream11",
+    "name": "Dream11",
+    "slug": "dream11",
+    "questionCounts": {
+      "all": 13,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dropbox",
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "questionCounts": {
+      "all": 25,
+      "moreThanSixMonths": 24
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "druva",
+    "name": "Druva",
+    "slug": "druva",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "drw",
+    "name": "Drw",
+    "slug": "drw",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dtcc",
+    "name": "Dtcc",
+    "slug": "dtcc",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dunzo",
+    "name": "Dunzo",
+    "slug": "dunzo",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "dxc",
+    "name": "Dxc",
+    "slug": "dxc",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "earnin",
+    "name": "Earnin",
+    "slug": "earnin",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ebay",
+    "name": "Ebay",
+    "slug": "ebay",
+    "questionCounts": {
+      "all": 75,
+      "moreThanSixMonths": 58
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "edelweiss",
+    "name": "Edelweiss",
+    "slug": "edelweiss",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "elbit",
+    "name": "Elbit",
+    "slug": "elbit",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "electronic-arts",
+    "name": "Electronic Arts",
+    "slug": "electronic-arts",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "elitmus",
+    "name": "Elitmus",
+    "slug": "elitmus",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "envoy",
+    "name": "Envoy",
+    "slug": "envoy",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "epam-systems",
+    "name": "Epam Systems",
+    "slug": "epam-systems",
+    "questionCounts": {
+      "all": 44,
+      "moreThanSixMonths": 35
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "epic-games",
+    "name": "Epic Games",
+    "slug": "epic-games",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "epic-systems",
+    "name": "Epic Systems",
+    "slug": "epic-systems",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 11
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "epifi",
+    "name": "Epifi",
+    "slug": "epifi",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "ericsson",
+    "name": "Ericsson",
+    "slug": "ericsson",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "etsy",
+    "name": "Etsy",
+    "slug": "etsy",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "expedia",
+    "name": "Expedia",
+    "slug": "expedia",
+    "questionCounts": {
+      "all": 49,
+      "moreThanSixMonths": 43
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ey",
+    "name": "Ey",
+    "slug": "ey",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "f5-networks",
+    "name": "F5 Networks",
+    "slug": "f5-networks",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "slug": "facebook",
+    "questionCounts": {
+      "all": 1241,
+      "moreThanSixMonths": 1021
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "factset",
+    "name": "Factset",
+    "slug": "factset",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "factwise",
+    "name": "Factwise",
+    "slug": "factwise",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "faire",
+    "name": "Faire",
+    "slug": "faire",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fallible",
+    "name": "Fallible",
+    "slug": "fallible",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fastenal",
+    "name": "Fastenal",
+    "slug": "fastenal",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fico",
+    "name": "Fico",
+    "slug": "fico",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fidelity",
+    "name": "Fidelity",
+    "slug": "fidelity",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fidessa",
+    "name": "Fidessa",
+    "slug": "fidessa",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "fiverr",
+    "name": "Fiverr",
+    "slug": "fiverr",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "flatiron-health",
+    "name": "Flatiron Health",
+    "slug": "flatiron-health",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fleetx",
+    "name": "Fleetx",
+    "slug": "fleetx",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "flexera",
+    "name": "Flexera",
+    "slug": "flexera",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "flexport",
+    "name": "Flexport",
+    "slug": "flexport",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "slug": "flipkart",
+    "questionCounts": {
+      "all": 126,
+      "moreThanSixMonths": 102
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ford",
+    "name": "Ford",
+    "slug": "ford",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fortinet",
+    "name": "Fortinet",
+    "slug": "fortinet",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "forusall",
+    "name": "Forusall",
+    "slug": "forusall",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fourkites",
+    "name": "Fourkites",
+    "slug": "fourkites",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fpt",
+    "name": "Fpt",
+    "slug": "fpt",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fractal-analytics",
+    "name": "Fractal Analytics",
+    "slug": "fractal-analytics",
+    "questionCounts": {
+      "all": 16,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "freecharge",
+    "name": "Freecharge",
+    "slug": "freecharge",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "freshworks",
+    "name": "Freshworks",
+    "slug": "freshworks",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "fynd",
+    "name": "Fynd",
+    "slug": "fynd",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "gainsight",
+    "name": "Gainsight",
+    "slug": "gainsight",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "gameskraft",
+    "name": "Gameskraft",
+    "slug": "gameskraft",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "garena",
+    "name": "Garena",
+    "slug": "garena",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "garmin",
+    "name": "Garmin",
+    "slug": "garmin",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "gartner",
+    "name": "Gartner",
+    "slug": "gartner",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ge-digital",
+    "name": "Ge Digital",
+    "slug": "ge-digital",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ge-healthcare",
+    "name": "Ge Healthcare",
+    "slug": "ge-healthcare",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "geico",
+    "name": "Geico",
+    "slug": "geico",
+    "questionCounts": {
+      "all": 20,
+      "moreThanSixMonths": 17
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "general-electric",
+    "name": "General Electric",
+    "slug": "general-electric",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "general-motors",
+    "name": "General Motors",
+    "slug": "general-motors",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "genpact",
+    "name": "Genpact",
+    "slug": "genpact",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "gilt-groupe",
+    "name": "Gilt Groupe",
+    "slug": "gilt-groupe",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "github",
+    "name": "Github",
+    "slug": "github",
+    "questionCounts": {
+      "all": 3
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "glassdoor",
+    "name": "Glassdoor",
+    "slug": "glassdoor",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "globallogic",
+    "name": "Globallogic",
+    "slug": "globallogic",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "globant",
+    "name": "Globant",
+    "slug": "globant",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "glovo",
+    "name": "Glovo",
+    "slug": "glovo",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "godaddy",
+    "name": "Godaddy",
+    "slug": "godaddy",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "gojek",
+    "name": "Gojek",
+    "slug": "gojek",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "goldman-sachs",
+    "name": "Goldman Sachs",
+    "slug": "goldman-sachs",
+    "questionCounts": {
+      "all": 267,
+      "moreThanSixMonths": 201
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "slug": "google",
+    "questionCounts": {
+      "all": 2040,
+      "moreThanSixMonths": 1802
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "gopuff",
+    "name": "Gopuff",
+    "slug": "gopuff",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "grab",
+    "name": "Grab",
+    "slug": "grab",
+    "questionCounts": {
+      "all": 14,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "grammarly",
+    "name": "Grammarly",
+    "slug": "grammarly",
+    "questionCounts": {
+      "all": 27,
+      "moreThanSixMonths": 23
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "graviton",
+    "name": "Graviton",
+    "slug": "graviton",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "grid-dynamics",
+    "name": "Grid Dynamics",
+    "slug": "grid-dynamics",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "groupon",
+    "name": "Groupon",
+    "slug": "groupon",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "groww",
+    "name": "Groww",
+    "slug": "groww",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "grubhub",
+    "name": "Grubhub",
+    "slug": "grubhub",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "gsa-capital",
+    "name": "Gsa Capital",
+    "slug": "gsa-capital",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "gsn-games",
+    "name": "Gsn Games",
+    "slug": "gsn-games",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "guidewire",
+    "name": "Guidewire",
+    "slug": "guidewire",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "gusto",
+    "name": "Gusto",
+    "slug": "gusto",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "harman",
+    "name": "Harman",
+    "slug": "harman",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "harness",
+    "name": "Harness",
+    "slug": "harness",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hashedin",
+    "name": "Hashedin",
+    "slug": "hashedin",
+    "questionCounts": {
+      "all": 22,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hbo",
+    "name": "Hbo",
+    "slug": "hbo",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hcl",
+    "name": "Hcl",
+    "slug": "hcl",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "heb",
+    "name": "Heb",
+    "slug": "heb",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "helix",
+    "name": "Helix",
+    "slug": "helix",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hertz",
+    "name": "Hertz",
+    "slug": "hertz",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "highspot",
+    "name": "Highspot",
+    "slug": "highspot",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hilabs",
+    "name": "Hilabs",
+    "slug": "hilabs",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hive",
+    "name": "Hive",
+    "slug": "hive",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hiver",
+    "name": "Hiver",
+    "slug": "hiver",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "slug": "honey",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "honeywell",
+    "name": "Honeywell",
+    "slug": "honeywell",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hopper",
+    "name": "Hopper",
+    "slug": "hopper",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "hotstar",
+    "name": "Hotstar",
+    "slug": "hotstar",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "houzz",
+    "name": "Houzz",
+    "slug": "houzz",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hp",
+    "name": "Hp",
+    "slug": "hp",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hpe",
+    "name": "Hpe",
+    "slug": "hpe",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hrt",
+    "name": "Hrt",
+    "slug": "hrt",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hsbc",
+    "name": "Hsbc",
+    "slug": "hsbc",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "huawei",
+    "name": "Huawei",
+    "slug": "huawei",
+    "questionCounts": {
+      "all": 15,
+      "moreThanSixMonths": 14
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hubspot",
+    "name": "Hubspot",
+    "slug": "hubspot",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hulu",
+    "name": "Hulu",
+    "slug": "hulu",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "hyperverge",
+    "name": "Hyperverge",
+    "slug": "hyperverge",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ibm",
+    "name": "Ibm",
+    "slug": "ibm",
+    "questionCounts": {
+      "all": 147,
+      "moreThanSixMonths": 122
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "iit-bombay",
+    "name": "Iit Bombay",
+    "slug": "iit-bombay",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "imc",
+    "name": "Imc",
+    "slug": "imc",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "impact-analytics",
+    "name": "Impact Analytics",
+    "slug": "impact-analytics",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "increff",
+    "name": "Increff",
+    "slug": "increff",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "indeed",
+    "name": "Indeed",
+    "slug": "indeed",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "indmoney",
+    "name": "Indmoney",
+    "slug": "indmoney",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "info-edge",
+    "name": "Info Edge",
+    "slug": "info-edge",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "informatica",
+    "name": "Informatica",
+    "slug": "informatica",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "infosys",
+    "name": "Infosys",
+    "slug": "infosys",
+    "questionCounts": {
+      "all": 113,
+      "moreThanSixMonths": 91
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "inmobi",
+    "name": "Inmobi",
+    "slug": "inmobi",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "innovaccer",
+    "name": "Innovaccer",
+    "slug": "innovaccer",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "instabase",
+    "name": "Instabase",
+    "slug": "instabase",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "instacart",
+    "name": "Instacart",
+    "slug": "instacart",
+    "questionCounts": {
+      "all": 14,
+      "moreThanSixMonths": 13
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "intel",
+    "name": "Intel",
+    "slug": "intel",
+    "questionCounts": {
+      "all": 25,
+      "moreThanSixMonths": 16
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "interactive-brokers",
+    "name": "Interactive Brokers",
+    "slug": "interactive-brokers",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "intercom",
+    "name": "Intercom",
+    "slug": "intercom",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "intuit",
+    "name": "Intuit",
+    "slug": "intuit",
+    "questionCounts": {
+      "all": 71,
+      "moreThanSixMonths": 61
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ion",
+    "name": "Ion",
+    "slug": "ion",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ivp",
+    "name": "Ivp",
+    "slug": "ivp",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ixigo",
+    "name": "Ixigo",
+    "slug": "ixigo",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ixl",
+    "name": "Ixl",
+    "slug": "ixl",
+    "questionCounts": {
+      "all": 17,
+      "moreThanSixMonths": 16
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "jane-street",
+    "name": "Jane Street",
+    "slug": "jane-street",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "jd",
+    "name": "Jd",
+    "slug": "jd",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "jeavio",
+    "name": "Jeavio",
+    "slug": "jeavio",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "jetbrains",
+    "name": "Jetbrains",
+    "slug": "jetbrains",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "jingchi",
+    "name": "Jingchi",
+    "slug": "jingchi",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "jio",
+    "name": "Jio",
+    "slug": "jio",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "josh-technology",
+    "name": "Josh Technology",
+    "slug": "josh-technology",
+    "questionCounts": {
+      "all": 27,
+      "moreThanSixMonths": 18
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "jpmorgan",
+    "name": "Jpmorgan",
+    "slug": "jpmorgan",
+    "questionCounts": {
+      "all": 77,
+      "moreThanSixMonths": 58
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "jtg",
+    "name": "Jtg",
+    "slug": "jtg",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "jump-trading",
+    "name": "Jump Trading",
+    "slug": "jump-trading",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "junglee-games",
+    "name": "Junglee Games",
+    "slug": "junglee-games",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "juniper",
+    "name": "Juniper",
+    "slug": "juniper",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "juspay",
+    "name": "Juspay",
+    "slug": "juspay",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "justworks",
+    "name": "Justworks",
+    "slug": "justworks",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "kakao",
+    "name": "Kakao",
+    "slug": "kakao",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "karat",
+    "name": "Karat",
+    "slug": "karat",
+    "questionCounts": {
+      "all": 15,
+      "moreThanSixMonths": 13
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "keeptruckin",
+    "name": "Keeptruckin",
+    "slug": "keeptruckin",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "kla",
+    "name": "Kla",
+    "slug": "kla",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "kla-tencor",
+    "name": "Kla Tencor",
+    "slug": "kla-tencor",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "komprise",
+    "name": "Komprise",
+    "slug": "komprise",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "kotak-mahindra-bank",
+    "name": "Kotak Mahindra Bank",
+    "slug": "kotak-mahindra-bank",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "kpit",
+    "name": "Kpit",
+    "slug": "kpit",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "kpmg",
+    "name": "Kpmg",
+    "slug": "kpmg",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "lacework",
+    "name": "Lacework",
+    "slug": "lacework",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "larsen-toubro",
+    "name": "Larsen Toubro",
+    "slug": "larsen-toubro",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "leap-motion",
+    "name": "Leap Motion",
+    "slug": "leap-motion",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "lendingkart",
+    "name": "Lendingkart",
+    "slug": "lendingkart",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "lenskart",
+    "name": "Lenskart",
+    "slug": "lenskart",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "lg-electronics",
+    "name": "Lg Electronics",
+    "slug": "lg-electronics",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "licious",
+    "name": "Licious",
+    "slug": "licious",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "liftoff",
+    "name": "Liftoff",
+    "slug": "liftoff",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "slug": "lime",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "line",
+    "name": "Line",
+    "slug": "line",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "linkedin",
+    "name": "Linkedin",
+    "slug": "linkedin",
+    "questionCounts": {
+      "all": 172,
+      "moreThanSixMonths": 144
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "liveramp",
+    "name": "Liveramp",
+    "slug": "liveramp",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "livspace",
+    "name": "Livspace",
+    "slug": "livspace",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "lowe",
+    "name": "Lowe",
+    "slug": "lowe",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "lti",
+    "name": "Lti",
+    "slug": "lti",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "lucid",
+    "name": "Lucid",
+    "slug": "lucid",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "luxoft",
+    "name": "Luxoft",
+    "slug": "luxoft",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "lyft",
+    "name": "Lyft",
+    "slug": "lyft",
+    "questionCounts": {
+      "all": 26,
+      "moreThanSixMonths": 22
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "machine-zone",
+    "name": "Machine Zone",
+    "slug": "machine-zone",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "machinezone",
+    "name": "Machinezone",
+    "slug": "machinezone",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "maersk",
+    "name": "Maersk",
+    "slug": "maersk",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "makemytrip",
+    "name": "Makemytrip",
+    "slug": "makemytrip",
+    "questionCounts": {
+      "all": 29,
+      "moreThanSixMonths": 22
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mapbox",
+    "name": "Mapbox",
+    "slug": "mapbox",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "maq-software",
+    "name": "Maq Software",
+    "slug": "maq-software",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "marqeta",
+    "name": "Marqeta",
+    "slug": "marqeta",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mastercard",
+    "name": "Mastercard",
+    "slug": "mastercard",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mathworks",
+    "name": "Mathworks",
+    "slug": "mathworks",
+    "questionCounts": {
+      "all": 31,
+      "moreThanSixMonths": 26
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mcafee",
+    "name": "Mcafee",
+    "slug": "mcafee",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mckinsey",
+    "name": "Mckinsey",
+    "slug": "mckinsey",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "medianet",
+    "name": "Medianet",
+    "slug": "medianet",
+    "questionCounts": {
+      "all": 41,
+      "moreThanSixMonths": 38
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "meesho",
+    "name": "Meesho",
+    "slug": "meesho",
+    "questionCounts": {
+      "all": 33,
+      "moreThanSixMonths": 21
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "meituan",
+    "name": "Meituan",
+    "slug": "meituan",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mercari",
+    "name": "Mercari",
+    "slug": "mercari",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "micro1",
+    "name": "Micro1",
+    "slug": "micro1",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "questionCounts": {
+      "all": 1211,
+      "moreThanSixMonths": 1062
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "microstrategy",
+    "name": "Microstrategy",
+    "slug": "microstrategy",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "millennium",
+    "name": "Millennium",
+    "slug": "millennium",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mindtickle",
+    "name": "Mindtickle",
+    "slug": "mindtickle",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mindtree",
+    "name": "Mindtree",
+    "slug": "mindtree",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "miro",
+    "name": "Miro",
+    "slug": "miro",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mishipay",
+    "name": "Mishipay",
+    "slug": "mishipay",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mitsogo",
+    "name": "Mitsogo",
+    "slug": "mitsogo",
+    "questionCounts": {
+      "all": 16,
+      "moreThanSixMonths": 16
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mixpanel",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mobileye",
+    "name": "Mobileye",
+    "slug": "mobileye",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mobisy",
+    "name": "Mobisy",
+    "slug": "mobisy",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "moengage",
+    "name": "Moengage",
+    "slug": "moengage",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "moloco",
+    "name": "Moloco",
+    "slug": "moloco",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "moneylion",
+    "name": "Moneylion",
+    "slug": "moneylion",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mongodb",
+    "name": "Mongodb",
+    "slug": "mongodb",
+    "questionCounts": {
+      "all": 17,
+      "moreThanSixMonths": 12
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "morgan-stanley",
+    "name": "Morgan Stanley",
+    "slug": "morgan-stanley",
+    "questionCounts": {
+      "all": 47,
+      "moreThanSixMonths": 35
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "motorola",
+    "name": "Motorola",
+    "slug": "motorola",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mountblue",
+    "name": "Mountblue",
+    "slug": "mountblue",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "moveworks",
+    "name": "Moveworks",
+    "slug": "moveworks",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "msci",
+    "name": "Msci",
+    "slug": "msci",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mts",
+    "name": "Mts",
+    "slug": "mts",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "murex",
+    "name": "Murex",
+    "slug": "murex",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "mykaarma",
+    "name": "Mykaarma",
+    "slug": "mykaarma",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "myntra",
+    "name": "Myntra",
+    "slug": "myntra",
+    "questionCounts": {
+      "all": 23,
+      "moreThanSixMonths": 17
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nagarro",
+    "name": "Nagarro",
+    "slug": "nagarro",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "national-instruments",
+    "name": "National Instruments",
+    "slug": "national-instruments",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "national-payments-coorperation-india",
+    "name": "National Payments Coorperation India",
+    "slug": "national-payments-coorperation-india",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "navan",
+    "name": "Navan",
+    "slug": "navan",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "naver",
+    "name": "Naver",
+    "slug": "naver",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "navi",
+    "name": "Navi",
+    "slug": "navi",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ncr",
+    "name": "Ncr",
+    "slug": "ncr",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nerdwallet",
+    "name": "Nerdwallet",
+    "slug": "nerdwallet",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "netapp",
+    "name": "Netapp",
+    "slug": "netapp",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "netcracker-technology",
+    "name": "Netcracker Technology",
+    "slug": "netcracker-technology",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "netease",
+    "name": "Netease",
+    "slug": "netease",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "slug": "netflix",
+    "questionCounts": {
+      "all": 37,
+      "moreThanSixMonths": 27
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "netskope",
+    "name": "Netskope",
+    "slug": "netskope",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "netsuite",
+    "name": "Netsuite",
+    "slug": "netsuite",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "newsbreak",
+    "name": "Newsbreak",
+    "slug": "newsbreak",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "nextdoor",
+    "name": "Nextdoor",
+    "slug": "nextdoor",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nextjump",
+    "name": "Nextjump",
+    "slug": "nextjump",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nference",
+    "name": "Nference",
+    "slug": "nference",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "niantic",
+    "name": "Niantic",
+    "slug": "niantic",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nielsen",
+    "name": "Nielsen",
+    "slug": "nielsen",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "slug": "nike",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ninjacart",
+    "name": "Ninjacart",
+    "slug": "ninjacart",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nokia",
+    "name": "Nokia",
+    "slug": "nokia",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nordstrom",
+    "name": "Nordstrom",
+    "slug": "nordstrom",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "slug": "notion",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "npci",
+    "name": "Npci",
+    "slug": "npci",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nuro",
+    "name": "Nuro",
+    "slug": "nuro",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nutanix",
+    "name": "Nutanix",
+    "slug": "nutanix",
+    "questionCounts": {
+      "all": 67,
+      "moreThanSixMonths": 42
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nvidia",
+    "name": "Nvidia",
+    "slug": "nvidia",
+    "questionCounts": {
+      "all": 144,
+      "moreThanSixMonths": 124
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "nykaa",
+    "name": "Nykaa",
+    "slug": "nykaa",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "observeai",
+    "name": "Observeai",
+    "slug": "observeai",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "odoo",
+    "name": "Odoo",
+    "slug": "odoo",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "okta",
+    "name": "Okta",
+    "slug": "okta",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "okx",
+    "name": "Okx",
+    "slug": "okx",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ola",
+    "name": "Ola",
+    "slug": "ola",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "olx",
+    "name": "Olx",
+    "slug": "olx",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "openai",
+    "name": "Openai",
+    "slug": "openai",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "opendoor",
+    "name": "Opendoor",
+    "slug": "opendoor",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "opentext",
+    "name": "Opentext",
+    "slug": "opentext",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "oppo",
+    "name": "Oppo",
+    "slug": "oppo",
+    "questionCounts": {
+      "all": 3
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "optiver",
+    "name": "Optiver",
+    "slug": "optiver",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "optum",
+    "name": "Optum",
+    "slug": "optum",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "slug": "oracle",
+    "questionCounts": {
+      "all": 310,
+      "moreThanSixMonths": 266
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "oscar-health",
+    "name": "Oscar Health",
+    "slug": "oscar-health",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "otterai",
+    "name": "Otterai",
+    "slug": "otterai",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "oyo",
+    "name": "Oyo",
+    "slug": "oyo",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ozon",
+    "name": "Ozon",
+    "slug": "ozon",
+    "questionCounts": {
+      "all": 13,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "palantir-technologies",
+    "name": "Palantir Technologies",
+    "slug": "palantir-technologies",
+    "questionCounts": {
+      "all": 30,
+      "moreThanSixMonths": 26
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "palo-alto-networks",
+    "name": "Palo Alto Networks",
+    "slug": "palo-alto-networks",
+    "questionCounts": {
+      "all": 26,
+      "moreThanSixMonths": 18
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "park",
+    "name": "Park",
+    "slug": "park",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "patreon",
+    "name": "Patreon",
+    "slug": "patreon",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "paycom",
+    "name": "Paycom",
+    "slug": "paycom",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "paypal",
+    "name": "Paypal",
+    "slug": "paypal",
+    "questionCounts": {
+      "all": 109,
+      "moreThanSixMonths": 84
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "paypay",
+    "name": "Paypay",
+    "slug": "paypay",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "paytm",
+    "name": "Paytm",
+    "slug": "paytm",
+    "questionCounts": {
+      "all": 27,
+      "moreThanSixMonths": 24
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "payu",
+    "name": "Payu",
+    "slug": "payu",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "peak6",
+    "name": "Peak6",
+    "slug": "peak6",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "pega",
+    "name": "Pega",
+    "slug": "pega",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "peloton",
+    "name": "Peloton",
+    "slug": "peloton",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "persistent-systems",
+    "name": "Persistent Systems",
+    "slug": "persistent-systems",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "philips",
+    "name": "Philips",
+    "slug": "philips",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "phonepe",
+    "name": "Phonepe",
+    "slug": "phonepe",
+    "questionCounts": {
+      "all": 94,
+      "moreThanSixMonths": 71
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "pickrr",
+    "name": "Pickrr",
+    "slug": "pickrr",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "questionCounts": {
+      "all": 50,
+      "moreThanSixMonths": 41
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "plaid",
+    "name": "Plaid",
+    "slug": "plaid",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "pocket-gems",
+    "name": "Pocket Gems",
+    "slug": "pocket-gems",
+    "questionCounts": {
+      "all": 15,
+      "moreThanSixMonths": 15
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "point72",
+    "name": "Point72",
+    "slug": "point72",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "polar",
+    "name": "Polar",
+    "slug": "polar",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ponyai",
+    "name": "Ponyai",
+    "slug": "ponyai",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "pornhub",
+    "name": "Pornhub",
+    "slug": "pornhub",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "porter",
+    "name": "Porter",
+    "slug": "porter",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "poshmark",
+    "name": "Poshmark",
+    "slug": "poshmark",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "slug": "postman",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "postmates",
+    "name": "Postmates",
+    "slug": "postmates",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "poynt",
+    "name": "Poynt",
+    "slug": "poynt",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "practo",
+    "name": "Practo",
+    "slug": "practo",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "publicis-sapient",
+    "name": "Publicis Sapient",
+    "slug": "publicis-sapient",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "pubmatic",
+    "name": "Pubmatic",
+    "slug": "pubmatic",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "pure",
+    "name": "Pure",
+    "slug": "pure",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "pure-storage",
+    "name": "Pure Storage",
+    "slug": "pure-storage",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "purplle",
+    "name": "Purplle",
+    "slug": "purplle",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "pwc",
+    "name": "Pwc",
+    "slug": "pwc",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "qburst",
+    "name": "Qburst",
+    "slug": "qburst",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "qualcomm",
+    "name": "Qualcomm",
+    "slug": "qualcomm",
+    "questionCounts": {
+      "all": 47,
+      "moreThanSixMonths": 26
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "qualtrics",
+    "name": "Qualtrics",
+    "slug": "qualtrics",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "qualys",
+    "name": "Qualys",
+    "slug": "qualys",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "quantcast",
+    "name": "Quantcast",
+    "slug": "quantcast",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "quince",
+    "name": "Quince",
+    "slug": "quince",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "qumulo",
+    "name": "Qumulo",
+    "slug": "qumulo",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "quora",
+    "name": "Quora",
+    "slug": "quora",
+    "questionCounts": {
+      "all": 20,
+      "moreThanSixMonths": 17
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "rackspace",
+    "name": "Rackspace",
+    "slug": "rackspace",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "radius",
+    "name": "Radius",
+    "slug": "radius",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "rakuten",
+    "name": "Rakuten",
+    "slug": "rakuten",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ramp-2",
+    "name": "Ramp 2",
+    "slug": "ramp-2",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "razorpay",
+    "name": "Razorpay",
+    "slug": "razorpay",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "rbc",
+    "name": "Rbc",
+    "slug": "rbc",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "redbus",
+    "name": "Redbus",
+    "slug": "redbus",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "slug": "reddit",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "redfin",
+    "name": "Redfin",
+    "slug": "redfin",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "remitly",
+    "name": "Remitly",
+    "slug": "remitly",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "retailmenot",
+    "name": "Retailmenot",
+    "slug": "retailmenot",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "revolut",
+    "name": "Revolut",
+    "slug": "revolut",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "riot-games",
+    "name": "Riot Games",
+    "slug": "riot-games",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ripple",
+    "name": "Ripple",
+    "slug": "ripple",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "rippling",
+    "name": "Rippling",
+    "slug": "rippling",
+    "questionCounts": {
+      "all": 17,
+      "moreThanSixMonths": 11
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "rivian",
+    "name": "Rivian",
+    "slug": "rivian",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "robinhood",
+    "name": "Robinhood",
+    "slug": "robinhood",
+    "questionCounts": {
+      "all": 15,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "slug": "roblox",
+    "questionCounts": {
+      "all": 54,
+      "moreThanSixMonths": 44
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "roche",
+    "name": "Roche",
+    "slug": "roche",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "rokt",
+    "name": "Rokt",
+    "slug": "rokt",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "roku",
+    "name": "Roku",
+    "slug": "roku",
+    "questionCounts": {
+      "all": 16,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "rubrik",
+    "name": "Rubrik",
+    "slug": "rubrik",
+    "questionCounts": {
+      "all": 37,
+      "moreThanSixMonths": 30
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce",
+    "slug": "salesforce",
+    "questionCounts": {
+      "all": 198,
+      "moreThanSixMonths": 162
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sambanova",
+    "name": "Sambanova",
+    "slug": "sambanova",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "samsara",
+    "name": "Samsara",
+    "slug": "samsara",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "slug": "samsung",
+    "questionCounts": {
+      "all": 72,
+      "moreThanSixMonths": 64
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sap",
+    "name": "Sap",
+    "slug": "sap",
+    "questionCounts": {
+      "all": 41,
+      "moreThanSixMonths": 35
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "scale-ai",
+    "name": "Scale Ai",
+    "slug": "scale-ai",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "schneider-electric",
+    "name": "Schneider Electric",
+    "slug": "schneider-electric",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "schrodinger",
+    "name": "Schrodinger",
+    "slug": "schrodinger",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sentry",
+    "name": "Sentry",
+    "slug": "sentry",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "servicenow",
+    "name": "Servicenow",
+    "slug": "servicenow",
+    "questionCounts": {
+      "all": 86,
+      "moreThanSixMonths": 73
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sharechat",
+    "name": "Sharechat",
+    "slug": "sharechat",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "shift-technology",
+    "name": "Shift Technology",
+    "slug": "shift-technology",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "shipsy",
+    "name": "Shipsy",
+    "slug": "shipsy",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "shopee",
+    "name": "Shopee",
+    "slug": "shopee",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "shopify",
+    "name": "Shopify",
+    "slug": "shopify",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "siemens",
+    "name": "Siemens",
+    "slug": "siemens",
+    "questionCounts": {
+      "all": 26,
+      "moreThanSixMonths": 22
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sig",
+    "name": "Sig",
+    "slug": "sig",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sigmoid",
+    "name": "Sigmoid",
+    "slug": "sigmoid",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "singlestore",
+    "name": "Singlestore",
+    "slug": "singlestore",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sixt",
+    "name": "Sixt",
+    "slug": "sixt",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "slice",
+    "name": "Slice",
+    "slug": "slice",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "smartnews",
+    "name": "Smartnews",
+    "slug": "smartnews",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "smartsheet",
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "slug": "snapchat",
+    "questionCounts": {
+      "all": 111,
+      "moreThanSixMonths": 94
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "snapdeal",
+    "name": "Snapdeal",
+    "slug": "snapdeal",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "snowflake",
+    "name": "Snowflake",
+    "slug": "snowflake",
+    "questionCounts": {
+      "all": 97,
+      "moreThanSixMonths": 64
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "societe-generale",
+    "name": "Societe Generale",
+    "slug": "societe-generale",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sofi",
+    "name": "Sofi",
+    "slug": "sofi",
+    "questionCounts": {
+      "all": 18,
+      "moreThanSixMonths": 13
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "software-ag",
+    "name": "Software Ag",
+    "slug": "software-ag",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "softwire",
+    "name": "Softwire",
+    "slug": "softwire",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sony",
+    "name": "Sony",
+    "slug": "sony",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "soti",
+    "name": "Soti",
+    "slug": "soti",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "soundhound",
+    "name": "Soundhound",
+    "slug": "soundhound",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "spacex",
+    "name": "Spacex",
+    "slug": "spacex",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "spinny",
+    "name": "Spinny",
+    "slug": "spinny",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "splunk",
+    "name": "Splunk",
+    "slug": "splunk",
+    "questionCounts": {
+      "all": 15,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "slug": "spotify",
+    "questionCounts": {
+      "all": 13,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sprinklr",
+    "name": "Sprinklr",
+    "slug": "sprinklr",
+    "questionCounts": {
+      "all": 40,
+      "moreThanSixMonths": 39
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "square",
+    "name": "Square",
+    "slug": "square",
+    "questionCounts": {
+      "all": 14,
+      "moreThanSixMonths": 14
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "squarepoint-capital",
+    "name": "Squarepoint Capital",
+    "slug": "squarepoint-capital",
+    "questionCounts": {
+      "all": 14,
+      "moreThanSixMonths": 9
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "squarespace",
+    "name": "Squarespace",
+    "slug": "squarespace",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "stackadapt",
+    "name": "Stackadapt",
+    "slug": "stackadapt",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "stackline",
+    "name": "Stackline",
+    "slug": "stackline",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "slug": "starbucks",
+    "questionCounts": {
+      "all": 2
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "state-farm",
+    "name": "State Farm",
+    "slug": "state-farm",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "strava",
+    "name": "Strava",
+    "slug": "strava",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "slug": "stripe",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "sumologic",
+    "name": "Sumologic",
+    "slug": "sumologic",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "susquehanna-international-group",
+    "name": "Susquehanna International Group",
+    "slug": "susquehanna-international-group",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "slug": "swiggy",
+    "questionCounts": {
+      "all": 31,
+      "moreThanSixMonths": 20
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "syfe",
+    "name": "Syfe",
+    "slug": "syfe",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "synology",
+    "name": "Synology",
+    "slug": "synology",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "synopsys",
+    "name": "Synopsys",
+    "slug": "synopsys",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ta-digital",
+    "name": "Ta Digital",
+    "slug": "ta-digital",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tableau",
+    "name": "Tableau",
+    "slug": "tableau",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tally-solutions",
+    "name": "Tally Solutions",
+    "slug": "tally-solutions",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tanium",
+    "name": "Tanium",
+    "slug": "tanium",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "target",
+    "name": "Target",
+    "slug": "target",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tcs",
+    "name": "Tcs",
+    "slug": "tcs",
+    "questionCounts": {
+      "all": 191,
+      "moreThanSixMonths": 162
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tech-mahindra",
+    "name": "Tech Mahindra",
+    "slug": "tech-mahindra",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tekion",
+    "name": "Tekion",
+    "slug": "tekion",
+    "questionCounts": {
+      "all": 19,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tencent",
+    "name": "Tencent",
+    "slug": "tencent",
+    "questionCounts": {
+      "all": 13,
+      "moreThanSixMonths": 12
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "teradata",
+    "name": "Teradata",
+    "slug": "teradata",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tesco",
+    "name": "Tesco",
+    "slug": "tesco",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "slug": "tesla",
+    "questionCounts": {
+      "all": 49,
+      "moreThanSixMonths": 37
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "texas-instruments",
+    "name": "Texas Instruments",
+    "slug": "texas-instruments",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "the-trade-desk",
+    "name": "The Trade Desk",
+    "slug": "the-trade-desk",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "thomson-reuters",
+    "name": "Thomson Reuters",
+    "slug": "thomson-reuters",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "thoughtspot",
+    "name": "Thoughtspot",
+    "slug": "thoughtspot",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "thoughtworks",
+    "name": "Thoughtworks",
+    "slug": "thoughtworks",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "thousandeyes",
+    "name": "Thousandeyes",
+    "slug": "thousandeyes",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "thumbtack",
+    "name": "Thumbtack",
+    "slug": "thumbtack",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tiaa",
+    "name": "Tiaa",
+    "slug": "tiaa",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tiger-analytics",
+    "name": "Tiger Analytics",
+    "slug": "tiger-analytics",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tiktok",
+    "name": "Tiktok",
+    "slug": "tiktok",
+    "questionCounts": {
+      "all": 446,
+      "moreThanSixMonths": 401
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tinder",
+    "name": "Tinder",
+    "slug": "tinder",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tinkoff",
+    "name": "Tinkoff",
+    "slug": "tinkoff",
+    "questionCounts": {
+      "all": 33,
+      "moreThanSixMonths": 30
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "toast",
+    "name": "Toast",
+    "slug": "toast",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tokopedia",
+    "name": "Tokopedia",
+    "slug": "tokopedia",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tomtom",
+    "name": "Tomtom",
+    "slug": "tomtom",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "toptal",
+    "name": "Toptal",
+    "slug": "toptal",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tower-research",
+    "name": "Tower Research",
+    "slug": "tower-research",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tracxn",
+    "name": "Tracxn",
+    "slug": "tracxn",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "traveloka",
+    "name": "Traveloka",
+    "slug": "traveloka",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "trexquant",
+    "name": "Trexquant",
+    "slug": "trexquant",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "trilogy",
+    "name": "Trilogy",
+    "slug": "trilogy",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tripadvisor",
+    "name": "Tripadvisor",
+    "slug": "tripadvisor",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "triplebyte",
+    "name": "Triplebyte",
+    "slug": "triplebyte",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "turing",
+    "name": "Turing",
+    "slug": "turing",
+    "questionCounts": {
+      "all": 41,
+      "moreThanSixMonths": 33
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "turo",
+    "name": "Turo",
+    "slug": "turo",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "turvo",
+    "name": "Turvo",
+    "slug": "turvo",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "tusimple",
+    "name": "Tusimple",
+    "slug": "tusimple",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "twilio",
+    "name": "Twilio",
+    "slug": "twilio",
+    "questionCounts": {
+      "all": 14,
+      "moreThanSixMonths": 10
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "slug": "twitch",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "twitter",
+    "name": "Twitter",
+    "slug": "twitter",
+    "questionCounts": {
+      "all": 52,
+      "moreThanSixMonths": 49
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "two-sigma",
+    "name": "Two Sigma",
+    "slug": "two-sigma",
+    "questionCounts": {
+      "all": 22,
+      "moreThanSixMonths": 21
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "slug": "uber",
+    "questionCounts": {
+      "all": 529,
+      "moreThanSixMonths": 483
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ubisoft",
+    "name": "Ubisoft",
+    "slug": "ubisoft",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "ubs",
+    "name": "Ubs",
+    "slug": "ubs",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "uipath",
+    "name": "Uipath",
+    "slug": "uipath",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ukg",
+    "name": "Ukg",
+    "slug": "ukg",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "unbxd",
+    "name": "Unbxd",
+    "slug": "unbxd",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "unity",
+    "name": "Unity",
+    "slug": "unity",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "unstop",
+    "name": "Unstop",
+    "slug": "unstop",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "upstart",
+    "name": "Upstart",
+    "slug": "upstart",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "upstox",
+    "name": "Upstox",
+    "slug": "upstox",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "urban-company",
+    "name": "Urban Company",
+    "slug": "urban-company",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "usaa",
+    "name": "Usaa",
+    "slug": "usaa",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ust",
+    "name": "Ust",
+    "slug": "ust",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "valve",
+    "name": "Valve",
+    "slug": "valve",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "vanguard",
+    "name": "Vanguard",
+    "slug": "vanguard",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "veeva",
+    "name": "Veeva",
+    "slug": "veeva",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "verily",
+    "name": "Verily",
+    "slug": "verily",
+    "questionCounts": {
+      "all": 12,
+      "moreThanSixMonths": 11
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "veritas",
+    "name": "Veritas",
+    "slug": "veritas",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "verizon",
+    "name": "Verizon",
+    "slug": "verizon",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "verkada",
+    "name": "Verkada",
+    "slug": "verkada",
+    "questionCounts": {
+      "all": 16,
+      "moreThanSixMonths": 14
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "viasat",
+    "name": "Viasat",
+    "slug": "viasat",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "vimeo",
+    "name": "Vimeo",
+    "slug": "vimeo",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "virtu",
+    "name": "Virtu",
+    "slug": "virtu",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "virtusa",
+    "name": "Virtusa",
+    "slug": "virtusa",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "visa",
+    "name": "Visa",
+    "slug": "visa",
+    "questionCounts": {
+      "all": 84,
+      "moreThanSixMonths": 55
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "vk",
+    "name": "Vk",
+    "slug": "vk",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "vmware",
+    "name": "Vmware",
+    "slug": "vmware",
+    "questionCounts": {
+      "all": 17,
+      "moreThanSixMonths": 14
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "walmart-labs",
+    "name": "Walmart Labs",
+    "slug": "walmart-labs",
+    "questionCounts": {
+      "all": 169,
+      "moreThanSixMonths": 147
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "warnermedia",
+    "name": "Warnermedia",
+    "slug": "warnermedia",
+    "questionCounts": {
+      "all": 11,
+      "moreThanSixMonths": 8
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "watchguard",
+    "name": "Watchguard",
+    "slug": "watchguard",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wayfair",
+    "name": "Wayfair",
+    "slug": "wayfair",
+    "questionCounts": {
+      "all": 24,
+      "moreThanSixMonths": 22
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "waymo",
+    "name": "Waymo",
+    "slug": "waymo",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wayve",
+    "name": "Wayve",
+    "slug": "wayve",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wealthfront",
+    "name": "Wealthfront",
+    "slug": "wealthfront",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wells-fargo",
+    "name": "Wells Fargo",
+    "slug": "wells-fargo",
+    "questionCounts": {
+      "all": 14,
+      "moreThanSixMonths": 13
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "weride",
+    "name": "Weride",
+    "slug": "weride",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "western-digital",
+    "name": "Western Digital",
+    "slug": "western-digital",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "whatfix",
+    "name": "Whatfix",
+    "slug": "whatfix",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "whatnot",
+    "name": "Whatnot",
+    "slug": "whatnot",
+    "questionCounts": {
+      "all": 7,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "winzo",
+    "name": "Winzo",
+    "slug": "winzo",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wipro",
+    "name": "Wipro",
+    "slug": "wipro",
+    "questionCounts": {
+      "all": 25,
+      "moreThanSixMonths": 21
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wise",
+    "name": "Wise",
+    "slug": "wise",
+    "questionCounts": {
+      "all": 5,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wish",
+    "name": "Wish",
+    "slug": "wish",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wissen",
+    "name": "Wissen",
+    "slug": "wissen",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "wix",
+    "name": "Wix",
+    "slug": "wix",
+    "questionCounts": {
+      "all": 57,
+      "moreThanSixMonths": 49
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "workday",
+    "name": "Workday",
+    "slug": "workday",
+    "questionCounts": {
+      "all": 8,
+      "moreThanSixMonths": 6
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "works-applications",
+    "name": "Works Applications",
+    "slug": "works-applications",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "worldquant",
+    "name": "Worldquant",
+    "slug": "worldquant",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "woven-by-toyota",
+    "name": "Woven By Toyota",
+    "slug": "woven-by-toyota",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "xiaomi",
+    "name": "Xiaomi",
+    "slug": "xiaomi",
+    "questionCounts": {
+      "all": 1
+    },
+    "availablePeriods": [
+      "all"
+    ]
+  },
+  {
+    "id": "xing",
+    "name": "Xing",
+    "slug": "xing",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "yahoo",
+    "name": "Yahoo",
+    "slug": "yahoo",
+    "questionCounts": {
+      "all": 301,
+      "moreThanSixMonths": 297
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "yandex",
+    "name": "Yandex",
+    "slug": "yandex",
+    "questionCounts": {
+      "all": 144,
+      "moreThanSixMonths": 130
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "yatra",
+    "name": "Yatra",
+    "slug": "yatra",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "yelp",
+    "name": "Yelp",
+    "slug": "yelp",
+    "questionCounts": {
+      "all": 29,
+      "moreThanSixMonths": 28
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "yext",
+    "name": "Yext",
+    "slug": "yext",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zalando",
+    "name": "Zalando",
+    "slug": "zalando",
+    "questionCounts": {
+      "all": 6,
+      "moreThanSixMonths": 5
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zappos",
+    "name": "Zappos",
+    "slug": "zappos",
+    "questionCounts": {
+      "all": 1,
+      "moreThanSixMonths": 1
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zemoso",
+    "name": "Zemoso",
+    "slug": "zemoso",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zendesk",
+    "name": "Zendesk",
+    "slug": "zendesk",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zenefits",
+    "name": "Zenefits",
+    "slug": "zenefits",
+    "questionCounts": {
+      "all": 21,
+      "moreThanSixMonths": 21
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zepto",
+    "name": "Zepto",
+    "slug": "zepto",
+    "questionCounts": {
+      "all": 31,
+      "moreThanSixMonths": 29
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zeta",
+    "name": "Zeta",
+    "slug": "zeta",
+    "questionCounts": {
+      "all": 25,
+      "moreThanSixMonths": 15
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zeta-suite",
+    "name": "Zeta Suite",
+    "slug": "zeta-suite",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zillow",
+    "name": "Zillow",
+    "slug": "zillow",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zip",
+    "name": "Zip",
+    "slug": "zip",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "ziprecruiter",
+    "name": "Ziprecruiter",
+    "slug": "ziprecruiter",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zluri",
+    "name": "Zluri",
+    "slug": "zluri",
+    "questionCounts": {
+      "all": 2,
+      "moreThanSixMonths": 2
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zoho",
+    "name": "Zoho",
+    "slug": "zoho",
+    "questionCounts": {
+      "all": 164,
+      "moreThanSixMonths": 134
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "slug": "zomato",
+    "questionCounts": {
+      "all": 25,
+      "moreThanSixMonths": 21
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zoom",
+    "name": "Zoom",
+    "slug": "zoom",
+    "questionCounts": {
+      "all": 3,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zoox",
+    "name": "Zoox",
+    "slug": "zoox",
+    "questionCounts": {
+      "all": 9,
+      "moreThanSixMonths": 4
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zopsmart",
+    "name": "Zopsmart",
+    "slug": "zopsmart",
+    "questionCounts": {
+      "all": 19,
+      "moreThanSixMonths": 14
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zs-associates",
+    "name": "Zs Associates",
+    "slug": "zs-associates",
+    "questionCounts": {
+      "all": 10,
+      "moreThanSixMonths": 7
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zscaler",
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "questionCounts": {
+      "all": 23,
+      "moreThanSixMonths": 19
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  },
+  {
+    "id": "zynga",
+    "name": "Zynga",
+    "slug": "zynga",
+    "questionCounts": {
+      "all": 4,
+      "moreThanSixMonths": 3
+    },
+    "availablePeriods": [
+      "all",
+      "moreThanSixMonths"
+    ]
+  }
+]
