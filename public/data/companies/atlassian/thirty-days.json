@@ -1,0 +1,72 @@
+[
+  {
+    "id": 2034,
+    "title": "Stock Price Fluctuation",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/stock-price-fluctuation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 432,
+    "title": "All O`one Data Structure",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/all-oone-data-structure",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 253,
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2933,
+    "title": "High-Access Employees",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/high-access-employees",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 236,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 67,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1676,
+    "title": "Lowest Common Ancestor of a Binary Tree IV",
+    "difficulty": "Medium",
+    "acceptanceRate": 79.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 353,
+    "title": "Design Snake Game",
+    "difficulty": "Medium",
+    "acceptanceRate": 39.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-snake-game",
+    "tags": [],
+    "isPremium": false
+  }
+]

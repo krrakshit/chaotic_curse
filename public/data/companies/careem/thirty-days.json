@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1094,
+    "title": "Car Pooling",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/car-pooling",
+    "tags": [],
+    "isPremium": false
+  }
+]

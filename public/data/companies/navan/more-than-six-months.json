@@ -1,0 +1,32 @@
+[
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 256,
+    "title": "Paint House",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/paint-house",
+    "tags": [],
+    "isPremium": false
+  }
+]

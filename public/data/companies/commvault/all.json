@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2062,
+    "title": "Count Vowel Substrings of a String",
+    "difficulty": "Easy",
+    "acceptanceRate": 71.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 25,
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "acceptanceRate": 63.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 673,
+    "title": "Number of Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 91,
+    "title": "Decode Ways",
+    "difficulty": "Medium",
+    "acceptanceRate": 36.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/decode-ways",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2316,
+    "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 754,
+    "title": "Reach a Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/reach-a-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1861,
+    "title": "Rotating the Box",
+    "difficulty": "Medium",
+    "acceptanceRate": 79.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/rotating-the-box",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 162,
+    "title": "Find Peak Element",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-peak-element",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/add-two-numbers",
+    "tags": [],
+    "isPremium": false
+  }
+]

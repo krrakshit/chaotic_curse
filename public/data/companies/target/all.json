@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2246,
+    "title": "Longest Path With Different Adjacent Characters",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1352,
+    "title": "Product of the Last K Numbers",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sort-colors",
+    "tags": [],
+    "isPremium": false
+  }
+]

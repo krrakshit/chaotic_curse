@@ -18,9 +18,11 @@ export interface Question {
     questionCounts: {
       underSixMonths?: number;
       moreThanSixMonths?: number;
+      threeMonths?: number;
+      thirtyDays?: number;
       all?: number;
     };
-    availablePeriods: string[]; // Available CSV files for this company
+    availablePeriods: string[]; // Available CSV/JSON files for this company
   }
   
   export interface CompanyQuestions {
@@ -28,8 +30,10 @@ export interface Question {
     questions: {
       underSixMonths?: Question[];
       moreThanSixMonths?: Question[];
+      threeMonths?: Question[];
+      thirtyDays?: Question[];
       all?: Question[];
     };
   }
   
-  export type TimePeriod = 'underSixMonths' | 'moreThanSixMonths' | 'all';
+  export type TimePeriod = 'underSixMonths' | 'moreThanSixMonths' | 'threeMonths' | 'thirtyDays' | 'all';

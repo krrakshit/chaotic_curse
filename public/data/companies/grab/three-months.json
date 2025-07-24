@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1404,
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 721,
+    "title": "Accounts Merge",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/accounts-merge",
+    "tags": [],
+    "isPremium": false
+  }
+]

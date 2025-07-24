@@ -1,0 +1,262 @@
+[
+  {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "acceptanceRate": 57,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 733,
+    "title": "Flood Fill",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/flood-fill",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 273,
+    "title": "Integer to English Words",
+    "difficulty": "Hard",
+    "acceptanceRate": 34.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/integer-to-english-words",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2918,
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 427,
+    "title": "Construct Quad Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 77.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/construct-quad-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 245,
+    "title": "Shortest Word Distance III",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/shortest-word-distance-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2192,
+    "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 407,
+    "title": "Trapping Rain Water II",
+    "difficulty": "Hard",
+    "acceptanceRate": 58.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2312,
+    "title": "Selling Pieces of Wood",
+    "difficulty": "Hard",
+    "acceptanceRate": 51.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/selling-pieces-of-wood",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 325,
+    "title": "Maximum Size Subarray Sum Equals k",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1232,
+    "title": "Check If It Is a Straight Line",
+    "difficulty": "Easy",
+    "acceptanceRate": 39.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3008,
+    "title": "Find Beautiful Indices in the Given Array II",
+    "difficulty": "Hard",
+    "acceptanceRate": 26.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 136,
+    "title": "Single Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 76.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/single-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3006,
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 219,
+    "title": "Contains Duplicate II",
+    "difficulty": "Easy",
+    "acceptanceRate": 49.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/contains-duplicate-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 303,
+    "title": "Range Sum Query - Immutable",
+    "difficulty": "Easy",
+    "acceptanceRate": 68.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/range-sum-query-immutable",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 217,
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "acceptanceRate": 63.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/contains-duplicate",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 539,
+    "title": "Minimum Time Difference",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-time-difference",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 220,
+    "title": "Contains Duplicate III",
+    "difficulty": "Hard",
+    "acceptanceRate": 23.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/contains-duplicate-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2225,
+    "title": "Find Players With Zero or One Losses",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2964,
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 721,
+    "title": "Accounts Merge",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/accounts-merge",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  }
+]

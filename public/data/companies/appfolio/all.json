@@ -1,0 +1,42 @@
+[
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1293,
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 359,
+    "title": "Logger Rate Limiter",
+    "difficulty": "Easy",
+    "acceptanceRate": 76.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/logger-rate-limiter",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  }
+]

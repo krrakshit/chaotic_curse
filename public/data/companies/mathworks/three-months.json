@@ -1,0 +1,32 @@
+[
+  {
+    "id": 968,
+    "title": "Binary Tree Cameras",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/binary-tree-cameras",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1648,
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "difficulty": "Medium",
+    "acceptanceRate": 30,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 638,
+    "title": "Shopping Offers",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/shopping-offers",
+    "tags": [],
+    "isPremium": false
+  }
+]

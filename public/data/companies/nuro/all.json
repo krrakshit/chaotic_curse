@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1476,
+    "title": "Subrectangle Queries",
+    "difficulty": "Medium",
+    "acceptanceRate": 86,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/subrectangle-queries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1293,
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1610,
+    "title": "Maximum Number of Visible Points",
+    "difficulty": "Hard",
+    "acceptanceRate": 37.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 97,
+    "title": "Interleaving String",
+    "difficulty": "Medium",
+    "acceptanceRate": 42.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/interleaving-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 346,
+    "title": "Moving Average from Data Stream",
+    "difficulty": "Easy",
+    "acceptanceRate": 80,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 399,
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 986,
+    "title": "Interval List Intersections",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/interval-list-intersections",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 356,
+    "title": "Line Reflection",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/line-reflection",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1188,
+    "title": "Design Bounded Blocking Queue",
+    "difficulty": "Medium",
+    "acceptanceRate": 73,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2484,
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "Hard",
+    "acceptanceRate": 39.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  }
+]

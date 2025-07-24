@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 4,
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "acceptanceRate": 44,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 961,
+    "title": "N-Repeated Element in Size 2N Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 77.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1008,
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "difficulty": "Medium",
+    "acceptanceRate": 83.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 409,
+    "title": "Longest Palindrome",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindrome",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1010,
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "tags": [],
+    "isPremium": false
+  }
+]

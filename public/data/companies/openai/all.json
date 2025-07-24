@@ -1,0 +1,112 @@
+[
+  {
+    "id": 71,
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/simplify-path",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 631,
+    "title": "Design Excel Sum Formula",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/design-excel-sum-formula",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1242,
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2408,
+    "title": "Design SQL",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/design-sql",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 981,
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/time-based-key-value-store",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 733,
+    "title": "Flood Fill",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/flood-fill",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 341,
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 271,
+    "title": "Encode and Decode Strings",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/encode-and-decode-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2502,
+    "title": "Design Memory Allocator",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/design-memory-allocator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2373,
+    "title": "Largest Local Values in a Matrix",
+    "difficulty": "Easy",
+    "acceptanceRate": 87.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/largest-local-values-in-a-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  }
+]

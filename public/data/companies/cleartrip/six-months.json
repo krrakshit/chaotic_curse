@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1368,
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "difficulty": "Hard",
+    "acceptanceRate": 70.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "tags": [],
+    "isPremium": false
+  }
+]

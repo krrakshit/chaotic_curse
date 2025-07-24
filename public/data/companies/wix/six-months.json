@@ -1,0 +1,82 @@
+[
+  {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 789,
+    "title": "Escape The Ghosts",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/escape-the-ghosts",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 78,
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "acceptanceRate": 81,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/subsets",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1650,
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "difficulty": "Medium",
+    "acceptanceRate": 82.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 420,
+    "title": "Strong Password Checker",
+    "difficulty": "Hard",
+    "acceptanceRate": 14.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/strong-password-checker",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 317,
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1162,
+    "title": "As Far from Land as Possible",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "tags": [],
+    "isPremium": false
+  }
+]

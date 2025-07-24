@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7,
+    "title": "Reverse Integer",
+    "difficulty": "Medium",
+    "acceptanceRate": 30.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/reverse-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1755,
+    "title": "Closest Subsequence Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/closest-subsequence-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2747,
+    "title": "Count Zero Request Servers",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-zero-request-servers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2271,
+    "title": "Maximum White Tiles Covered by a Carpet",
+    "difficulty": "Medium",
+    "acceptanceRate": 35,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet",
+    "tags": [],
+    "isPremium": false
+  }
+]

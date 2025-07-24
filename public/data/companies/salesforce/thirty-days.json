@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2571,
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3295,
+    "title": "Report Spam Message",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/report-spam-message",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3607,
+    "title": "Power Grid Maintenance",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/power-grid-maintenance",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1143,
+    "title": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-common-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 628,
+    "title": "Maximum Product of Three Numbers",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 460,
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lfu-cache",
+    "tags": [],
+    "isPremium": false
+  }
+]

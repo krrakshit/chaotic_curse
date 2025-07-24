@@ -1,0 +1,152 @@
+[
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 460,
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lfu-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 399,
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2050,
+    "title": "Parallel Courses III",
+    "difficulty": "Hard",
+    "acceptanceRate": 66.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/parallel-courses-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2484,
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "Hard",
+    "acceptanceRate": 39.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/palindromic-substrings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 287,
+    "title": "Find the Duplicate Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 63,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-the-duplicate-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1229,
+    "title": "Meeting Scheduler",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/meeting-scheduler",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 759,
+    "title": "Employee Free Time",
+    "difficulty": "Hard",
+    "acceptanceRate": 72.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/employee-free-time",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1606,
+    "title": "Find Servers That Handled Most Number of Requests",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  }
+]

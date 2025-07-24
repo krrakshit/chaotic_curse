@@ -1,0 +1,32 @@
+[
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1482,
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2616,
+    "title": "Minimize the Maximum Difference of Pairs",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs",
+    "tags": [],
+    "isPremium": false
+  }
+]

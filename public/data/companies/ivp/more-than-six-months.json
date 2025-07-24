@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3376,
+    "title": "Minimum Time to Break Locks I",
+    "difficulty": "Medium",
+    "acceptanceRate": 30.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-time-to-break-locks-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3385,
+    "title": "Minimum Time to Break Locks II",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-time-to-break-locks-ii",
+    "tags": [],
+    "isPremium": false
+  }
+]

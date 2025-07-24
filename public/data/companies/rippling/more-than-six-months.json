@@ -1,0 +1,112 @@
+[
+  {
+    "id": 4,
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "acceptanceRate": 44,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 399,
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1258,
+    "title": "Synonymous Sentences",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/synonymous-sentences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 690,
+    "title": "Employee Importance",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/employee-importance",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 631,
+    "title": "Design Excel Sum Formula",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/design-excel-sum-formula",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1046,
+    "title": "Last Stone Weight",
+    "difficulty": "Easy",
+    "acceptanceRate": 66,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/last-stone-weight",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 465,
+    "title": "Optimal Account Balancing",
+    "difficulty": "Hard",
+    "acceptanceRate": 50,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/optimal-account-balancing",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 721,
+    "title": "Accounts Merge",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/accounts-merge",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1944,
+    "title": "Number of Visible People in a Queue",
+    "difficulty": "Hard",
+    "acceptanceRate": 71.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3387,
+    "title": "Maximize Amount After Two Days of Conversions",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2121,
+    "title": "Intervals Between Identical Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 45,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/intervals-between-identical-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2539,
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2585,
+    "title": "Number of Ways to Earn Points",
+    "difficulty": "Hard",
+    "acceptanceRate": 58.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-ways-to-earn-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2151,
+    "title": "Maximum Good People Based on Statements",
+    "difficulty": "Hard",
+    "acceptanceRate": 51.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-good-people-based-on-statements",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 410,
+    "title": "Split Array Largest Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 58.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/split-array-largest-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 132,
+    "title": "Palindrome Partitioning II",
+    "difficulty": "Hard",
+    "acceptanceRate": 35.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/palindrome-partitioning-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 475,
+    "title": "Heaters",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/heaters",
+    "tags": [],
+    "isPremium": false
+  }
+]

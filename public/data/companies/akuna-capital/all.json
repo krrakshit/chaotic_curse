@@ -1,0 +1,232 @@
+[
+  {
+    "id": 38,
+    "title": "Count and Say",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-and-say",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2895,
+    "title": "Minimum Processing Time",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-processing-time",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 677,
+    "title": "Map Sum Pairs",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/map-sum-pairs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 733,
+    "title": "Flood Fill",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/flood-fill",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 740,
+    "title": "Delete and Earn",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/delete-and-earn",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 741,
+    "title": "Cherry Pickup",
+    "difficulty": "Hard",
+    "acceptanceRate": 38,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/cherry-pickup",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 743,
+    "title": "Network Delay Time",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/network-delay-time",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1649,
+    "title": "Create Sorted Array through Instructions",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/create-sorted-array-through-instructions",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1665,
+    "title": "Minimum Initial Energy to Finish Tasks",
+    "difficulty": "Hard",
+    "acceptanceRate": 59.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1177,
+    "title": "Can Make Palindrome from Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/can-make-palindrome-from-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1425,
+    "title": "Constrained Subsequence Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 56.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/constrained-subsequence-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1223,
+    "title": "Dice Roll Simulation",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/dice-roll-simulation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2204,
+    "title": "Distance to a Cycle in Undirected Graph",
+    "difficulty": "Hard",
+    "acceptanceRate": 72.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1819,
+    "title": "Number of Different Subsequences GCDs",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1319,
+    "title": "Number of Operations to Make Network Connected",
+    "difficulty": "Medium",
+    "acceptanceRate": 65,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1326,
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1338,
+    "title": "Reduce Array Size to The Half",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/reduce-array-size-to-the-half",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1370,
+    "title": "Increasing Decreasing String",
+    "difficulty": "Easy",
+    "acceptanceRate": 76.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/increasing-decreasing-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2497,
+    "title": "Maximum Star Sum of a Graph",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-star-sum-of-a-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1636,
+    "title": "Sort Array by Increasing Frequency",
+    "difficulty": "Easy",
+    "acceptanceRate": 80.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1235,
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "Hard",
+    "acceptanceRate": 54.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1192,
+    "title": "Critical Connections in a Network",
+    "difficulty": "Hard",
+    "acceptanceRate": 58,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/critical-connections-in-a-network",
+    "tags": [],
+    "isPremium": false
+  }
+]

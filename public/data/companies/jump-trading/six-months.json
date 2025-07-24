@@ -1,0 +1,22 @@
+[
+  {
+    "id": 60,
+    "title": "Permutation Sequence",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/permutation-sequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 202,
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 58.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/happy-number",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1235,
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "Hard",
+    "acceptanceRate": 54.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1257,
+    "title": "Smallest Common Region",
+    "difficulty": "Medium",
+    "acceptanceRate": 68,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/smallest-common-region",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2043,
+    "title": "Simple Bank System",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/simple-bank-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 68,
+    "title": "Text Justification",
+    "difficulty": "Hard",
+    "acceptanceRate": 48.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/text-justification",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 251,
+    "title": "Flatten 2D Vector",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/flatten-2d-vector",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 755,
+    "title": "Pour Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 48,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/pour-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "acceptanceRate": 53,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 39,
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 74.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/combination-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 348,
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/design-tic-tac-toe",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 605,
+    "title": "Can Place Flowers",
+    "difficulty": "Easy",
+    "acceptanceRate": 28.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/can-place-flowers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3076,
+    "title": "Shortest Uncommon Substring in an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 631,
+    "title": "Design Excel Sum Formula",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/design-excel-sum-formula",
+    "tags": [],
+    "isPremium": false
+  }
+]

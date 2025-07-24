@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1381,
+    "title": "Design a Stack With Increment Operation",
+    "difficulty": "Medium",
+    "acceptanceRate": 80.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 253,
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 540,
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1048,
+    "title": "Longest String Chain",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-string-chain",
+    "tags": [],
+    "isPremium": false
+  }
+]

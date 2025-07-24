@@ -1,0 +1,82 @@
+[
+  {
+    "id": 323,
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1904,
+    "title": "The Number of Full Rounds You Have Played",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/the-number-of-full-rounds-you-have-played",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 41,
+    "title": "First Missing Positive",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/first-missing-positive",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 64,
+    "title": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-path-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2899,
+    "title": "Last Visited Integers",
+    "difficulty": "Easy",
+    "acceptanceRate": 61.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/last-visited-integers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1637,
+    "title": "Widest Vertical Area Between Two Points Containing No Points",
+    "difficulty": "Easy",
+    "acceptanceRate": 87.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1570,
+    "title": "Dot Product of Two Sparse Vectors",
+    "difficulty": "Medium",
+    "acceptanceRate": 89.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+    "tags": [],
+    "isPremium": false
+  }
+]

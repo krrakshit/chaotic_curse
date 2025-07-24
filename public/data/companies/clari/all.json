@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2196,
+    "title": "Create Binary Tree From Descriptions",
+    "difficulty": "Medium",
+    "acceptanceRate": 81.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 96,
+    "title": "Unique Binary Search Trees",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/unique-binary-search-trees",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1875,
+    "title": "Group Employees of the Same Salary",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+    "tags": [],
+    "isPremium": false
+  }
+]

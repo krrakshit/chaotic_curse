@@ -1,0 +1,202 @@
+[
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 13,
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "acceptanceRate": 65,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/roman-to-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1465,
+    "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 557,
+    "title": "Reverse Words in a String III",
+    "difficulty": "Easy",
+    "acceptanceRate": 83.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2876,
+    "title": "Count Visited Nodes in a Directed Graph",
+    "difficulty": "Hard",
+    "acceptanceRate": 29.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2910,
+    "title": "Minimum Number of Groups to Create a Valid Assignment",
+    "difficulty": "Medium",
+    "acceptanceRate": 24,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 134,
+    "title": "Gas Station",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/gas-station",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/palindromic-substrings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2615,
+    "title": "Sum of Distances",
+    "difficulty": "Medium",
+    "acceptanceRate": 31.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sum-of-distances",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3012,
+    "title": "Minimize Length of Array Using Operations",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1326,
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2062,
+    "title": "Count Vowel Substrings of a String",
+    "difficulty": "Easy",
+    "acceptanceRate": 71.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3251,
+    "title": "Find the Count of Monotonic Pairs II",
+    "difficulty": "Hard",
+    "acceptanceRate": 23.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2462,
+    "title": "Total Cost to Hire K Workers",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 853,
+    "title": "Car Fleet",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/car-fleet",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  }
+]

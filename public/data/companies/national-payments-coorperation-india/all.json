@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3152,
+    "title": "Special Array II",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/special-array-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3151,
+    "title": "Special Array I",
+    "difficulty": "Easy",
+    "acceptanceRate": 81.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/special-array-i",
+    "tags": [],
+    "isPremium": false
+  }
+]

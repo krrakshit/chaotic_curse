@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 4,
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "acceptanceRate": 44,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 13,
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "acceptanceRate": 65,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/roman-to-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-common-prefix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 68,
+    "title": "Text Justification",
+    "difficulty": "Hard",
+    "acceptanceRate": 48.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/text-justification",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 74,
+    "title": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/search-a-2d-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 79,
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/word-search",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 151,
+    "title": "Reverse Words in a String",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 309,
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1606,
+    "title": "Find Servers That Handled Most Number of Requests",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/daily-temperatures",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 796,
+    "title": "Rotate String",
+    "difficulty": "Easy",
+    "acceptanceRate": 64.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/rotate-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2468,
+    "title": "Split Message Based on Limit",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/split-message-based-on-limit",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 214,
+    "title": "Shortest Palindrome",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/shortest-palindrome",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3046,
+    "title": "Split the Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 59.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/split-the-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1389,
+    "title": "Create Target Array in the Given Order",
+    "difficulty": "Easy",
+    "acceptanceRate": 86.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/create-target-array-in-the-given-order",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1353,
+    "title": "Maximum Number of Events That Can Be Attended",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2136,
+    "title": "Earliest Possible Day of Full Bloom",
+    "difficulty": "Hard",
+    "acceptanceRate": 71.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/earliest-possible-day-of-full-bloom",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2451,
+    "title": "Odd String Difference",
+    "difficulty": "Easy",
+    "acceptanceRate": 61.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/odd-string-difference",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2078,
+    "title": "Two Furthest Houses With Different Colors",
+    "difficulty": "Easy",
+    "acceptanceRate": 65.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/two-furthest-houses-with-different-colors",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3078,
+    "title": "Match Alphanumerical Pattern in Matrix I",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1025,
+    "title": "Divisor Game",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/divisor-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2049,
+    "title": "Count Nodes With the Highest Score",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/count-nodes-with-the-highest-score",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 286,
+    "title": "Walls and Gates",
+    "difficulty": "Medium",
+    "acceptanceRate": 63,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/walls-and-gates",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 207,
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/course-schedule",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 968,
+    "title": "Binary Tree Cameras",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/binary-tree-cameras",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2593,
+    "title": "Find Score of an Array After Marking All Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3043,
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 25,
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "acceptanceRate": 63.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1497,
+    "title": "Check If Array Pairs Are Divisible by k",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/valid-sudoku",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 93,
+    "title": "Restore IP Addresses",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/restore-ip-addresses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 543,
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 63.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1861,
+    "title": "Rotating the Box",
+    "difficulty": "Medium",
+    "acceptanceRate": 79.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/rotating-the-box",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 661,
+    "title": "Image Smoother",
+    "difficulty": "Easy",
+    "acceptanceRate": 68.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/image-smoother",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 9,
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 59.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/palindrome-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3161,
+    "title": "Block Placement Queries",
+    "difficulty": "Hard",
+    "acceptanceRate": 17,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/block-placement-queries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 176,
+    "title": "Second Highest Salary",
+    "difficulty": "Medium",
+    "acceptanceRate": 44.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/second-highest-salary",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 71,
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/simplify-path",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1438,
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 189,
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/rotate-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

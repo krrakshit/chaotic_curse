@@ -1,0 +1,12 @@
+[
+  {
+    "id": 2334,
+    "title": "Subarray With Elements Greater Than Varying Threshold",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+    "tags": [],
+    "isPremium": false
+  }
+]

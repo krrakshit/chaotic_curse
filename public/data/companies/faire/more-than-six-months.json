@@ -1,0 +1,22 @@
+[
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 845,
+    "title": "Longest Mountain in Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-mountain-in-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

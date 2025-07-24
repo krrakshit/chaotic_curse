@@ -1,0 +1,402 @@
+[
+  {
+    "id": 277,
+    "title": "Find the Celebrity",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-the-celebrity",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 35.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximum-product-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 156,
+    "title": "Binary Tree Upside Down",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/binary-tree-upside-down",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 432,
+    "title": "All O`one Data Structure",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/all-oone-data-structure",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 716,
+    "title": "Max Stack",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/max-stack",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 364,
+    "title": "Nested List Weight Sum II",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 366,
+    "title": "Find Leaves of Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 81.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 244,
+    "title": "Shortest Word Distance II",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 127,
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "acceptanceRate": 43.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/word-ladder",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 47,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 64,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 339,
+    "title": "Nested List Weight Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 85.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/nested-list-weight-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 341,
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 605,
+    "title": "Can Place Flowers",
+    "difficulty": "Easy",
+    "acceptanceRate": 28.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/can-place-flowers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 516,
+    "title": "Longest Palindromic Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-palindromic-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 256,
+    "title": "Paint House",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/paint-house",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 373,
+    "title": "Find K Pairs with Smallest Sums",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 698,
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/minimum-window-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/powx-n",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2040,
+    "title": "Kth Smallest Product of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "acceptanceRate": 49.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 272,
+    "title": "Closest Binary Search Tree Value II",
+    "difficulty": "Hard",
+    "acceptanceRate": 60.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 360,
+    "title": "Sort Transformed Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sort-transformed-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 265,
+    "title": "Paint House II",
+    "difficulty": "Hard",
+    "acceptanceRate": 56.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/paint-house-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 297,
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "acceptanceRate": 59.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2276,
+    "title": "Count Integers in Intervals",
+    "difficulty": "Hard",
+    "acceptanceRate": 34.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/count-integers-in-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 126,
+    "title": "Word Ladder II",
+    "difficulty": "Hard",
+    "acceptanceRate": 27.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/word-ladder-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 254,
+    "title": "Factor Combinations",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/factor-combinations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 721,
+    "title": "Accounts Merge",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/accounts-merge",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 72,
+    "title": "Edit Distance",
+    "difficulty": "Medium",
+    "acceptanceRate": 59,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/edit-distance",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 32,
+    "title": "Longest Valid Parentheses",
+    "difficulty": "Hard",
+    "acceptanceRate": 36.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1882,
+    "title": "Process Tasks Using Servers",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/process-tasks-using-servers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 621,
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/task-scheduler",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 671,
+    "title": "Second Minimum Node In a Binary Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 319,
+    "title": "Bulb Switcher",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/bulb-switcher",
+    "tags": [],
+    "isPremium": false
+  }
+]

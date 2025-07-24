@@ -1,0 +1,62 @@
+[
+  {
+    "id": 981,
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/time-based-key-value-store",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/powx-n",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/set-matrix-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1909,
+    "title": "Remove One Element to Make the Array Strictly Increasing",
+    "difficulty": "Easy",
+    "acceptanceRate": 28.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 581,
+    "title": "Shortest Unsorted Continuous Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+    "tags": [],
+    "isPremium": false
+  }
+]

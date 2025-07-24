@@ -1,0 +1,272 @@
+[
+  {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/add-two-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2058,
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1171,
+    "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1530,
+    "title": "Number of Good Leaf Nodes Pairs",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2181,
+    "title": "Merge Nodes in Between Zeros",
+    "difficulty": "Medium",
+    "acceptanceRate": 89.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/merge-nodes-in-between-zeros",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2606,
+    "title": "Find the Substring With Maximum Cost",
+    "difficulty": "Medium",
+    "acceptanceRate": 57,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-the-substring-with-maximum-cost",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2375,
+    "title": "Construct Smallest Number From DI String",
+    "difficulty": "Medium",
+    "acceptanceRate": 85.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/construct-smallest-number-from-di-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2134,
+    "title": "Minimum Swaps to Group All 1's Together II",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2824,
+    "title": "Count Pairs Whose Sum is Less than Target",
+    "difficulty": "Easy",
+    "acceptanceRate": 87.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 25,
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "acceptanceRate": 63.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2415,
+    "title": "Reverse Odd Levels of Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 86.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 513,
+    "title": "Find Bottom Left Tree Value",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-bottom-left-tree-value",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2130,
+    "title": "Maximum Twin Sum of a Linked List",
+    "difficulty": "Medium",
+    "acceptanceRate": 81.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1448,
+    "title": "Count Good Nodes in Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 73.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 669,
+    "title": "Trim a Binary Search Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/trim-a-binary-search-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 402,
+    "title": "Remove K Digits",
+    "difficulty": "Medium",
+    "acceptanceRate": 35.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/remove-k-digits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 179,
+    "title": "Largest Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/largest-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/daily-temperatures",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1026,
+    "title": "Maximum Difference Between Node and Ancestor",
+    "difficulty": "Medium",
+    "acceptanceRate": 78.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2381,
+    "title": "Shifting Letters II",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/shifting-letters-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 79.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/invert-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2074,
+    "title": "Reverse Nodes in Even Length Groups",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups",
+    "tags": [],
+    "isPremium": false
+  }
+]

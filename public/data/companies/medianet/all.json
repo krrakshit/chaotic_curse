@@ -1,0 +1,412 @@
+[
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1938,
+    "title": "Maximum Genetic Difference Query",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-genetic-difference-query",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 21,
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "acceptanceRate": 67,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 30,
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1959,
+    "title": "Minimum Total Space Wasted With K Resizing Operations",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/valid-sudoku",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2473,
+    "title": "Minimum Cost to Buy Apples",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-cost-to-buy-apples",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 55,
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "acceptanceRate": 39.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/jump-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1994,
+    "title": "The Number of Good Subsets",
+    "difficulty": "Hard",
+    "acceptanceRate": 36,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2479,
+    "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+    "difficulty": "Hard",
+    "acceptanceRate": 49.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2538,
+    "title": "Difference Between Maximum and Minimum Price Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 32,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2852,
+    "title": "Sum of Remoteness of All Cells",
+    "difficulty": "Medium",
+    "acceptanceRate": 70.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2874,
+    "title": "Maximum Value of an Ordered Triplet II",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2873,
+    "title": "Maximum Value of an Ordered Triplet I",
+    "difficulty": "Easy",
+    "acceptanceRate": 58.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 87,
+    "title": "Scramble String",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/scramble-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 114,
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1074,
+    "title": "Number of Submatrices That Sum to Target",
+    "difficulty": "Hard",
+    "acceptanceRate": 74.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 122,
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2572,
+    "title": "Count the Number of Square-Free Subsets",
+    "difficulty": "Medium",
+    "acceptanceRate": 25.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-the-number-of-square-free-subsets",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 169,
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "acceptanceRate": 65.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/majority-element",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 173,
+    "title": "Binary Search Tree Iterator",
+    "difficulty": "Medium",
+    "acceptanceRate": 75,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 193,
+    "title": "Valid Phone Numbers",
+    "difficulty": "Easy",
+    "acceptanceRate": 27.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/valid-phone-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1642,
+    "title": "Furthest Building You Can Reach",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2742,
+    "title": "Painting the Walls",
+    "difficulty": "Hard",
+    "acceptanceRate": 48.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/painting-the-walls",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1222,
+    "title": "Queens That Can Attack the King",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/queens-that-can-attack-the-king",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 834,
+    "title": "Sum of Distances in Tree",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1266,
+    "title": "Minimum Time Visiting All Points",
+    "difficulty": "Easy",
+    "acceptanceRate": 82.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-time-visiting-all-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1787,
+    "title": "Make the XOR of All Segments Equal to Zero",
+    "difficulty": "Hard",
+    "acceptanceRate": 40,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 412,
+    "title": "Fizz Buzz",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/fizz-buzz",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 432,
+    "title": "All O`one Data Structure",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/all-oone-data-structure",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1879,
+    "title": "Minimum XOR Sum of Two Arrays",
+    "difficulty": "Hard",
+    "acceptanceRate": 49.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-xor-sum-of-two-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2835,
+    "title": "Minimum Operations to Form Subsequence With Target Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 31.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2382,
+    "title": "Maximum Segment Sum After Removals",
+    "difficulty": "Hard",
+    "acceptanceRate": 48.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximum-segment-sum-after-removals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 407,
+    "title": "Trapping Rain Water II",
+    "difficulty": "Hard",
+    "acceptanceRate": 58.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1376,
+    "title": "Time Needed to Inform All Employees",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/time-needed-to-inform-all-employees",
+    "tags": [],
+    "isPremium": false
+  }
+]

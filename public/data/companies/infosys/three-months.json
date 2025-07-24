@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3575,
+    "title": "Maximum Good Subtree Score",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-good-subtree-score",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 992,
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "Hard",
+    "acceptanceRate": 66.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "tags": [],
+    "isPremium": false
+  }
+]

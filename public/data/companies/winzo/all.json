@@ -1,0 +1,42 @@
+[
+  {
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "difficulty": "Hard",
+    "acceptanceRate": 29.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/regular-expression-matching",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 632,
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "Hard",
+    "acceptanceRate": 69.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 790,
+    "title": "Domino and Tromino Tiling",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/domino-and-tromino-tiling",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 502,
+    "title": "IPO",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/ipo",
+    "tags": [],
+    "isPremium": false
+  }
+]

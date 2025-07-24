@@ -1,0 +1,22 @@
+[
+  {
+    "id": 772,
+    "title": "Basic Calculator III",
+    "difficulty": "Hard",
+    "acceptanceRate": 52.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/basic-calculator-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 289,
+    "title": "Game of Life",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/game-of-life",
+    "tags": [],
+    "isPremium": false
+  }
+]

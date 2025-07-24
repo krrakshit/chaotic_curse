@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1796,
+    "title": "Second Largest Digit in a String",
+    "difficulty": "Easy",
+    "acceptanceRate": 52.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/second-largest-digit-in-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  }
+]

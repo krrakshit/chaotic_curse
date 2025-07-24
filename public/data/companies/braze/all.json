@@ -1,0 +1,32 @@
+[
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 723,
+    "title": "Candy Crush",
+    "difficulty": "Medium",
+    "acceptanceRate": 77.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/candy-crush",
+    "tags": [],
+    "isPremium": false
+  }
+]

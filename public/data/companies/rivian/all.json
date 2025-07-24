@@ -1,0 +1,92 @@
+[
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2625,
+    "title": "Flatten Deeply Nested Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/flatten-deeply-nested-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 443,
+    "title": "String Compression",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/string-compression",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 796,
+    "title": "Rotate String",
+    "difficulty": "Easy",
+    "acceptanceRate": 64.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/rotate-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "acceptanceRate": 57,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 807,
+    "title": "Max Increase to Keep City Skyline",
+    "difficulty": "Medium",
+    "acceptanceRate": 86.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/max-increase-to-keep-city-skyline",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 697,
+    "title": "Degree of an Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 57.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/degree-of-an-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

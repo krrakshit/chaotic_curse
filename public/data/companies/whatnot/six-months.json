@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "difficulty": "Easy",
+    "acceptanceRate": 71.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 680,
+    "title": "Valid Palindrome II",
+    "difficulty": "Easy",
+    "acceptanceRate": 43.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-palindrome-ii",
+    "tags": [],
+    "isPremium": false
+  }
+]

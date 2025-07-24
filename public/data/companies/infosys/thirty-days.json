@@ -1,0 +1,12 @@
+[
+  {
+    "id": 992,
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "Hard",
+    "acceptanceRate": 66.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "tags": [],
+    "isPremium": false
+  }
+]

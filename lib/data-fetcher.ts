@@ -41,19 +41,24 @@ export async function fetchCompanyQuestions(companySlug: string): Promise<Compan
     // Only fetch files that are available for this company
     for (const period of company.availablePeriods) {
       try {
-        const fileName = CSV_FILE_MAPPING[period as TimePeriod];
-        const response = await fetch(`/data/companies/${companySlug}/${fileName}`);
-        
-        if (response.ok) {
-          const csvContent = await response.text();
-          questions[period as TimePeriod] = await parseCSV(csvContent);
-        } else {
-          console.warn(`File not found: ${fileName} for ${companySlug}`);
+        // Try to use fs if available (server-side)
+        const fs = await import('fs');
+        const path = await import('path');
+        const filePath = path.join(process.cwd(), 'public', 'data', 'companies', companySlug, `${period}.json`);
+        const data = fs.readFileSync(filePath, 'utf-8');
+        questions[period as TimePeriod] = JSON.parse(data);
+      } catch (error) {
+        // Fallback to fetch for client-side (should rarely happen)
+        try {
+          const response = await fetch(`/data/companies/${companySlug}/${period}.json`);
+          if (response.ok) {
+            questions[period as TimePeriod] = await response.json();
+          } else {
+            questions[period as TimePeriod] = [];
+          }
+        } catch (err) {
           questions[period as TimePeriod] = [];
         }
-      } catch (error) {
-        console.error(`Error fetching ${period} data for ${companySlug}:`, error);
-        questions[period as TimePeriod] = [];
       }
     }
 

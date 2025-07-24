@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3468,
+    "title": "Find the Number of Copy Arrays",
+    "difficulty": "Medium",
+    "acceptanceRate": 46,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-the-number-of-copy-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/powx-n",
+    "tags": [],
+    "isPremium": false
+  }
+]

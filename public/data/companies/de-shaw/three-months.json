@@ -1,0 +1,72 @@
+[
+  {
+    "id": 968,
+    "title": "Binary Tree Cameras",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/binary-tree-cameras",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1244,
+    "title": "Design A Leaderboard",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-a-leaderboard",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2104,
+    "title": "Sum of Subarray Ranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/sum-of-subarray-ranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2542,
+    "title": "Maximum Subsequence Score",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-subsequence-score",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3281,
+    "title": "Maximize Score of Numbers in Ranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximize-score-of-numbers-in-ranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2221,
+    "title": "Find Triangular Sum of an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 78.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/find-triangular-sum-of-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  }
+]

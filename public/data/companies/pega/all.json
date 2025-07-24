@@ -1,0 +1,22 @@
+[
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 258,
+    "title": "Add Digits",
+    "difficulty": "Easy",
+    "acceptanceRate": 68,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/add-digits",
+    "tags": [],
+    "isPremium": false
+  }
+]

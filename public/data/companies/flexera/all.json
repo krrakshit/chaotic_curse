@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3170,
+    "title": "Lexicographically Minimum String After Removing Stars",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3174,
+    "title": "Clear Digits",
+    "difficulty": "Easy",
+    "acceptanceRate": 82.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/clear-digits",
+    "tags": [],
+    "isPremium": false
+  }
+]

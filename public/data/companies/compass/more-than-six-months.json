@@ -1,0 +1,42 @@
+[
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1023,
+    "title": "Camelcase Matching",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/camelcase-matching",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2739,
+    "title": "Total Distance Traveled",
+    "difficulty": "Easy",
+    "acceptanceRate": 40.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/total-distance-traveled",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 572,
+    "title": "Subtree of Another Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 50.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/subtree-of-another-tree",
+    "tags": [],
+    "isPremium": false
+  }
+]

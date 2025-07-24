@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2403,
+    "title": "Minimum Time to Kill All Monsters",
+    "difficulty": "Hard",
+    "acceptanceRate": 56.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2564,
+    "title": "Substring XOR Queries",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/substring-xor-queries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2425,
+    "title": "Bitwise XOR of All Pairings",
+    "difficulty": "Medium",
+    "acceptanceRate": 67,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2569,
+    "title": "Handling Sum Queries After Update",
+    "difficulty": "Hard",
+    "acceptanceRate": 29.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/handling-sum-queries-after-update",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 115,
+    "title": "Distinct Subsequences",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/distinct-subsequences",
+    "tags": [],
+    "isPremium": false
+  }
+]

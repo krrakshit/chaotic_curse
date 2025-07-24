@@ -1,0 +1,42 @@
+[
+  {
+    "id": 127,
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "acceptanceRate": 43.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/word-ladder",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 191,
+    "title": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-1-bits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2694,
+    "title": "Event Emitter",
+    "difficulty": "Medium",
+    "acceptanceRate": 74.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/event-emitter",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 692,
+    "title": "Top K Frequent Words",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/top-k-frequent-words",
+    "tags": [],
+    "isPremium": false
+  }
+]

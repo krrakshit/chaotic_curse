@@ -1,0 +1,22 @@
+[
+  {
+    "id": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/decode-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 856,
+    "title": "Score of Parentheses",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/score-of-parentheses",
+    "tags": [],
+    "isPremium": false
+  }
+]

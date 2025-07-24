@@ -1,0 +1,372 @@
+[
+  {
+    "id": 18,
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.4,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/4sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 31,
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/next-permutation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 72,
+    "title": "Edit Distance",
+    "difficulty": "Medium",
+    "acceptanceRate": 59,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/edit-distance",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 87,
+    "title": "Scramble String",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/scramble-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 621,
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/task-scheduler",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2928,
+    "title": "Distribute Candies Among Children I",
+    "difficulty": "Easy",
+    "acceptanceRate": 75.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/distribute-candies-among-children-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2929,
+    "title": "Distribute Candies Among Children II",
+    "difficulty": "Medium",
+    "acceptanceRate": 56,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2927,
+    "title": "Distribute Candies Among Children III",
+    "difficulty": "Hard",
+    "acceptanceRate": 57.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/distribute-candies-among-children-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2132,
+    "title": "Stamping the Grid",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/stamping-the-grid",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1188,
+    "title": "Design Bounded Blocking Queue",
+    "difficulty": "Medium",
+    "acceptanceRate": 73,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3021,
+    "title": "Alice and Bob Playing Flower Game",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/alice-and-bob-playing-flower-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 211,
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 723,
+    "title": "Candy Crush",
+    "difficulty": "Medium",
+    "acceptanceRate": 77.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/candy-crush",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3098,
+    "title": "Find the Sum of Subsequence Powers",
+    "difficulty": "Hard",
+    "acceptanceRate": 23.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3083,
+    "title": "Existence of a Substring in a String and Its Reverse",
+    "difficulty": "Easy",
+    "acceptanceRate": 65.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2249,
+    "title": "Count Lattice Points Inside a Circle",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2296,
+    "title": "Design a Text Editor",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.3,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/design-a-text-editor",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1242,
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 871,
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 528,
+    "title": "Random Pick with Weight",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/random-pick-with-weight",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1463,
+    "title": "Cherry Pickup II",
+    "difficulty": "Hard",
+    "acceptanceRate": 72,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/cherry-pickup-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3207,
+    "title": "Maximum Points After Enemy Battles",
+    "difficulty": "Medium",
+    "acceptanceRate": 32.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-points-after-enemy-battles",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2982,
+    "title": "Find Longest Special Substring That Occurs Thrice II",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 301,
+    "title": "Remove Invalid Parentheses",
+    "difficulty": "Hard",
+    "acceptanceRate": 49.3,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3410,
+    "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+    "difficulty": "Hard",
+    "acceptanceRate": 20,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3426,
+    "title": "Manhattan Distances of All Arrangements of Pieces",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 745,
+    "title": "Prefix and Suffix Search",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.5,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/prefix-and-suffix-search",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1236,
+    "title": "Web Crawler",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.8,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/web-crawler",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1146,
+    "title": "Snapshot Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 36.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/snapshot-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1117,
+    "title": "Building H2O",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.7,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/building-h2o",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3525,
+    "title": "Find X Value of Array II",
+    "difficulty": "Hard",
+    "acceptanceRate": 27.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-x-value-of-array-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3524,
+    "title": "Find X Value of Array I",
+    "difficulty": "Medium",
+    "acceptanceRate": 33.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-x-value-of-array-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2502,
+    "title": "Design Memory Allocator",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/design-memory-allocator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2365,
+    "title": "Task Scheduler II",
+    "difficulty": "Medium",
+    "acceptanceRate": 54,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/task-scheduler-ii",
+    "tags": [],
+    "isPremium": false
+  }
+]
