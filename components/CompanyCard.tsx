@@ -1,6 +1,7 @@
 // src/components/CompanyCard.tsx
 import Link from 'next/link';
 import { Company } from '@/lib/types';
+import Image from 'next/image';
 
 interface CompanyCardProps {
   company: Company;
@@ -12,7 +13,7 @@ export default function CompanyCard({ company }: CompanyCardProps) {
       <div className="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow p-6 cursor-pointer">
         <div className="flex items-center gap-4 mb-4">
           {company.logo && (
-            <img 
+            <Image
               src={company.logo} 
               alt={`${company.name} logo`}
               className="w-12 h-12 rounded"

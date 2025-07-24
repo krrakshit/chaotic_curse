@@ -23,6 +23,16 @@ export const DIFFICULTY_COLORS = {
       description: 'Questions asked more than 6 months ago',
       color: 'bg-blue-500'
     },
+    threeMonths:{
+      label: '3 Months',
+      description: 'Questions asked in the last 3 months',
+      color: 'bg-yellow-500'
+    },
+    thirtyDays:{
+      label: '30 Days',
+      description: 'Questions asked in the last 30 days',
+      color: 'bg-red-500'
+    },
     all: {
       label: 'All Questions',
       description: 'All available questions',
@@ -38,9 +48,11 @@ export const DIFFICULTY_COLORS = {
   ] as const;
   
   export const CSV_FILE_MAPPING = {
-    'underSixMonths': 'under-six-months.csv',
-    'moreThanSixMonths': 'more-than-six-months.csv',
-    'all': 'all.csv'
+    'underSixMonths': 'under-six-months.json',
+    'moreThanSixMonths': 'more-than-six-months.json',
+    'threeMonths': 'three-months.json',
+    'thirtyDays': 'thirty-days.json',
+    'all': 'all.json'
   } as const;
   
   export const ITEMS_PER_PAGE = 50;

@@ -3,23 +3,24 @@ import { fetchCompanyQuestions, hasTimePeriod } from '@/lib/data-fetcher';
 import QuestionTable from '@/components/QuestionTable';
 import FilterTabs from '@/components/FilterTabs';
 import { notFound } from 'next/navigation';
-import { TimePeriod } from '@/lib/types';
+
 
 interface PageProps {
-  params: { slug: string };
-  searchParams: { period?: string };
+  params: Promise<{ slug: string }>;
+  searchParams?: Promise<{ [key: string]: string | string[] | undefined }>;
 }
 
-export default async function CompanyPage(
-  propsPromise: Promise<PageProps>
-) {
-  const { params, searchParams } = await propsPromise;
+export default async function CompanyPage({ params, searchParams }: PageProps) {
+  // Await the params and searchParams
+  const resolvedParams = await params;
+  const resolvedSearchParams = await searchParams;
+
   // Fetch company meta from companies-list.json (filesystem)
   const fs = await import('fs');
   const path = await import('path');
   const companiesPath = path.join(process.cwd(), 'public', 'data', 'companies-list.json');
   const companies = JSON.parse(fs.readFileSync(companiesPath, 'utf-8'));
-  const company = companies.find((c: any) => c.slug === params.slug);
+  const company = companies.find((c: any) => c.slug === resolvedParams.slug);
   if (!company) {
     notFound();
   }
@@ -28,7 +29,7 @@ export default async function CompanyPage(
   const defaultPeriod = company.availablePeriods.includes('all') 
     ? 'all' 
     : company.availablePeriods[0];
-  const period = (searchParams?.period as TimePeriod) || defaultPeriod;
+  const period = (resolvedSearchParams?.period as string) || defaultPeriod;
   if (!company.availablePeriods.includes(period)) {
     notFound();
   }
@@ -42,7 +43,7 @@ export default async function CompanyPage(
       ? `https://${process.env.VERCEL_URL}`
       : 'http://localhost:3000';
   }
-  const apiUrl = `${baseUrl}/api/company?slug=${params.slug}&period=${period}`;
+  const apiUrl = `${baseUrl}/api/company?slug=${resolvedParams.slug}&period=${period}`;
   const res = await fetch(apiUrl, { cache: 'no-store' });
   if (!res.ok) {
     notFound();
@@ -59,7 +60,7 @@ export default async function CompanyPage(
       </div>
 
       <FilterTabs 
-        companySlug={params.slug}
+        companySlug={resolvedParams.slug}
         currentPeriod={period}
         availablePeriods={company.availablePeriods}
         questionCounts={company.questionCounts}
@@ -69,4 +70,3 @@ export default async function CompanyPage(
     </div>
   );
 }
-

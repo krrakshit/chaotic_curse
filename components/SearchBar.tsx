@@ -4,6 +4,7 @@ import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { Company } from '@/lib/types';
 import { COMPANY_LOGOS } from '@/utils/constants';
+import Image from 'next/image';
 
 interface SearchBarProps {
   companies: Company[];
@@ -81,7 +82,7 @@ export default function SearchBar({ companies }: SearchBarProps) {
               >
                 <div className="flex items-center space-x-3">
                   {COMPANY_LOGOS[company.slug] && (
-                    <img
+                    <Image
                       src={COMPANY_LOGOS[company.slug]}
                       alt={`${company.name} logo`}
                       className="w-6 h-6 rounded flex-shrink-0"

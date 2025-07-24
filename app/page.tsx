@@ -5,7 +5,7 @@ import CompanyCard from '@/components/CompanyCard';
 
 export default async function HomePage() {
   const companies = await fetchCompanies();
-  console.log(companies)
+  // console.log(companies)
 
   return (
     <div className="container mx-auto px-4 py-8">

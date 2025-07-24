@@ -12,6 +12,8 @@ interface FilterTabsProps {
   questionCounts: {
     underSixMonths?: number;
     moreThanSixMonths?: number;
+    threeMonths?:number;
+    thirtyDays?:number;
     all?: number;
   };
 }
