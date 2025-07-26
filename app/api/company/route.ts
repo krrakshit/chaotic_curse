@@ -5,7 +5,7 @@ import fs from 'fs';
 const PERIOD_FILE_MAP: Record<string, string> = {
   'all': 'all.json',
   'moreThanSixMonths': 'more-than-six-months.json',
-  'underSixMonths': 'under-six-months.json',
+  'underSixMonths': 'six-months.json',
   'threeMonths': 'three-months.json',
   'thirtyDays': 'thirty-days.json',
 };

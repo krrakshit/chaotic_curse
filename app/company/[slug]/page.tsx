@@ -1,5 +1,3 @@
-// src/app/company/[slug]/page.tsx - Company Details Page
-import { fetchCompanyQuestions, hasTimePeriod } from '@/lib/data-fetcher';
 import QuestionTable from '@/components/QuestionTable';
 import FilterTabs from '@/components/FilterTabs';
 import { notFound } from 'next/navigation';

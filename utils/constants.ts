@@ -48,7 +48,7 @@ export const DIFFICULTY_COLORS = {
   ] as const;
   
   export const CSV_FILE_MAPPING = {
-    'underSixMonths': 'under-six-months.json',
+    'underSixMonths': 'six-months.json',
     'moreThanSixMonths': 'more-than-six-months.json',
     'threeMonths': 'three-months.json',
     'thirtyDays': 'thirty-days.json',

@@ -18,11 +18,13 @@
     "slug": "6sense",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -44,11 +46,13 @@
     "slug": "accenture",
     "questionCounts": {
       "all": 143,
-      "moreThanSixMonths": 130
+      "moreThanSixMonths": 130,
+      "underSixMonths": 9
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -57,11 +61,17 @@
     "slug": "accolite",
     "questionCounts": {
       "all": 17,
-      "moreThanSixMonths": 15
+      "moreThanSixMonths": 15,
+      "underSixMonths": 4,
+      "thirtyDays": 1,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -94,11 +104,13 @@
     "slug": "activision",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -120,11 +132,17 @@
     "slug": "adobe",
     "questionCounts": {
       "all": 539,
-      "moreThanSixMonths": 520
+      "moreThanSixMonths": 520,
+      "underSixMonths": 20,
+      "thirtyDays": 1,
+      "threeMonths": 8
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -132,10 +150,12 @@
     "name": "Adp",
     "slug": "adp",
     "questionCounts": {
-      "all": 3
+      "all": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -170,11 +190,15 @@
     "slug": "affirm",
     "questionCounts": {
       "all": 11,
-      "moreThanSixMonths": 11
+      "moreThanSixMonths": 11,
+      "underSixMonths": 5,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -183,11 +207,15 @@
     "slug": "agoda",
     "questionCounts": {
       "all": 40,
-      "moreThanSixMonths": 35
+      "moreThanSixMonths": 35,
+      "underSixMonths": 7,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -196,11 +224,17 @@
     "slug": "airbnb",
     "questionCounts": {
       "all": 59,
-      "moreThanSixMonths": 55
+      "moreThanSixMonths": 55,
+      "underSixMonths": 12,
+      "thirtyDays": 2,
+      "threeMonths": 5
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -209,11 +243,15 @@
     "slug": "airbus",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -222,11 +260,13 @@
     "slug": "airtel",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -261,11 +301,15 @@
     "slug": "akuna-capital",
     "questionCounts": {
       "all": 23,
-      "moreThanSixMonths": 22
+      "moreThanSixMonths": 22,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -363,11 +407,17 @@
     "slug": "amazon",
     "questionCounts": {
       "all": 1854,
-      "moreThanSixMonths": 1673
+      "moreThanSixMonths": 1673,
+      "underSixMonths": 799,
+      "thirtyDays": 204,
+      "threeMonths": 477
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -376,11 +426,13 @@
     "slug": "amd",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 8
+      "moreThanSixMonths": 8,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -413,11 +465,15 @@
     "slug": "american-express",
     "questionCounts": {
       "all": 24,
-      "moreThanSixMonths": 22
+      "moreThanSixMonths": 22,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -463,11 +519,17 @@
     "slug": "anduril",
     "questionCounts": {
       "all": 32,
-      "moreThanSixMonths": 21
+      "moreThanSixMonths": 21,
+      "underSixMonths": 15,
+      "thirtyDays": 1,
+      "threeMonths": 7
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -476,11 +538,17 @@
     "slug": "anthropic",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 4,
+      "thirtyDays": 2,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -489,11 +557,13 @@
     "slug": "anyscale",
     "questionCounts": {
       "all": 1,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -567,11 +637,17 @@
     "slug": "apple",
     "questionCounts": {
       "all": 589,
-      "moreThanSixMonths": 541
+      "moreThanSixMonths": 541,
+      "underSixMonths": 105,
+      "thirtyDays": 9,
+      "threeMonths": 54
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -580,11 +656,17 @@
     "slug": "applied-intuition",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 4,
+      "thirtyDays": 1,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -644,10 +726,14 @@
     "name": "Argo Ai",
     "slug": "argo-ai",
     "questionCounts": {
-      "all": 3
+      "all": 3,
+      "underSixMonths": 2,
+      "threeMonths": 2
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -656,11 +742,15 @@
     "slug": "arista-networks",
     "questionCounts": {
       "all": 40,
-      "moreThanSixMonths": 32
+      "moreThanSixMonths": 32,
+      "underSixMonths": 5,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -682,11 +772,13 @@
     "slug": "asana",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -720,10 +812,12 @@
     "name": "At T",
     "slug": "at-t",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 2
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -732,11 +826,15 @@
     "slug": "athenahealth",
     "questionCounts": {
       "all": 11,
-      "moreThanSixMonths": 8
+      "moreThanSixMonths": 8,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -745,11 +843,17 @@
     "slug": "atlassian",
     "questionCounts": {
       "all": 73,
-      "moreThanSixMonths": 58
+      "moreThanSixMonths": 58,
+      "underSixMonths": 26,
+      "thirtyDays": 7,
+      "threeMonths": 14
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -758,11 +862,15 @@
     "slug": "attentive",
     "questionCounts": {
       "all": 9,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 3,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -797,11 +905,15 @@
     "slug": "aurora",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -810,11 +922,17 @@
     "slug": "autodesk",
     "questionCounts": {
       "all": 32,
-      "moreThanSixMonths": 19
+      "moreThanSixMonths": 19,
+      "underSixMonths": 8,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -836,11 +954,13 @@
     "slug": "avito",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -848,10 +968,12 @@
     "name": "Axis Bank",
     "slug": "axis-bank",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -860,11 +982,17 @@
     "slug": "axon",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 4,
+      "thirtyDays": 1,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -899,11 +1027,13 @@
     "slug": "barclays",
     "questionCounts": {
       "all": 19,
-      "moreThanSixMonths": 17
+      "moreThanSixMonths": 17,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -911,10 +1041,12 @@
     "name": "Bcg",
     "slug": "bcg",
     "questionCounts": {
-      "all": 10
+      "all": 10,
+      "underSixMonths": 10
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -975,11 +1107,15 @@
     "slug": "bitgo",
     "questionCounts": {
       "all": 13,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 6,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1001,11 +1137,15 @@
     "slug": "blackrock",
     "questionCounts": {
       "all": 17,
-      "moreThanSixMonths": 17
+      "moreThanSixMonths": 17,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1027,11 +1167,13 @@
     "slug": "blend",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1066,11 +1208,17 @@
     "slug": "bloomberg",
     "questionCounts": {
       "all": 1073,
-      "moreThanSixMonths": 927
+      "moreThanSixMonths": 927,
+      "underSixMonths": 405,
+      "thirtyDays": 47,
+      "threeMonths": 189
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1131,11 +1279,13 @@
     "slug": "bny-mellon",
     "questionCounts": {
       "all": 20,
-      "moreThanSixMonths": 19
+      "moreThanSixMonths": 19,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1157,11 +1307,13 @@
     "slug": "bolt",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1170,11 +1322,13 @@
     "slug": "bookingcom",
     "questionCounts": {
       "all": 16,
-      "moreThanSixMonths": 12
+      "moreThanSixMonths": 12,
+      "underSixMonths": 5
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1196,11 +1350,15 @@
     "slug": "box",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 3,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1322,11 +1480,15 @@
     "slug": "bytedance",
     "questionCounts": {
       "all": 63,
-      "moreThanSixMonths": 51
+      "moreThanSixMonths": 51,
+      "underSixMonths": 11,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1334,10 +1496,14 @@
     "name": "C3 Ai",
     "slug": "c3-ai",
     "questionCounts": {
-      "all": 5
+      "all": 5,
+      "underSixMonths": 4,
+      "threeMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1359,11 +1525,13 @@
     "slug": "cadence",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1372,11 +1540,13 @@
     "slug": "canonical",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1385,11 +1555,13 @@
     "slug": "canva",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1398,11 +1570,15 @@
     "slug": "capgemini",
     "questionCounts": {
       "all": 25,
-      "moreThanSixMonths": 13
+      "moreThanSixMonths": 13,
+      "underSixMonths": 8,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1411,11 +1587,17 @@
     "slug": "capital-one",
     "questionCounts": {
       "all": 46,
-      "moreThanSixMonths": 35
+      "moreThanSixMonths": 35,
+      "underSixMonths": 22,
+      "thirtyDays": 2,
+      "threeMonths": 15
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1424,11 +1606,17 @@
     "slug": "careem",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 3,
+      "thirtyDays": 1,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1525,10 +1713,12 @@
     "name": "Chargebee",
     "slug": "chargebee",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -1615,11 +1805,17 @@
     "slug": "cisco",
     "questionCounts": {
       "all": 88,
-      "moreThanSixMonths": 71
+      "moreThanSixMonths": 71,
+      "underSixMonths": 20,
+      "thirtyDays": 5,
+      "threeMonths": 10
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1628,11 +1824,17 @@
     "slug": "citadel",
     "questionCounts": {
       "all": 106,
-      "moreThanSixMonths": 94
+      "moreThanSixMonths": 94,
+      "underSixMonths": 15,
+      "thirtyDays": 0,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1693,11 +1895,13 @@
     "slug": "cleartrip",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1719,11 +1923,17 @@
     "slug": "cloudflare",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 7,
+      "thirtyDays": 2,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1758,11 +1968,17 @@
     "slug": "cme-group",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1771,11 +1987,17 @@
     "slug": "cockroach-labs",
     "questionCounts": {
       "all": 1,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1810,11 +2032,15 @@
     "slug": "cognizant",
     "questionCounts": {
       "all": 30,
-      "moreThanSixMonths": 22
+      "moreThanSixMonths": 22,
+      "underSixMonths": 8,
+      "threeMonths": 5
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1823,11 +2049,17 @@
     "slug": "cohesity",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1836,11 +2068,17 @@
     "slug": "coinbase",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 12
+      "moreThanSixMonths": 12,
+      "underSixMonths": 4,
+      "thirtyDays": 2,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1849,11 +2087,13 @@
     "slug": "coindcx",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1862,11 +2102,13 @@
     "slug": "comcast",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1888,11 +2130,13 @@
     "slug": "compass",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1901,11 +2145,17 @@
     "slug": "confluent",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 10
+      "moreThanSixMonths": 10,
+      "underSixMonths": 6,
+      "thirtyDays": 1,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -1927,11 +2177,13 @@
     "slug": "couchbase",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 5
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -1940,11 +2192,15 @@
     "slug": "coupang",
     "questionCounts": {
       "all": 51,
-      "moreThanSixMonths": 35
+      "moreThanSixMonths": 35,
+      "underSixMonths": 17,
+      "threeMonths": 6
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1953,11 +2209,15 @@
     "slug": "coursera",
     "questionCounts": {
       "all": 9,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -1978,10 +2238,16 @@
     "name": "Cred",
     "slug": "cred",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2003,11 +2269,15 @@
     "slug": "criteo",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 4,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2016,11 +2286,15 @@
     "slug": "crowdstrike",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 8
+      "moreThanSixMonths": 8,
+      "underSixMonths": 4,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2029,11 +2303,13 @@
     "slug": "cruise-automation",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -2120,11 +2396,17 @@
     "slug": "darwinbox",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2146,11 +2428,17 @@
     "slug": "databricks",
     "questionCounts": {
       "all": 33,
-      "moreThanSixMonths": 32
+      "moreThanSixMonths": 32,
+      "underSixMonths": 8,
+      "thirtyDays": 2,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2159,11 +2447,15 @@
     "slug": "datadog",
     "questionCounts": {
       "all": 19,
-      "moreThanSixMonths": 16
+      "moreThanSixMonths": 16,
+      "underSixMonths": 9,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2185,11 +2477,17 @@
     "slug": "de-shaw",
     "questionCounts": {
       "all": 120,
-      "moreThanSixMonths": 105
+      "moreThanSixMonths": 105,
+      "underSixMonths": 13,
+      "thirtyDays": 2,
+      "threeMonths": 7
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2237,11 +2535,15 @@
     "slug": "dell",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2250,11 +2552,17 @@
     "slug": "deloitte",
     "questionCounts": {
       "all": 29,
-      "moreThanSixMonths": 16
+      "moreThanSixMonths": 16,
+      "underSixMonths": 12,
+      "thirtyDays": 1,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2327,10 +2635,12 @@
     "name": "Dialpad",
     "slug": "dialpad",
     "questionCounts": {
-      "all": 3
+      "all": 3,
+      "underSixMonths": 2
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -2378,11 +2688,13 @@
     "slug": "disney",
     "questionCounts": {
       "all": 20,
-      "moreThanSixMonths": 14
+      "moreThanSixMonths": 14,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -2402,11 +2714,17 @@
     "slug": "docusign",
     "questionCounts": {
       "all": 37,
-      "moreThanSixMonths": 22
+      "moreThanSixMonths": 22,
+      "underSixMonths": 10,
+      "thirtyDays": 1,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2415,11 +2733,17 @@
     "slug": "doordash",
     "questionCounts": {
       "all": 87,
-      "moreThanSixMonths": 74
+      "moreThanSixMonths": 74,
+      "underSixMonths": 39,
+      "thirtyDays": 11,
+      "threeMonths": 20
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2428,11 +2752,13 @@
     "slug": "dp-world",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -2454,11 +2780,15 @@
     "slug": "dream11",
     "questionCounts": {
       "all": 13,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2467,11 +2797,15 @@
     "slug": "dropbox",
     "questionCounts": {
       "all": 25,
-      "moreThanSixMonths": 24
+      "moreThanSixMonths": 24,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2493,11 +2827,13 @@
     "slug": "drw",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -2532,11 +2868,13 @@
     "slug": "duolingo",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -2571,11 +2909,17 @@
     "slug": "ebay",
     "questionCounts": {
       "all": 75,
-      "moreThanSixMonths": 58
+      "moreThanSixMonths": 58,
+      "underSixMonths": 12,
+      "thirtyDays": 1,
+      "threeMonths": 6
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2649,11 +2993,15 @@
     "slug": "epam-systems",
     "questionCounts": {
       "all": 44,
-      "moreThanSixMonths": 35
+      "moreThanSixMonths": 35,
+      "underSixMonths": 8,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2675,11 +3023,15 @@
     "slug": "epic-systems",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 11
+      "moreThanSixMonths": 11,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2712,11 +3064,13 @@
     "slug": "etsy",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -2725,11 +3079,13 @@
     "slug": "expedia",
     "questionCounts": {
       "all": 49,
-      "moreThanSixMonths": 43
+      "moreThanSixMonths": 43,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -2764,11 +3120,17 @@
     "slug": "facebook",
     "questionCounts": {
       "all": 1241,
-      "moreThanSixMonths": 1021
+      "moreThanSixMonths": 1021,
+      "underSixMonths": 627,
+      "thirtyDays": 154,
+      "threeMonths": 389
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2801,11 +3163,17 @@
     "slug": "faire",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 2,
+      "thirtyDays": 1,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2890,11 +3258,17 @@
     "slug": "flatiron-health",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -2929,11 +3303,15 @@
     "slug": "flexport",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 8
+      "moreThanSixMonths": 8,
+      "underSixMonths": 5,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2942,11 +3320,15 @@
     "slug": "flipkart",
     "questionCounts": {
       "all": 126,
-      "moreThanSixMonths": 102
+      "moreThanSixMonths": 102,
+      "underSixMonths": 11,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -2968,11 +3350,15 @@
     "slug": "fortinet",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -3020,11 +3406,17 @@
     "slug": "fractal-analytics",
     "questionCounts": {
       "all": 16,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 9,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3033,11 +3425,13 @@
     "slug": "freecharge",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -3109,11 +3503,15 @@
     "slug": "garmin",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -3122,11 +3520,13 @@
     "slug": "gartner",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -3161,11 +3561,15 @@
     "slug": "geico",
     "questionCounts": {
       "all": 20,
-      "moreThanSixMonths": 17
+      "moreThanSixMonths": 17,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -3187,11 +3591,17 @@
     "slug": "general-motors",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 2,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3225,10 +3635,12 @@
     "name": "Github",
     "slug": "github",
     "questionCounts": {
-      "all": 3
+      "all": 3,
+      "underSixMonths": 3
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -3250,11 +3662,13 @@
     "slug": "globallogic",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -3275,10 +3689,12 @@
     "name": "Glovo",
     "slug": "glovo",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -3313,11 +3729,17 @@
     "slug": "goldman-sachs",
     "questionCounts": {
       "all": 267,
-      "moreThanSixMonths": 201
+      "moreThanSixMonths": 201,
+      "underSixMonths": 75,
+      "thirtyDays": 10,
+      "threeMonths": 32
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3326,11 +3748,17 @@
     "slug": "google",
     "questionCounts": {
       "all": 2040,
-      "moreThanSixMonths": 1802
+      "moreThanSixMonths": 1802,
+      "underSixMonths": 979,
+      "thirtyDays": 212,
+      "threeMonths": 582
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3338,10 +3766,12 @@
     "name": "Gopuff",
     "slug": "gopuff",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 2
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -3350,11 +3780,17 @@
     "slug": "grab",
     "questionCounts": {
       "all": 14,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 3,
+      "thirtyDays": 1,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3363,11 +3799,17 @@
     "slug": "grammarly",
     "questionCounts": {
       "all": 27,
-      "moreThanSixMonths": 23
+      "moreThanSixMonths": 23,
+      "underSixMonths": 15,
+      "thirtyDays": 2,
+      "threeMonths": 6
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3467,11 +3909,17 @@
     "slug": "guidewire",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 2,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3480,11 +3928,15 @@
     "slug": "gusto",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -3519,11 +3971,15 @@
     "slug": "hashedin",
     "questionCounts": {
       "all": 22,
-      "moreThanSixMonths": 10
+      "moreThanSixMonths": 10,
+      "underSixMonths": 6,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -3545,11 +4001,13 @@
     "slug": "hcl",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -3672,10 +4130,14 @@
     "name": "Hopper",
     "slug": "hopper",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -3749,11 +4211,15 @@
     "slug": "hsbc",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -3775,11 +4241,15 @@
     "slug": "hubspot",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 6,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -3814,11 +4284,17 @@
     "slug": "ibm",
     "questionCounts": {
       "all": 147,
-      "moreThanSixMonths": 122
+      "moreThanSixMonths": 122,
+      "underSixMonths": 29,
+      "thirtyDays": 2,
+      "threeMonths": 5
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3905,11 +4381,13 @@
     "slug": "info-edge",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -3931,11 +4409,17 @@
     "slug": "infosys",
     "questionCounts": {
       "all": 113,
-      "moreThanSixMonths": 91
+      "moreThanSixMonths": 91,
+      "underSixMonths": 13,
+      "thirtyDays": 1,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3957,11 +4441,13 @@
     "slug": "innovaccer",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -3983,11 +4469,17 @@
     "slug": "instacart",
     "questionCounts": {
       "all": 14,
-      "moreThanSixMonths": 13
+      "moreThanSixMonths": 13,
+      "underSixMonths": 4,
+      "thirtyDays": 2,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -3996,11 +4488,13 @@
     "slug": "intel",
     "questionCounts": {
       "all": 25,
-      "moreThanSixMonths": 16
+      "moreThanSixMonths": 16,
+      "underSixMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -4022,11 +4516,13 @@
     "slug": "intercom",
     "questionCounts": {
       "all": 1,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -4035,11 +4531,17 @@
     "slug": "intuit",
     "questionCounts": {
       "all": 71,
-      "moreThanSixMonths": 61
+      "moreThanSixMonths": 61,
+      "underSixMonths": 9,
+      "thirtyDays": 1,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4087,11 +4589,15 @@
     "slug": "ixl",
     "questionCounts": {
       "all": 17,
-      "moreThanSixMonths": 16
+      "moreThanSixMonths": 16,
+      "underSixMonths": 5,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4112,10 +4618,12 @@
     "name": "Jd",
     "slug": "jd",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -4176,11 +4684,17 @@
     "slug": "josh-technology",
     "questionCounts": {
       "all": 27,
-      "moreThanSixMonths": 18
+      "moreThanSixMonths": 18,
+      "underSixMonths": 6,
+      "thirtyDays": 1,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4189,11 +4703,17 @@
     "slug": "jpmorgan",
     "questionCounts": {
       "all": 77,
-      "moreThanSixMonths": 58
+      "moreThanSixMonths": 58,
+      "underSixMonths": 14,
+      "thirtyDays": 2,
+      "threeMonths": 6
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4215,11 +4735,13 @@
     "slug": "jump-trading",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -4254,11 +4776,15 @@
     "slug": "juspay",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 4,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4293,11 +4819,17 @@
     "slug": "karat",
     "questionCounts": {
       "all": 15,
-      "moreThanSixMonths": 13
+      "moreThanSixMonths": 13,
+      "underSixMonths": 8,
+      "thirtyDays": 1,
+      "threeMonths": 5
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4306,11 +4838,15 @@
     "slug": "keeptruckin",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4319,11 +4855,17 @@
     "slug": "kla",
     "questionCounts": {
       "all": 9,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4332,11 +4874,13 @@
     "slug": "kla-tencor",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -4383,10 +4927,12 @@
     "name": "Kpmg",
     "slug": "kpmg",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -4458,11 +5004,13 @@
     "slug": "lg-electronics",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -4484,11 +5032,15 @@
     "slug": "liftoff",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 3,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4497,11 +5049,13 @@
     "slug": "lime",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -4510,11 +5064,15 @@
     "slug": "line",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4523,11 +5081,17 @@
     "slug": "linkedin",
     "questionCounts": {
       "all": 172,
-      "moreThanSixMonths": 144
+      "moreThanSixMonths": 144,
+      "underSixMonths": 83,
+      "thirtyDays": 8,
+      "threeMonths": 40
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4548,10 +5112,14 @@
     "name": "Livspace",
     "slug": "livspace",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 2,
+      "threeMonths": 2
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4586,11 +5154,17 @@
     "slug": "lucid",
     "questionCounts": {
       "all": 9,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4599,11 +5173,13 @@
     "slug": "luxoft",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -4612,11 +5188,17 @@
     "slug": "lyft",
     "questionCounts": {
       "all": 26,
-      "moreThanSixMonths": 22
+      "moreThanSixMonths": 22,
+      "underSixMonths": 12,
+      "thirtyDays": 3,
+      "threeMonths": 9
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4701,11 +5283,17 @@
     "slug": "marqeta",
     "questionCounts": {
       "all": 1,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4714,11 +5302,15 @@
     "slug": "mastercard",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4727,11 +5319,15 @@
     "slug": "mathworks",
     "questionCounts": {
       "all": 31,
-      "moreThanSixMonths": 26
+      "moreThanSixMonths": 26,
+      "underSixMonths": 6,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4766,11 +5362,17 @@
     "slug": "medianet",
     "questionCounts": {
       "all": 41,
-      "moreThanSixMonths": 38
+      "moreThanSixMonths": 38,
+      "underSixMonths": 2,
+      "thirtyDays": 2,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4779,11 +5381,17 @@
     "slug": "meesho",
     "questionCounts": {
       "all": 33,
-      "moreThanSixMonths": 21
+      "moreThanSixMonths": 21,
+      "underSixMonths": 10,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4831,11 +5439,17 @@
     "slug": "microsoft",
     "questionCounts": {
       "all": 1211,
-      "moreThanSixMonths": 1062
+      "moreThanSixMonths": 1062,
+      "underSixMonths": 412,
+      "thirtyDays": 60,
+      "threeMonths": 213
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -4857,11 +5471,13 @@
     "slug": "millennium",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -4935,11 +5551,15 @@
     "slug": "mixpanel",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -4987,11 +5607,13 @@
     "slug": "moloco",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5013,11 +5635,15 @@
     "slug": "mongodb",
     "questionCounts": {
       "all": 17,
-      "moreThanSixMonths": 12
+      "moreThanSixMonths": 12,
+      "underSixMonths": 7,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5026,11 +5652,15 @@
     "slug": "morgan-stanley",
     "questionCounts": {
       "all": 47,
-      "moreThanSixMonths": 35
+      "moreThanSixMonths": 35,
+      "underSixMonths": 4,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5065,11 +5695,15 @@
     "slug": "moveworks",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5130,11 +5764,13 @@
     "slug": "myntra",
     "questionCounts": {
       "all": 23,
-      "moreThanSixMonths": 17
+      "moreThanSixMonths": 17,
+      "underSixMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5182,11 +5818,15 @@
     "slug": "navan",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5245,11 +5885,13 @@
     "slug": "netapp",
     "questionCounts": {
       "all": 11,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5257,10 +5899,14 @@
     "name": "Netcracker Technology",
     "slug": "netcracker-technology",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5282,11 +5928,17 @@
     "slug": "netflix",
     "questionCounts": {
       "all": 37,
-      "moreThanSixMonths": 27
+      "moreThanSixMonths": 27,
+      "underSixMonths": 14,
+      "thirtyDays": 1,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5295,11 +5947,13 @@
     "slug": "netskope",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5320,10 +5974,14 @@
     "name": "Newsbreak",
     "slug": "newsbreak",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 2,
+      "threeMonths": 2
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5332,11 +5990,13 @@
     "slug": "nextdoor",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5397,11 +6057,17 @@
     "slug": "nike",
     "questionCounts": {
       "all": 11,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 2,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5436,11 +6102,15 @@
     "slug": "nordstrom",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 8
+      "moreThanSixMonths": 8,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5475,11 +6145,17 @@
     "slug": "nuro",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 3,
+      "thirtyDays": 1,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5488,11 +6164,17 @@
     "slug": "nutanix",
     "questionCounts": {
       "all": 67,
-      "moreThanSixMonths": 42
+      "moreThanSixMonths": 42,
+      "underSixMonths": 18,
+      "thirtyDays": 2,
+      "threeMonths": 7
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5501,11 +6183,17 @@
     "slug": "nvidia",
     "questionCounts": {
       "all": 144,
-      "moreThanSixMonths": 124
+      "moreThanSixMonths": 124,
+      "underSixMonths": 29,
+      "thirtyDays": 0,
+      "threeMonths": 7
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5514,11 +6202,13 @@
     "slug": "nykaa",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5527,11 +6217,13 @@
     "slug": "observeai",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5591,10 +6283,12 @@
     "name": "Olx",
     "slug": "olx",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 2
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -5603,11 +6297,15 @@
     "slug": "openai",
     "questionCounts": {
       "all": 11,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 6,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5679,11 +6377,17 @@
     "slug": "oracle",
     "questionCounts": {
       "all": 310,
-      "moreThanSixMonths": 266
+      "moreThanSixMonths": 266,
+      "underSixMonths": 90,
+      "thirtyDays": 5,
+      "threeMonths": 37
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5692,11 +6396,17 @@
     "slug": "oscar-health",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 2,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5718,11 +6428,15 @@
     "slug": "oyo",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5731,11 +6445,15 @@
     "slug": "ozon",
     "questionCounts": {
       "all": 13,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5744,11 +6462,15 @@
     "slug": "palantir-technologies",
     "questionCounts": {
       "all": 30,
-      "moreThanSixMonths": 26
+      "moreThanSixMonths": 26,
+      "underSixMonths": 4,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5757,11 +6479,15 @@
     "slug": "palo-alto-networks",
     "questionCounts": {
       "all": 26,
-      "moreThanSixMonths": 18
+      "moreThanSixMonths": 18,
+      "underSixMonths": 8,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5783,11 +6509,13 @@
     "slug": "patreon",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5809,11 +6537,17 @@
     "slug": "paypal",
     "questionCounts": {
       "all": 109,
-      "moreThanSixMonths": 84
+      "moreThanSixMonths": 84,
+      "underSixMonths": 29,
+      "thirtyDays": 3,
+      "threeMonths": 10
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5822,11 +6556,15 @@
     "slug": "paypay",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -5835,11 +6573,13 @@
     "slug": "paytm",
     "questionCounts": {
       "all": 27,
-      "moreThanSixMonths": 24
+      "moreThanSixMonths": 24,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5896,11 +6636,13 @@
     "slug": "persistent-systems",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -5908,10 +6650,12 @@
     "name": "Philips",
     "slug": "philips",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -5920,11 +6664,17 @@
     "slug": "phonepe",
     "questionCounts": {
       "all": 94,
-      "moreThanSixMonths": 71
+      "moreThanSixMonths": 71,
+      "underSixMonths": 12,
+      "thirtyDays": 3,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5946,11 +6696,17 @@
     "slug": "pinterest",
     "questionCounts": {
       "all": 50,
-      "moreThanSixMonths": 41
+      "moreThanSixMonths": 41,
+      "underSixMonths": 15,
+      "thirtyDays": 3,
+      "threeMonths": 13
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -5958,10 +6714,14 @@
     "name": "Plaid",
     "slug": "plaid",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6111,11 +6871,13 @@
     "slug": "publicis-sapient",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6136,10 +6898,12 @@
     "name": "Pure",
     "slug": "pure",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -6148,11 +6912,15 @@
     "slug": "pure-storage",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 4,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6174,11 +6942,13 @@
     "slug": "pwc",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6200,11 +6970,15 @@
     "slug": "qualcomm",
     "questionCounts": {
       "all": 47,
-      "moreThanSixMonths": 26
+      "moreThanSixMonths": 26,
+      "underSixMonths": 13,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6213,11 +6987,13 @@
     "slug": "qualtrics",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6238,10 +7014,14 @@
     "name": "Quantcast",
     "slug": "quantcast",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6250,11 +7030,17 @@
     "slug": "quince",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -6276,11 +7062,15 @@
     "slug": "quora",
     "questionCounts": {
       "all": 20,
-      "moreThanSixMonths": 17
+      "moreThanSixMonths": 17,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6315,11 +7105,17 @@
     "slug": "rakuten",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 2,
+      "thirtyDays": 2,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -6328,11 +7124,15 @@
     "slug": "ramp-2",
     "questionCounts": {
       "all": 1,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6341,11 +7141,13 @@
     "slug": "razorpay",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 8
+      "moreThanSixMonths": 8,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6354,11 +7156,13 @@
     "slug": "rbc",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6380,11 +7184,13 @@
     "slug": "reddit",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6392,10 +7198,12 @@
     "name": "Redfin",
     "slug": "redfin",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 2
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -6404,11 +7212,15 @@
     "slug": "remitly",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 3,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6430,11 +7242,15 @@
     "slug": "revolut",
     "questionCounts": {
       "all": 11,
-      "moreThanSixMonths": 10
+      "moreThanSixMonths": 10,
+      "underSixMonths": 5,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6443,11 +7259,13 @@
     "slug": "riot-games",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6456,11 +7274,15 @@
     "slug": "ripple",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 4,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6469,11 +7291,13 @@
     "slug": "rippling",
     "questionCounts": {
       "all": 17,
-      "moreThanSixMonths": 11
+      "moreThanSixMonths": 11,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6482,11 +7306,15 @@
     "slug": "rivian",
     "questionCounts": {
       "all": 9,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6495,11 +7323,15 @@
     "slug": "robinhood",
     "questionCounts": {
       "all": 15,
-      "moreThanSixMonths": 10
+      "moreThanSixMonths": 10,
+      "underSixMonths": 5,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6508,11 +7340,17 @@
     "slug": "roblox",
     "questionCounts": {
       "all": 54,
-      "moreThanSixMonths": 44
+      "moreThanSixMonths": 44,
+      "underSixMonths": 11,
+      "thirtyDays": 1,
+      "threeMonths": 5
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -6534,11 +7372,13 @@
     "slug": "rokt",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6547,11 +7387,15 @@
     "slug": "roku",
     "questionCounts": {
       "all": 16,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6560,11 +7404,15 @@
     "slug": "rubrik",
     "questionCounts": {
       "all": 37,
-      "moreThanSixMonths": 30
+      "moreThanSixMonths": 30,
+      "underSixMonths": 7,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6573,11 +7421,17 @@
     "slug": "salesforce",
     "questionCounts": {
       "all": 198,
-      "moreThanSixMonths": 162
+      "moreThanSixMonths": 162,
+      "underSixMonths": 37,
+      "thirtyDays": 6,
+      "threeMonths": 13
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -6597,11 +7451,13 @@
     "slug": "samsara",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6610,11 +7466,15 @@
     "slug": "samsung",
     "questionCounts": {
       "all": 72,
-      "moreThanSixMonths": 64
+      "moreThanSixMonths": 64,
+      "underSixMonths": 8,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6623,11 +7483,15 @@
     "slug": "sap",
     "questionCounts": {
       "all": 41,
-      "moreThanSixMonths": 35
+      "moreThanSixMonths": 35,
+      "underSixMonths": 4,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6688,11 +7552,15 @@
     "slug": "servicenow",
     "questionCounts": {
       "all": 86,
-      "moreThanSixMonths": 73
+      "moreThanSixMonths": 73,
+      "underSixMonths": 14,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6740,11 +7608,13 @@
     "slug": "shopee",
     "questionCounts": {
       "all": 9,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6753,11 +7623,15 @@
     "slug": "shopify",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 3,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6766,11 +7640,13 @@
     "slug": "siemens",
     "questionCounts": {
       "all": 26,
-      "moreThanSixMonths": 22
+      "moreThanSixMonths": 22,
+      "underSixMonths": 6
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6779,11 +7655,13 @@
     "slug": "sig",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -6792,11 +7670,15 @@
     "slug": "sigmoid",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6870,11 +7752,15 @@
     "slug": "snapchat",
     "questionCounts": {
       "all": 111,
-      "moreThanSixMonths": 94
+      "moreThanSixMonths": 94,
+      "underSixMonths": 22,
+      "threeMonths": 15
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6896,11 +7782,17 @@
     "slug": "snowflake",
     "questionCounts": {
       "all": 97,
-      "moreThanSixMonths": 64
+      "moreThanSixMonths": 64,
+      "underSixMonths": 45,
+      "thirtyDays": 5,
+      "threeMonths": 24
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -6922,11 +7814,15 @@
     "slug": "sofi",
     "questionCounts": {
       "all": 18,
-      "moreThanSixMonths": 13
+      "moreThanSixMonths": 13,
+      "underSixMonths": 6,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -6948,11 +7844,13 @@
     "slug": "softwire",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7013,11 +7911,15 @@
     "slug": "spinny",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7026,11 +7928,13 @@
     "slug": "splunk",
     "questionCounts": {
       "all": 15,
-      "moreThanSixMonths": 10
+      "moreThanSixMonths": 10,
+      "underSixMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7039,11 +7943,17 @@
     "slug": "spotify",
     "questionCounts": {
       "all": 13,
-      "moreThanSixMonths": 10
+      "moreThanSixMonths": 10,
+      "underSixMonths": 6,
+      "thirtyDays": 2,
+      "threeMonths": 6
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -7065,11 +7975,13 @@
     "slug": "square",
     "questionCounts": {
       "all": 14,
-      "moreThanSixMonths": 14
+      "moreThanSixMonths": 14,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7078,11 +7990,13 @@
     "slug": "squarepoint-capital",
     "questionCounts": {
       "all": 14,
-      "moreThanSixMonths": 9
+      "moreThanSixMonths": 9,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7091,11 +8005,15 @@
     "slug": "squarespace",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7117,11 +8035,13 @@
     "slug": "stackline",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7129,10 +8049,14 @@
     "name": "Starbucks",
     "slug": "starbucks",
     "questionCounts": {
-      "all": 2
+      "all": 2,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7140,10 +8064,12 @@
     "name": "State Farm",
     "slug": "state-farm",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -7165,11 +8091,17 @@
     "slug": "stripe",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -7202,11 +8134,17 @@
     "slug": "swiggy",
     "questionCounts": {
       "all": 31,
-      "moreThanSixMonths": 20
+      "moreThanSixMonths": 20,
+      "underSixMonths": 7,
+      "thirtyDays": 1,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -7293,11 +8231,13 @@
     "slug": "tanium",
     "questionCounts": {
       "all": 1,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7319,11 +8259,17 @@
     "slug": "tcs",
     "questionCounts": {
       "all": 191,
-      "moreThanSixMonths": 162
+      "moreThanSixMonths": 162,
+      "underSixMonths": 41,
+      "thirtyDays": 4,
+      "threeMonths": 10
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -7345,11 +8291,15 @@
     "slug": "tekion",
     "questionCounts": {
       "all": 19,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 7,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7358,11 +8308,15 @@
     "slug": "tencent",
     "questionCounts": {
       "all": 13,
-      "moreThanSixMonths": 12
+      "moreThanSixMonths": 12,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7384,11 +8338,13 @@
     "slug": "tesco",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7397,11 +8353,15 @@
     "slug": "tesla",
     "questionCounts": {
       "all": 49,
-      "moreThanSixMonths": 37
+      "moreThanSixMonths": 37,
+      "underSixMonths": 9,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7423,11 +8383,13 @@
     "slug": "the-trade-desk",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7514,11 +8476,15 @@
     "slug": "tiger-analytics",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7527,11 +8493,17 @@
     "slug": "tiktok",
     "questionCounts": {
       "all": 446,
-      "moreThanSixMonths": 401
+      "moreThanSixMonths": 401,
+      "underSixMonths": 123,
+      "thirtyDays": 15,
+      "threeMonths": 60
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -7566,11 +8538,15 @@
     "slug": "toast",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7592,11 +8568,13 @@
     "slug": "tomtom",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7630,10 +8608,12 @@
     "name": "Tracxn",
     "slug": "tracxn",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -7642,11 +8622,13 @@
     "slug": "traveloka",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7668,11 +8650,17 @@
     "slug": "trilogy",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 1,
+      "thirtyDays": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -7681,11 +8669,13 @@
     "slug": "tripadvisor",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7707,11 +8697,15 @@
     "slug": "turing",
     "questionCounts": {
       "all": 41,
-      "moreThanSixMonths": 33
+      "moreThanSixMonths": 33,
+      "underSixMonths": 10,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7772,11 +8766,15 @@
     "slug": "twitch",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7798,11 +8796,13 @@
     "slug": "two-sigma",
     "questionCounts": {
       "all": 22,
-      "moreThanSixMonths": 21
+      "moreThanSixMonths": 21,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7811,11 +8811,17 @@
     "slug": "uber",
     "questionCounts": {
       "all": 529,
-      "moreThanSixMonths": 483
+      "moreThanSixMonths": 483,
+      "underSixMonths": 91,
+      "thirtyDays": 9,
+      "threeMonths": 43
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -7835,11 +8841,13 @@
     "slug": "ubs",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -7848,11 +8856,15 @@
     "slug": "uipath",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 3,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7861,11 +8873,15 @@
     "slug": "ukg",
     "questionCounts": {
       "all": 11,
-      "moreThanSixMonths": 8
+      "moreThanSixMonths": 8,
+      "underSixMonths": 5,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7913,11 +8929,15 @@
     "slug": "upstart",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -7976,11 +8996,13 @@
     "slug": "valve",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -8015,11 +9037,13 @@
     "slug": "verily",
     "questionCounts": {
       "all": 12,
-      "moreThanSixMonths": 11
+      "moreThanSixMonths": 11,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -8041,11 +9065,13 @@
     "slug": "verizon",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 6
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -8054,11 +9080,15 @@
     "slug": "verkada",
     "questionCounts": {
       "all": 16,
-      "moreThanSixMonths": 14
+      "moreThanSixMonths": 14,
+      "underSixMonths": 3,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8067,11 +9097,13 @@
     "slug": "viasat",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 1
+      "moreThanSixMonths": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -8080,11 +9112,15 @@
     "slug": "vimeo",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8093,11 +9129,15 @@
     "slug": "virtu",
     "questionCounts": {
       "all": 5,
-      "moreThanSixMonths": 5
+      "moreThanSixMonths": 5,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8119,11 +9159,15 @@
     "slug": "visa",
     "questionCounts": {
       "all": 84,
-      "moreThanSixMonths": 55
+      "moreThanSixMonths": 55,
+      "underSixMonths": 32,
+      "threeMonths": 19
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8132,11 +9176,15 @@
     "slug": "vk",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8158,11 +9206,17 @@
     "slug": "walmart-labs",
     "questionCounts": {
       "all": 169,
-      "moreThanSixMonths": 147
+      "moreThanSixMonths": 147,
+      "underSixMonths": 31,
+      "thirtyDays": 1,
+      "threeMonths": 12
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -8171,11 +9225,15 @@
     "slug": "warnermedia",
     "questionCounts": {
       "all": 11,
-      "moreThanSixMonths": 8
+      "moreThanSixMonths": 8,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8197,11 +9255,13 @@
     "slug": "wayfair",
     "questionCounts": {
       "all": 24,
-      "moreThanSixMonths": 22
+      "moreThanSixMonths": 22,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -8210,11 +9270,15 @@
     "slug": "waymo",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 6,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8262,11 +9326,15 @@
     "slug": "weride",
     "questionCounts": {
       "all": 6,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 4,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8274,10 +9342,12 @@
     "name": "Western Digital",
     "slug": "western-digital",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -8299,11 +9369,15 @@
     "slug": "whatnot",
     "questionCounts": {
       "all": 7,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8325,11 +9399,15 @@
     "slug": "wipro",
     "questionCounts": {
       "all": 25,
-      "moreThanSixMonths": 21
+      "moreThanSixMonths": 21,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8364,11 +9442,15 @@
     "slug": "wissen",
     "questionCounts": {
       "all": 3,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8377,11 +9459,15 @@
     "slug": "wix",
     "questionCounts": {
       "all": 57,
-      "moreThanSixMonths": 49
+      "moreThanSixMonths": 49,
+      "underSixMonths": 8,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8390,11 +9476,15 @@
     "slug": "workday",
     "questionCounts": {
       "all": 8,
-      "moreThanSixMonths": 6
+      "moreThanSixMonths": 6,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8416,11 +9506,15 @@
     "slug": "worldquant",
     "questionCounts": {
       "all": 4,
-      "moreThanSixMonths": 3
+      "moreThanSixMonths": 3,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8428,10 +9522,12 @@
     "name": "Woven By Toyota",
     "slug": "woven-by-toyota",
     "questionCounts": {
-      "all": 1
+      "all": 1,
+      "underSixMonths": 1
     },
     "availablePeriods": [
-      "all"
+      "all",
+      "underSixMonths"
     ]
   },
   {
@@ -8464,11 +9560,15 @@
     "slug": "yahoo",
     "questionCounts": {
       "all": 301,
-      "moreThanSixMonths": 297
+      "moreThanSixMonths": 297,
+      "underSixMonths": 4,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8477,11 +9577,17 @@
     "slug": "yandex",
     "questionCounts": {
       "all": 144,
-      "moreThanSixMonths": 130
+      "moreThanSixMonths": 130,
+      "underSixMonths": 50,
+      "thirtyDays": 8,
+      "threeMonths": 33
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -8503,11 +9609,15 @@
     "slug": "yelp",
     "questionCounts": {
       "all": 29,
-      "moreThanSixMonths": 28
+      "moreThanSixMonths": 28,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8594,11 +9704,13 @@
     "slug": "zepto",
     "questionCounts": {
       "all": 31,
-      "moreThanSixMonths": 29
+      "moreThanSixMonths": 29,
+      "underSixMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths"
     ]
   },
   {
@@ -8607,11 +9719,17 @@
     "slug": "zeta",
     "questionCounts": {
       "all": 25,
-      "moreThanSixMonths": 15
+      "moreThanSixMonths": 15,
+      "underSixMonths": 8,
+      "thirtyDays": 2,
+      "threeMonths": 3
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -8646,11 +9764,15 @@
     "slug": "zip",
     "questionCounts": {
       "all": 2,
-      "moreThanSixMonths": 2
+      "moreThanSixMonths": 2,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8685,11 +9807,17 @@
     "slug": "zoho",
     "questionCounts": {
       "all": 164,
-      "moreThanSixMonths": 134
+      "moreThanSixMonths": 134,
+      "underSixMonths": 41,
+      "thirtyDays": 14,
+      "threeMonths": 28
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths",
+      "thirtyDays"
     ]
   },
   {
@@ -8698,11 +9826,15 @@
     "slug": "zomato",
     "questionCounts": {
       "all": 25,
-      "moreThanSixMonths": 21
+      "moreThanSixMonths": 21,
+      "underSixMonths": 2,
+      "threeMonths": 2
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8724,11 +9856,15 @@
     "slug": "zoox",
     "questionCounts": {
       "all": 9,
-      "moreThanSixMonths": 4
+      "moreThanSixMonths": 4,
+      "underSixMonths": 2,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8737,11 +9873,15 @@
     "slug": "zopsmart",
     "questionCounts": {
       "all": 19,
-      "moreThanSixMonths": 14
+      "moreThanSixMonths": 14,
+      "underSixMonths": 5,
+      "threeMonths": 4
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8750,11 +9890,15 @@
     "slug": "zs-associates",
     "questionCounts": {
       "all": 10,
-      "moreThanSixMonths": 7
+      "moreThanSixMonths": 7,
+      "underSixMonths": 1,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
@@ -8763,11 +9907,15 @@
     "slug": "zscaler",
     "questionCounts": {
       "all": 23,
-      "moreThanSixMonths": 19
+      "moreThanSixMonths": 19,
+      "underSixMonths": 3,
+      "threeMonths": 1
     },
     "availablePeriods": [
       "all",
-      "moreThanSixMonths"
+      "moreThanSixMonths",
+      "underSixMonths",
+      "threeMonths"
     ]
   },
   {
