@@ -92,8 +92,8 @@ export default function CompanyCard({ company }: CompanyCardProps) {
             )}
           </div>
           
-          {/* Hover indicator */}
-          <div className="absolute bottom-4 right-4 opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-y-2 group-hover:translate-y-0">
+          {/* Hover indicator - top right, opposite name */}
+          <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 transition-all duration-300 transform -translate-y-2 group-hover:translate-y-0">
             <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center border border-white/30">
               <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />

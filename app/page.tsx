@@ -1,6 +1,8 @@
 // src/app/page.tsx - Homepage
 import { fetchCompanies } from '@/lib/data-fetcher';
 import CompanyCard from '@/components/CompanyCard';
+import InfiniteCompanies from '@/components/InfiniteCompanies';
+import SearchBar from '@/components/SearchBar';
 
 export default async function HomePage() {
   const companies = await fetchCompanies();
@@ -39,13 +41,14 @@ export default async function HomePage() {
           <h2 className="text-3xl font-bold text-white mb-2">Browse Companies</h2>
           <p className="text-gray-400">Select a company to view their interview questions</p>
         </div>
-        
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {companies.map((company) => (
-            <CompanyCard key={company.id} company={company} />
-          ))}
+
+        {/* Search Bar */}
+        <div className="mb-10">
+          <SearchBar companies={companies} />
         </div>
-        
+
+        <InfiniteCompanies companies={companies} batchSize={20} />
+
         {/* Footer note */}
         <div className="text-center mt-16">
           <div className="glass rounded-2xl p-6 max-w-2xl mx-auto">
