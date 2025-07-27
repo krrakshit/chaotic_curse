@@ -14,11 +14,10 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
   const resolvedParams = await params;
   const resolvedSearchParams = await searchParams;
 
-  // Fetch company meta from companies-list.json (filesystem)
-  const fs = await import('fs');
-  const path = await import('path');
-  const companiesPath = path.join(process.cwd(), 'public', 'data', 'companies-list.json');
-  const companies = JSON.parse(fs.readFileSync(companiesPath, 'utf-8'));
+  // Fetch company meta from backend API
+  const backendBaseUrl = process.env.NEXT_PUBLIC_BACKEND_URL || 'http://localhost:4000';
+  const companiesRes = await fetch(`${backendBaseUrl}/api/companies-list`);
+  const companies = await companiesRes.json();
   const company = companies.find((c: any) => c.slug === resolvedParams.slug);
   if (!company) {
     notFound();
@@ -33,21 +32,13 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
     notFound();
   }
 
-  // Fetch questions from API
-  // Build absolute URL for fetch
-  let baseUrl = process.env.NEXT_PUBLIC_BASE_URL;
-  if (!baseUrl) {
-    // Try to infer from environment (localhost or production)
-    baseUrl = process.env.VERCEL_URL
-      ? `https://${process.env.VERCEL_URL}`
-      : 'http://localhost:3000';
-  }
-  const apiUrl = `${baseUrl}/api/company?slug=${resolvedParams.slug}&period=${period}`;
-  const res = await fetch(apiUrl, { cache: 'no-store' });
-  if (!res.ok) {
+  // Fetch all questions for the company from backend API
+  const questionsRes = await fetch(`${backendBaseUrl}/api/company/${resolvedParams.slug}`);
+  if (!questionsRes.ok) {
     notFound();
   }
-  const { questions } = await res.json();
+  const allQuestions = await questionsRes.json();
+  const questions = allQuestions.questions[period] || [];
 
   return (
     <div className="min-h-screen">
