@@ -32,10 +32,10 @@ export default function QuestionTable({ questions }: QuestionTableProps) {
 
   const getDifficultyColor = (difficulty: string) => {
     switch (difficulty) {
-      case 'Easy': return 'text-green-300 bg-green-500/20 border-green-400/30';
-      case 'Medium': return 'text-yellow-300 bg-yellow-500/20 border-yellow-400/30';
-      case 'Hard': return 'text-red-300 bg-red-500/20 border-red-400/30';
-      default: return 'text-gray-300 bg-gray-500/20 border-gray-400/30';
+      case 'Easy': return 'text-white bg-white/20 border-white/30';
+      case 'Medium': return 'text-white bg-white/15 border-white/25';
+      case 'Hard': return 'text-white bg-white/10 border-white/20';
+      default: return 'text-gray-300 bg-white/5 border-white/15';
     }
   };
 
@@ -58,7 +58,7 @@ export default function QuestionTable({ questions }: QuestionTableProps) {
         </div>
         
         <div className="flex items-center gap-2 text-gray-300 text-sm">
-          <div className="w-2 h-2 bg-blue-400 rounded-full" />
+          <div className="w-2 h-2 bg-white/60 rounded-full" />
           <span>{sortedQuestions.length} questions</span>
         </div>
       </div>
@@ -104,7 +104,7 @@ export default function QuestionTable({ questions }: QuestionTableProps) {
                       href={question.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-white hover:text-purple-300 font-medium transition-colors duration-300 flex items-center gap-2"
+                      className="text-white hover:text-gray-200 font-medium transition-colors duration-300 flex items-center gap-2"
                     >
                       {question.title}
                       <svg className="w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -112,7 +112,7 @@ export default function QuestionTable({ questions }: QuestionTableProps) {
                       </svg>
                     </a>
                     {question.isPremium && (
-                      <span className="px-2 py-1 text-xs bg-gradient-to-r from-yellow-500/20 to-orange-500/20 text-yellow-300 rounded-full border border-yellow-400/30">
+                      <span className="px-2 py-1 text-xs bg-white/10 text-white rounded-full border border-white/20">
                         Premium
                       </span>
                     )}

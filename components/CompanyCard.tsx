@@ -14,8 +14,8 @@ export default function CompanyCard({ company }: CompanyCardProps) {
   return (
     <Link href={`/company/${company.slug}`} className="block group">
       <div className="glass-card rounded-2xl p-6 h-full relative overflow-hidden">
-        {/* Background gradient overlay */}
-        <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 via-blue-500/5 to-pink-500/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+        {/* Background subtle overlay */}
+        <div className="absolute inset-0 bg-gradient-to-br from-white/5 via-transparent to-white/3 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
         
         {/* Main content */}
         <div className="relative z-10">
@@ -23,7 +23,7 @@ export default function CompanyCard({ company }: CompanyCardProps) {
           <div className="flex items-center gap-4 mb-6">
             <div className="relative">
               {company.logo ? (
-                <div className="w-14 h-14 rounded-xl overflow-hidden bg-white/20 backdrop-blur-sm border border-white/20">
+                <div className="w-14 h-14 rounded-xl overflow-hidden bg-white/10 backdrop-blur-sm border border-white/20">
                   <Image
                     src={company.logo} 
                     alt={`${company.name} logo`}
@@ -33,7 +33,7 @@ export default function CompanyCard({ company }: CompanyCardProps) {
                   />
                 </div>
               ) : (
-                <div className="w-14 h-14 rounded-xl bg-gradient-to-br from-purple-400 to-blue-500 flex items-center justify-center">
+                <div className="w-14 h-14 rounded-xl bg-gradient-to-br from-white/20 to-white/10 flex items-center justify-center border border-white/20">
                   <span className="text-white font-bold text-lg">
                     {company.name.charAt(0).toUpperCase()}
                   </span>
@@ -41,11 +41,11 @@ export default function CompanyCard({ company }: CompanyCardProps) {
               )}
             </div>
             <div className="flex-1 min-w-0">
-              <h3 className="text-xl font-bold text-white group-hover:text-purple-200 transition-colors duration-300 truncate">
+              <h3 className="text-xl font-bold text-white group-hover:text-gray-200 transition-colors duration-300 truncate">
                 {company.name}
               </h3>
               <div className="flex items-center gap-2 mt-1">
-                <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
+                <div className="w-2 h-2 bg-white/60 rounded-full animate-pulse" />
                 <span className="text-sm text-gray-300">
                   {totalQuestions} questions available
                 </span>
@@ -58,10 +58,10 @@ export default function CompanyCard({ company }: CompanyCardProps) {
             {company.questionCounts.underSixMonths !== undefined && (
               <div className="flex items-center justify-between p-3 rounded-xl bg-white/5 backdrop-blur-sm border border-white/10">
                 <div className="flex items-center gap-2">
-                  <div className="w-2 h-2 bg-blue-400 rounded-full" />
+                  <div className="w-2 h-2 bg-white/70 rounded-full" />
                   <span className="text-sm text-gray-300">Recent (≤6 months)</span>
                 </div>
-                <span className="text-lg font-bold text-blue-300">
+                <span className="text-lg font-bold text-white">
                   {company.questionCounts.underSixMonths}
                 </span>
               </div>
@@ -70,19 +70,19 @@ export default function CompanyCard({ company }: CompanyCardProps) {
             {company.questionCounts.moreThanSixMonths !== undefined && (
               <div className="flex items-center justify-between p-3 rounded-xl bg-white/5 backdrop-blur-sm border border-white/10">
                 <div className="flex items-center gap-2">
-                  <div className="w-2 h-2 bg-purple-400 rounded-full" />
+                  <div className="w-2 h-2 bg-gray-400 rounded-full" />
                   <span className="text-sm text-gray-300">Older (&gt;6 months)</span>
                 </div>
-                <span className="text-lg font-bold text-purple-300">
+                <span className="text-lg font-bold text-gray-200">
                   {company.questionCounts.moreThanSixMonths}
                 </span>
               </div>
             )}
             
             {company.questionCounts.all !== undefined && (
-              <div className="flex items-center justify-between p-3 rounded-xl bg-gradient-to-r from-purple-500/20 to-blue-500/20 backdrop-blur-sm border border-purple-400/30">
+              <div className="flex items-center justify-between p-3 rounded-xl bg-white/10 backdrop-blur-sm border border-white/20">
                 <div className="flex items-center gap-2">
-                  <div className="w-2 h-2 bg-gradient-to-r from-purple-400 to-blue-400 rounded-full" />
+                  <div className="w-2 h-2 bg-white rounded-full" />
                   <span className="text-sm text-white font-medium">All Questions</span>
                 </div>
                 <span className="text-xl font-bold text-white">
@@ -94,7 +94,7 @@ export default function CompanyCard({ company }: CompanyCardProps) {
           
           {/* Hover indicator */}
           <div className="absolute bottom-4 right-4 opacity-0 group-hover:opacity-100 transition-all duration-300 transform translate-y-2 group-hover:translate-y-0">
-            <div className="w-8 h-8 rounded-full bg-gradient-to-r from-purple-400 to-blue-400 flex items-center justify-center">
+            <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center border border-white/30">
               <svg className="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>

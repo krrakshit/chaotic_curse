@@ -71,7 +71,7 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
           <div className="flex items-center gap-6 mb-6">
             <div className="relative">
               {company.logo ? (
-                <div className="w-20 h-20 rounded-2xl overflow-hidden bg-white/20 backdrop-blur-sm border border-white/20">
+                <div className="w-20 h-20 rounded-2xl overflow-hidden bg-white/10 backdrop-blur-sm border border-white/20">
                   <Image
                     src={company.logo}
                     alt={`${company.name} logo`}
@@ -81,7 +81,7 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
                   />
                 </div>
               ) : (
-                <div className="w-20 h-20 rounded-2xl bg-gradient-to-br from-purple-400 to-blue-500 flex items-center justify-center">
+                <div className="w-20 h-20 rounded-2xl bg-gradient-to-br from-white/20 to-white/10 flex items-center justify-center border border-white/20">
                   <span className="text-white font-bold text-3xl">
                     {company.name.charAt(0).toUpperCase()}
                   </span>
@@ -92,7 +92,7 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
               <h1 className="text-4xl font-bold text-white mb-2">{company.name}</h1>
               <div className="flex items-center gap-4 text-gray-300">
                 <div className="flex items-center gap-2">
-                  <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
+                  <div className="w-2 h-2 bg-white/60 rounded-full animate-pulse" />
                   <span>{questions.length} questions available</span>
                 </div>
                 <div className="w-1 h-1 bg-gray-500 rounded-full" />

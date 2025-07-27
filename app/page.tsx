@@ -20,12 +20,12 @@ export default async function HomePage() {
             </p>
             <div className="flex items-center justify-center gap-4 text-sm text-gray-400">
               <div className="flex items-center gap-2">
-                <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
+                <div className="w-2 h-2 bg-white/60 rounded-full animate-pulse" />
                 <span>{companies.length} Companies</span>
               </div>
               <div className="w-1 h-1 bg-gray-500 rounded-full" />
               <div className="flex items-center gap-2">
-                <div className="w-2 h-2 bg-blue-400 rounded-full" />
+                <div className="w-2 h-2 bg-gray-400 rounded-full" />
                 <span>Updated Daily</span>
               </div>
             </div>
