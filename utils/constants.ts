@@ -56,17 +56,3 @@ export const DIFFICULTY_COLORS = {
   } as const;
   
   export const ITEMS_PER_PAGE = 50;
-  
-  export const COMPANY_LOGOS: Record<string, string> = {
-    google: '/logos/google.png',
-    microsoft: '/logos/microsoft.png',
-    amazon: '/logos/amazon.png',
-    meta: '/logos/meta.png',
-    apple: '/logos/apple.png',
-    netflix: '/logos/netflix.png',
-    uber: '/logos/uber.png',
-    airbnb: '/logos/airbnb.png',
-    // Add more company logos as needed
-  };
-  
-  // components/SearchBar.tsx

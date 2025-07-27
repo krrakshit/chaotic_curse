@@ -1,6 +1,5 @@
 // src/lib/data-fetcher.ts
 import { Company, CompanyQuestions, Question, TimePeriod } from './types';
-import { parseCSV } from './csv-parser';
 
 const CSV_FILE_MAPPING = {
   'underSixMonths': 'under-six-months.csv',

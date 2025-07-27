@@ -2,15 +2,15 @@
 
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { Company } from '@/lib/types';
-import { COMPANY_LOGOS } from '@/utils/constants';
-import Image from 'next/image';
 
 interface SearchBarProps {
   companies: Company[];
 }
 
 export default function SearchBar({ companies }: SearchBarProps) {
+  const router = useRouter();
   const [searchTerm, setSearchTerm] = useState('');
   const [isOpen, setIsOpen] = useState(false);
 
@@ -30,14 +30,9 @@ export default function SearchBar({ companies }: SearchBarProps) {
     setIsOpen(true);
   };
 
-  const handleResultClick = () => {
-    setSearchTerm('');
-    setIsOpen(false);
-  };
-
   const handleInputBlur = () => {
     // Delay closing to allow clicking on results
-    setTimeout(() => setIsOpen(false), 200);
+    setTimeout(() => setIsOpen(false), 150);
   };
 
   return (
@@ -74,20 +69,12 @@ export default function SearchBar({ companies }: SearchBarProps) {
         <div className="absolute z-10 mt-1 w-full bg-white shadow-lg max-h-60 rounded-md py-1 text-base ring-1 ring-black ring-opacity-5 overflow-auto focus:outline-none">
           {filteredCompanies.length > 0 ? (
             filteredCompanies.map((company) => (
-              <Link
+              <a
                 key={company.id}
                 href={`/company/${company.slug}`}
-                onClick={handleResultClick}
-                className="block px-4 py-3 hover:bg-gray-50 cursor-pointer"
+                className="block w-full text-left px-4 py-3 hover:bg-gray-50 cursor-pointer"
               >
                 <div className="flex items-center space-x-3">
-                  {COMPANY_LOGOS[company.slug] && (
-                    <Image
-                      src={COMPANY_LOGOS[company.slug]}
-                      alt={`${company.name} logo`}
-                      className="w-6 h-6 rounded flex-shrink-0"
-                    />
-                  )}
                   <div className="flex-1 min-w-0">
                     <p className="text-sm font-medium text-gray-900 truncate">
                       {company.name}
@@ -97,7 +84,7 @@ export default function SearchBar({ companies }: SearchBarProps) {
                     </p>
                   </div>
                 </div>
-              </Link>
+              </a>
             ))
           ) : (
             <div className="px-4 py-3 text-sm text-gray-500">
