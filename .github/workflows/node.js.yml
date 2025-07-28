@@ -1,0 +1,22 @@
+name: Keep Render App Alive
+
+on:
+  schedule:
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Ping Render App
+      run: |
+        echo "Pinging app at $(date)"
+        curl -f -s -o /dev/null -w "HTTP Status: %{http_code}, Response Time: %{time_total}s\n" \
+          --max-time 30 \
+          --retry 3 \
+          --retry-delay 5 \
+          "${{ secrets.APP_URL }}" || echo "Ping failed"
+        echo "Ping completed at $(date)"
