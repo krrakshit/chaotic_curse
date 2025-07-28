@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1690,
+    "title": "Stone Game VII",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/stone-game-vii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1420,
+    "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "difficulty": "Hard",
+    "acceptanceRate": 66.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1698,
+    "title": "Number of Distinct Substrings in a String",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1639,
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "Hard",
+    "acceptanceRate": 57,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1397,
+    "title": "Find All Good Strings",
+    "difficulty": "Hard",
+    "acceptanceRate": 43.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-all-good-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1664,
+    "title": "Ways to Make a Fair Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 222,
+    "title": "Count Complete Tree Nodes",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/count-complete-tree-nodes",
+    "tags": [],
+    "isPremium": false
+  }
+]

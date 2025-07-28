@@ -1,0 +1,72 @@
+[
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 680,
+    "title": "Valid Palindrome II",
+    "difficulty": "Easy",
+    "acceptanceRate": 43.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-palindrome-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "difficulty": "Easy",
+    "acceptanceRate": 71.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 240,
+    "title": "Search a 2D Matrix II",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 79,
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/word-search",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 73.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

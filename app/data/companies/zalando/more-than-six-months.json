@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2745,
+    "title": "Construct the Longest New String",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/construct-the-longest-new-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 984,
+    "title": "String Without AAA or BBB",
+    "difficulty": "Medium",
+    "acceptanceRate": 44.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/string-without-aaa-or-bbb",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 860,
+    "title": "Lemonade Change",
+    "difficulty": "Easy",
+    "acceptanceRate": 58.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/lemonade-change",
+    "tags": [],
+    "isPremium": false
+  }
+]

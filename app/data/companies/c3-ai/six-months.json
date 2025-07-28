@@ -1,0 +1,42 @@
+[
+  {
+    "id": 281,
+    "title": "Zigzag Iterator",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/zigzag-iterator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  }
+]

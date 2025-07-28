@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2747,
+    "title": "Count Zero Request Servers",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-zero-request-servers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 64,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 729,
+    "title": "My Calendar I",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/my-calendar-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 981,
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/time-based-key-value-store",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 948,
+    "title": "Bag of Tokens",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/bag-of-tokens",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "acceptanceRate": 53,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/decode-string",
+    "tags": [],
+    "isPremium": false
+  }
+]

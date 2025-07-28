@@ -1,0 +1,72 @@
+[
+  {
+    "id": 2360,
+    "title": "Longest Cycle in a Graph",
+    "difficulty": "Hard",
+    "acceptanceRate": 49.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2359,
+    "title": "Find Closest Node to Given Two Nodes",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1993,
+    "title": "Operations on Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/operations-on-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/set-matrix-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2374,
+    "title": "Node With Highest Edge Score",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/node-with-highest-edge-score",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3409,
+    "title": "Longest Subsequence With Decreasing Adjacent Difference",
+    "difficulty": "Medium",
+    "acceptanceRate": 14.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+    "tags": [],
+    "isPremium": false
+  }
+]

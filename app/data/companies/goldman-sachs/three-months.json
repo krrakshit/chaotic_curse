@@ -1,0 +1,322 @@
+[
+  {
+    "id": 387,
+    "title": "First Unique Character in a String",
+    "difficulty": "Easy",
+    "acceptanceRate": 63.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 4,
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "acceptanceRate": 44,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1823,
+    "title": "Find the Winner of the Circular Game",
+    "difficulty": "Medium",
+    "acceptanceRate": 82.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 166,
+    "title": "Fraction to Recurring Decimal",
+    "difficulty": "Medium",
+    "acceptanceRate": 26.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1086,
+    "title": "High Five",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/high-five",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 64,
+    "title": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-path-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 91,
+    "title": "Decode Ways",
+    "difficulty": "Medium",
+    "acceptanceRate": 36.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/decode-ways",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1094,
+    "title": "Car Pooling",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/car-pooling",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 153,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 8,
+    "title": "String to Integer (atoi)",
+    "difficulty": "Medium",
+    "acceptanceRate": 19.4,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/string-to-integer-atoi",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 215,
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 657,
+    "title": "Robot Return to Origin",
+    "difficulty": "Easy",
+    "acceptanceRate": 76.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/robot-return-to-origin",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 688,
+    "title": "Knight Probability in Chessboard",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/knight-probability-in-chessboard",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1343,
+    "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "difficulty": "Medium",
+    "acceptanceRate": 70.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.7,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/non-overlapping-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 968,
+    "title": "Binary Tree Cameras",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/binary-tree-cameras",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 312,
+    "title": "Burst Balloons",
+    "difficulty": "Hard",
+    "acceptanceRate": 61.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/burst-balloons",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 979,
+    "title": "Distribute Coins in Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 77.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/distribute-coins-in-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.4,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/add-two-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 47,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1262,
+    "title": "Greatest Sum Divisible by Three",
+    "difficulty": "Medium",
+    "acceptanceRate": 51,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/greatest-sum-divisible-by-three",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.4,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2007,
+    "title": "Find Original Array From Doubled Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.5,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 206,
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "acceptanceRate": 79.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/reverse-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2563,
+    "title": "Count the Number of Fair Pairs",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-the-number-of-fair-pairs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  }
+]

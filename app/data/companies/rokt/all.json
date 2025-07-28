@@ -1,0 +1,42 @@
+[
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 408,
+    "title": "Valid Word Abbreviation",
+    "difficulty": "Easy",
+    "acceptanceRate": 36.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-word-abbreviation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 227,
+    "title": "Basic Calculator II",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/basic-calculator-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 224,
+    "title": "Basic Calculator",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/basic-calculator",
+    "tags": [],
+    "isPremium": false
+  }
+]

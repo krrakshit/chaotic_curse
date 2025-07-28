@@ -1,0 +1,22 @@
+[
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  }
+]

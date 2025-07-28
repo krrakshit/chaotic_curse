@@ -1,0 +1,22 @@
+[
+  {
+    "id": 803,
+    "title": "Bricks Falling When Hit",
+    "difficulty": "Hard",
+    "acceptanceRate": 35.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/bricks-falling-when-hit",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 96,
+    "title": "Unique Binary Search Trees",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/unique-binary-search-trees",
+    "tags": [],
+    "isPremium": false
+  }
+]

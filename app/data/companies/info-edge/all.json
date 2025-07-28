@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2058,
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3334,
+    "title": "Find the Maximum Factor Score of Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 815,
+    "title": "Bus Routes",
+    "difficulty": "Hard",
+    "acceptanceRate": 47,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/bus-routes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1476,
+    "title": "Subrectangle Queries",
+    "difficulty": "Medium",
+    "acceptanceRate": 86,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/subrectangle-queries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3265,
+    "title": "Count Almost Equal Pairs I",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-almost-equal-pairs-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2032,
+    "title": "Two Out of Three",
+    "difficulty": "Easy",
+    "acceptanceRate": 76.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/two-out-of-three",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sort-colors",
+    "tags": [],
+    "isPremium": false
+  }
+]

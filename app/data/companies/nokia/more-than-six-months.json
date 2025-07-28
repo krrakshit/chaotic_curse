@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2144,
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1250,
+    "title": "Check If It Is a Good Array",
+    "difficulty": "Hard",
+    "acceptanceRate": 61.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

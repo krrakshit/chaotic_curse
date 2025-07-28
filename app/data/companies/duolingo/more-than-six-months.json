@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2227,
+    "title": "Encrypt and Decrypt Strings",
+    "difficulty": "Hard",
+    "acceptanceRate": 37,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1733,
+    "title": "Minimum Number of People to Teach",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2090,
+    "title": "K Radius Subarray Averages",
+    "difficulty": "Medium",
+    "acceptanceRate": 46,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/k-radius-subarray-averages",
+    "tags": [],
+    "isPremium": false
+  }
+]

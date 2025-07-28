@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1242,
+    "title": "Web Crawler Multithreaded",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "tags": [],
+    "isPremium": false
+  }
+]

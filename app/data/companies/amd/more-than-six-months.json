@@ -1,0 +1,82 @@
+[
+  {
+    "id": 191,
+    "title": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/number-of-1-bits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/climbing-stairs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 48,
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "acceptanceRate": 78.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/rotate-image",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 215,
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

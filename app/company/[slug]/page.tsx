@@ -3,6 +3,7 @@ import FilterTabs from '@/components/FilterTabs';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
+import { fetchCompanies, fetchCompanyQuestionsByPeriod } from '@/lib/data-fetcher';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -14,10 +15,8 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
   const resolvedParams = await params;
   const resolvedSearchParams = await searchParams;
 
-  // Fetch company meta from backend API
-  const backendBaseUrl = process.env.NEXT_PUBLIC_BACKEND_URL || 'http://localhost:4000';
-  const companiesRes = await fetch(`${backendBaseUrl}/api/companies-list`);
-  const companies = await companiesRes.json();
+  // Fetch company meta from data-fetcher
+  const companies = await fetchCompanies();
   const company = companies.find((c: any) => c.slug === resolvedParams.slug);
   if (!company) {
     notFound();
@@ -32,13 +31,11 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
     notFound();
   }
 
-  // Fetch all questions for the company from backend API
-  const questionsRes = await fetch(`${backendBaseUrl}/api/company/${resolvedParams.slug}`);
-  if (!questionsRes.ok) {
+  // Fetch questions directly from filesystem
+  const questions = await fetchCompanyQuestionsByPeriod(resolvedParams.slug, period as import('@/lib/types').TimePeriod);
+  if (!questions) {
     notFound();
   }
-  const allQuestions = await questionsRes.json();
-  const questions = allQuestions.questions[period] || [];
 
   return (
     <div className="min-h-screen">
@@ -98,7 +95,7 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
       <div className="container mx-auto px-4 pb-16">
         <FilterTabs 
           companySlug={resolvedParams.slug}
-          currentPeriod={period}
+          currentPeriod={period as import('@/lib/types').TimePeriod}
           availablePeriods={company.availablePeriods}
           questionCounts={company.questionCounts}
         />

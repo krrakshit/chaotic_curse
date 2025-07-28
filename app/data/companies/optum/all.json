@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2000,
+    "title": "Reverse Prefix of Word",
+    "difficulty": "Easy",
+    "acceptanceRate": 86.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/reverse-prefix-of-word",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1555,
+    "title": "Bank Account Summary",
+    "difficulty": "Medium",
+    "acceptanceRate": 52,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/bank-account-summary",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1143,
+    "title": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-common-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sort-colors",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1982,
+    "title": "Find Array Given Subset Sums",
+    "difficulty": "Hard",
+    "acceptanceRate": 48.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-array-given-subset-sums",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1537,
+    "title": "Get the Maximum Score",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/get-the-maximum-score",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1434,
+    "title": "Number of Ways to Wear Different Hats to Each Other",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other",
+    "tags": [],
+    "isPremium": false
+  }
+]

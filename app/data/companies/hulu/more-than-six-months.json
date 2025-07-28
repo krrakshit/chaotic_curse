@@ -1,0 +1,52 @@
+[
+  {
+    "id": 814,
+    "title": "Binary Tree Pruning",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/binary-tree-pruning",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 772,
+    "title": "Basic Calculator III",
+    "difficulty": "Hard",
+    "acceptanceRate": 52.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/basic-calculator-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 371,
+    "title": "Sum of Two Integers",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sum-of-two-integers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1063,
+    "title": "Number of Valid Subarrays",
+    "difficulty": "Hard",
+    "acceptanceRate": 79.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-valid-subarrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 440,
+    "title": "K-th Smallest in Lexicographical Order",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+    "tags": [],
+    "isPremium": false
+  }
+]

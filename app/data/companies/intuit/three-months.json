@@ -1,0 +1,22 @@
+[
+  {
+    "id": 322,
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/coin-change",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  }
+]

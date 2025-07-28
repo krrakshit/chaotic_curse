@@ -1,0 +1,32 @@
+[
+  {
+    "id": 733,
+    "title": "Flood Fill",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/flood-fill",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 990,
+    "title": "Satisfiability of Equality Equations",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/decode-string",
+    "tags": [],
+    "isPremium": false
+  }
+]

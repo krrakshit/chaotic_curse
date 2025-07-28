@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2493,
+    "title": "Divide Nodes Into the Maximum Number of Groups",
+    "difficulty": "Hard",
+    "acceptanceRate": 67.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 509,
+    "title": "Fibonacci Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 73.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/fibonacci-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 349,
+    "title": "Intersection of Two Arrays",
+    "difficulty": "Easy",
+    "acceptanceRate": 76.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/koko-eating-bananas",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 64,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 7,
+    "title": "Reverse Integer",
+    "difficulty": "Medium",
+    "acceptanceRate": 30.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/reverse-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 204,
+    "title": "Count Primes",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-primes",
+    "tags": [],
+    "isPremium": false
+  }
+]

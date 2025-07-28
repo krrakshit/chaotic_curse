@@ -1,0 +1,32 @@
+[
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  }
+]

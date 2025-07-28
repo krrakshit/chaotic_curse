@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 7,
+    "title": "Reverse Integer",
+    "difficulty": "Medium",
+    "acceptanceRate": 30.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/reverse-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 122,
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 138,
+    "title": "Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 151,
+    "title": "Reverse Words in a String",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 204,
+    "title": "Count Primes",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/count-primes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2526,
+    "title": "Find Consecutive Integers from a Data Stream",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1614,
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 84.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/climbing-stairs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 21,
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "acceptanceRate": 67,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 9,
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 59.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/palindrome-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 48,
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "acceptanceRate": 78.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/rotate-image",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 141,
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "acceptanceRate": 52.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/linked-list-cycle",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 125,
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "acceptanceRate": 51.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/valid-palindrome",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 692,
+    "title": "Top K Frequent Words",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/top-k-frequent-words",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sort-colors",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 155,
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/min-stack",
+    "tags": [],
+    "isPremium": false
+  }
+]

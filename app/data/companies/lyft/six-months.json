@@ -1,0 +1,122 @@
+[
+  {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/minimum-window-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 158,
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 981,
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/time-based-key-value-store",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 716,
+    "title": "Max Stack",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/max-stack",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 126,
+    "title": "Word Ladder II",
+    "difficulty": "Hard",
+    "acceptanceRate": 27.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/word-ladder-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 109,
+    "title": "Convert Sorted List to Binary Search Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 91,
+    "title": "Decode Ways",
+    "difficulty": "Medium",
+    "acceptanceRate": 36.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/decode-ways",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 958,
+    "title": "Check Completeness of a Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 148,
+    "title": "Sort List",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sort-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 155,
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/min-stack",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 365,
+    "title": "Water and Jug Problem",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/water-and-jug-problem",
+    "tags": [],
+    "isPremium": false
+  }
+]

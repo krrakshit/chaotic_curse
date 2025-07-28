@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1942,
+    "title": "The Number of the Smallest Unoccupied Chair",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1943,
+    "title": "Describe the Painting",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/describe-the-painting",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 688,
+    "title": "Knight Probability in Chessboard",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/knight-probability-in-chessboard",
+    "tags": [],
+    "isPremium": false
+  }
+]

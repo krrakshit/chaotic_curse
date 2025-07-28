@@ -1,0 +1,52 @@
+[
+  {
+    "id": 133,
+    "title": "Clone Graph",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/clone-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 588,
+    "title": "Design In-Memory File System",
+    "difficulty": "Hard",
+    "acceptanceRate": 48.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-in-memory-file-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2622,
+    "title": "Cache With Time Limit",
+    "difficulty": "Medium",
+    "acceptanceRate": 75.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/cache-with-time-limit",
+    "tags": [],
+    "isPremium": false
+  }
+]

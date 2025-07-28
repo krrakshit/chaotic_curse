@@ -1,0 +1,42 @@
+[
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 118,
+    "title": "Pascal's Triangle",
+    "difficulty": "Easy",
+    "acceptanceRate": 77.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/pascals-triangle",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-common-prefix",
+    "tags": [],
+    "isPremium": false
+  }
+]

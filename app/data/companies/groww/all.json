@@ -1,0 +1,82 @@
+[
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2998,
+    "title": "Minimum Number of Operations to Make X and Y Equal",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3026,
+    "title": "Maximum Good Subarray Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 20.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-good-subarray-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 122,
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 123,
+    "title": "Best Time to Buy and Sell Stock III",
+    "difficulty": "Hard",
+    "acceptanceRate": 51.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sort-colors",
+    "tags": [],
+    "isPremium": false
+  }
+]

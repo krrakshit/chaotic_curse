@@ -1,0 +1,32 @@
+[
+  {
+    "id": 811,
+    "title": "Subdomain Visit Count",
+    "difficulty": "Medium",
+    "acceptanceRate": 76.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/subdomain-visit-count",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 381,
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "difficulty": "Hard",
+    "acceptanceRate": 35.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1243,
+    "title": "Array Transformation",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/array-transformation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1759,
+    "title": "Count Number of Homogenous Substrings",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1180,
+    "title": "Count Substrings with Only One Distinct Letter",
+    "difficulty": "Easy",
+    "acceptanceRate": 80.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1271,
+    "title": "Hexspeak",
+    "difficulty": "Easy",
+    "acceptanceRate": 58.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/hexspeak",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1196,
+    "title": "How Many Apples Can You Put into the Basket",
+    "difficulty": "Easy",
+    "acceptanceRate": 67,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+    "tags": [],
+    "isPremium": false
+  }
+]

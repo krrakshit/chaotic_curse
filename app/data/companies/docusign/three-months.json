@@ -1,0 +1,42 @@
+[
+  {
+    "id": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 253,
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1268,
+    "title": "Search Suggestions System",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/search-suggestions-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3588,
+    "title": "Find Maximum Area of a Triangle",
+    "difficulty": "Medium",
+    "acceptanceRate": 27,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-maximum-area-of-a-triangle",
+    "tags": [],
+    "isPremium": false
+  }
+]

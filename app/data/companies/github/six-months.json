@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2849,
+    "title": "Determine if a Cell Is Reachable at a Given Time",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 645,
+    "title": "Set Mismatch",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/set-mismatch",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 263,
+    "title": "Ugly Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/ugly-number",
+    "tags": [],
+    "isPremium": false
+  }
+]

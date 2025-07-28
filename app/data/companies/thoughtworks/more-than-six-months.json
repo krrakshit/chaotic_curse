@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3003,
+    "title": "Maximize the Number of Partitions After Operations",
+    "difficulty": "Hard",
+    "acceptanceRate": 27.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2941,
+    "title": "Maximum GCD-Sum of a Subarray",
+    "difficulty": "Hard",
+    "acceptanceRate": 36.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3226,
+    "title": "Number of Bit Changes to Make Two Integers Equal",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3036,
+    "title": "Number of Subarrays That Match a Pattern II",
+    "difficulty": "Hard",
+    "acceptanceRate": 32.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+    "tags": [],
+    "isPremium": false
+  }
+]

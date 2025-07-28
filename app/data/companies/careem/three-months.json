@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1094,
+    "title": "Car Pooling",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/car-pooling",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 485,
+    "title": "Max Consecutive Ones",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/max-consecutive-ones",
+    "tags": [],
+    "isPremium": false
+  }
+]

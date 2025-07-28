@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1948,
+    "title": "Delete Duplicate Folders in System",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/delete-duplicate-folders-in-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2512,
+    "title": "Reward Top K Students",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/reward-top-k-students",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1034,
+    "title": "Coloring A Border",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/coloring-a-border",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2032,
+    "title": "Two Out of Three",
+    "difficulty": "Easy",
+    "acceptanceRate": 76.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/two-out-of-three",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2146,
+    "title": "K Highest Ranked Items Within a Price Range",
+    "difficulty": "Medium",
+    "acceptanceRate": 45,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 221,
+    "title": "Maximal Square",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximal-square",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2159,
+    "title": "Order Two Columns Independently",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/order-two-columns-independently",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 332,
+    "title": "Reconstruct Itinerary",
+    "difficulty": "Hard",
+    "acceptanceRate": 43.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/reconstruct-itinerary",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 844,
+    "title": "Backspace String Compare",
+    "difficulty": "Easy",
+    "acceptanceRate": 49.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/backspace-string-compare",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 12,
+    "title": "Integer to Roman",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/integer-to-roman",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 46,
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "acceptanceRate": 80.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/permutations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 13,
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "acceptanceRate": 65,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/roman-to-integer",
+    "tags": [],
+    "isPremium": false
+  }
+]

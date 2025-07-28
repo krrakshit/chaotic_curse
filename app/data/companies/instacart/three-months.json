@@ -1,0 +1,32 @@
+[
+  {
+    "id": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 47,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 73.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1701,
+    "title": "Average Waiting Time",
+    "difficulty": "Medium",
+    "acceptanceRate": 73,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/average-waiting-time",
+    "tags": [],
+    "isPremium": false
+  }
+]

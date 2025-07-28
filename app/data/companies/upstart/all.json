@@ -1,0 +1,52 @@
+[
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 71,
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/simplify-path",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 31,
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/next-permutation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 304,
+    "title": "Range Sum Query 2D - Immutable",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 120,
+    "title": "Triangle",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/triangle",
+    "tags": [],
+    "isPremium": false
+  }
+]

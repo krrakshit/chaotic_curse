@@ -1,0 +1,392 @@
+[
+  {
+    "id": 772,
+    "title": "Basic Calculator III",
+    "difficulty": "Hard",
+    "acceptanceRate": 52.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/basic-calculator-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 286,
+    "title": "Walls and Gates",
+    "difficulty": "Medium",
+    "acceptanceRate": 63,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/walls-and-gates",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 556,
+    "title": "Next Greater Element III",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/next-greater-element-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 317,
+    "title": "Shortest Distance from All Buildings",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1235,
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "Hard",
+    "acceptanceRate": 54.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 329,
+    "title": "Longest Increasing Path in a Matrix",
+    "difficulty": "Hard",
+    "acceptanceRate": 55.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 826,
+    "title": "Most Profit Assigning Work",
+    "difficulty": "Medium",
+    "acceptanceRate": 56,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/most-profit-assigning-work",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1779,
+    "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+    "difficulty": "Easy",
+    "acceptanceRate": 69.5,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1166,
+    "title": "Design File System",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/design-file-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1268,
+    "title": "Search Suggestions System",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/search-suggestions-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1790,
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "Easy",
+    "acceptanceRate": 49.5,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2049,
+    "title": "Count Nodes With the Highest Score",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/count-nodes-with-the-highest-score",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/koko-eating-bananas",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1834,
+    "title": "Single-Threaded CPU",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/single-threaded-cpu",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1347,
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "Medium",
+    "acceptanceRate": 82.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 859,
+    "title": "Buddy Strings",
+    "difficulty": "Easy",
+    "acceptanceRate": 33.7,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/buddy-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 695,
+    "title": "Max Area of Island",
+    "difficulty": "Medium",
+    "acceptanceRate": 73.2,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/max-area-of-island",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 542,
+    "title": "01 Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.7,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/01-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 987,
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "difficulty": "Hard",
+    "acceptanceRate": 51.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 658,
+    "title": "Find K Closest Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-k-closest-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 224,
+    "title": "Basic Calculator",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.7,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/basic-calculator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1664,
+    "title": "Ways to Make a Fair Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 212,
+    "title": "Word Search II",
+    "difficulty": "Hard",
+    "acceptanceRate": 37.4,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/word-search-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 84,
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 924,
+    "title": "Minimize Malware Spread",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.5,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/minimize-malware-spread",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 209,
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 227,
+    "title": "Basic Calculator II",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/basic-calculator-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 480,
+    "title": "Sliding Window Median",
+    "difficulty": "Hard",
+    "acceptanceRate": 38.7,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/sliding-window-median",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 18,
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.4,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/4sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 314,
+    "title": "Binary Tree Vertical Order Traversal",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.2,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 827,
+    "title": "Making A Large Island",
+    "difficulty": "Hard",
+    "acceptanceRate": 55.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/making-a-large-island",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 588,
+    "title": "Design In-Memory File System",
+    "difficulty": "Hard",
+    "acceptanceRate": 48.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/design-in-memory-file-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 55,
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "acceptanceRate": 39.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/jump-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 207,
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/course-schedule",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 210,
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.6,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/course-schedule-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 37,
+    "title": "Sudoku Solver",
+    "difficulty": "Hard",
+    "acceptanceRate": 64,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/sudoku-solver",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 13,
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "acceptanceRate": 65,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/roman-to-integer",
+    "tags": [],
+    "isPremium": false
+  }
+]

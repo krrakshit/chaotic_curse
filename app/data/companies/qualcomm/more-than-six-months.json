@@ -1,0 +1,262 @@
+[
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/climbing-stairs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 206,
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "acceptanceRate": 79.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/reverse-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1275,
+    "title": "Find Winner on a Tic Tac Toe Game",
+    "difficulty": "Easy",
+    "acceptanceRate": 54.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 48,
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "acceptanceRate": 78.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/rotate-image",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 191,
+    "title": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/number-of-1-bits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 24,
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2502,
+    "title": "Design Memory Allocator",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/design-memory-allocator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1183,
+    "title": "Maximum Number of Ones",
+    "difficulty": "Hard",
+    "acceptanceRate": 68.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-number-of-ones",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3163,
+    "title": "String Compression III",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/string-compression-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 19,
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 876,
+    "title": "Middle of the Linked List",
+    "difficulty": "Easy",
+    "acceptanceRate": 80.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 190,
+    "title": "Reverse Bits",
+    "difficulty": "Easy",
+    "acceptanceRate": 63.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/reverse-bits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 167,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 231,
+    "title": "Power of Two",
+    "difficulty": "Easy",
+    "acceptanceRate": 48.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/power-of-two",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 392,
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "acceptanceRate": 48.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/is-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 60.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 58,
+    "title": "Length of Last Word",
+    "difficulty": "Easy",
+    "acceptanceRate": 56.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/length-of-last-word",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 122,
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 297,
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "acceptanceRate": 59.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 9,
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 59.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/palindrome-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 407,
+    "title": "Trapping Rain Water II",
+    "difficulty": "Hard",
+    "acceptanceRate": 58.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "tags": [],
+    "isPremium": false
+  }
+]

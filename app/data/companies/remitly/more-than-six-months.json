@@ -1,0 +1,42 @@
+[
+  {
+    "id": 642,
+    "title": "Design Search Autocomplete System",
+    "difficulty": "Hard",
+    "acceptanceRate": 49.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2365,
+    "title": "Task Scheduler II",
+    "difficulty": "Medium",
+    "acceptanceRate": 54,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/task-scheduler-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "difficulty": "Easy",
+    "acceptanceRate": 47,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/isomorphic-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 621,
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/task-scheduler",
+    "tags": [],
+    "isPremium": false
+  }
+]

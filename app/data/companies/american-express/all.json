@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2477,
+    "title": "Minimum Fuel Cost to Report to the Capital",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1521,
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 125,
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "acceptanceRate": 51.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/valid-palindrome",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3013,
+    "title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "difficulty": "Hard",
+    "acceptanceRate": 30.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3010,
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "difficulty": "Easy",
+    "acceptanceRate": 65.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1647,
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 258,
+    "title": "Add Digits",
+    "difficulty": "Easy",
+    "acceptanceRate": 68,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/add-digits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1201,
+    "title": "Ugly Number III",
+    "difficulty": "Medium",
+    "acceptanceRate": 30.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/ugly-number-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2278,
+    "title": "Percentage of Letter in String",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/percentage-of-letter-in-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1224,
+    "title": "Maximum Equal Frequency",
+    "difficulty": "Hard",
+    "acceptanceRate": 37.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-equal-frequency",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2202,
+    "title": "Maximize the Topmost Element After K Moves",
+    "difficulty": "Medium",
+    "acceptanceRate": 23.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2317,
+    "title": "Maximum XOR After Operations",
+    "difficulty": "Medium",
+    "acceptanceRate": 79.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-xor-after-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1253,
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1775,
+    "title": "Equal Sum Arrays With Minimum Number of Operations",
+    "difficulty": "Medium",
+    "acceptanceRate": 54,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2997,
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "difficulty": "Medium",
+    "acceptanceRate": 85.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 189,
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/rotate-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 46,
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "acceptanceRate": 80.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/permutations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "difficulty": "Easy",
+    "acceptanceRate": 47,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/isomorphic-strings",
+    "tags": [],
+    "isPremium": false
+  }
+]

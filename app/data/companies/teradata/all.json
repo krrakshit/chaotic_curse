@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1885,
+    "title": "Count Pairs in Two Arrays",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 135,
+    "title": "Candy",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/candy",
+    "tags": [],
+    "isPremium": false
+  }
+]

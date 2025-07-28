@@ -1,0 +1,42 @@
+[
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 849,
+    "title": "Maximize Distance to Closest Person",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 202,
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 58.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/happy-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1209,
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 316,
+    "title": "Remove Duplicate Letters",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/remove-duplicate-letters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1081,
+    "title": "Smallest Subsequence of Distinct Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 334,
+    "title": "Increasing Triplet Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 39.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "tags": [],
+    "isPremium": false
+  }
+]

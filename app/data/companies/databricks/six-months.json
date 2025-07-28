@@ -1,0 +1,82 @@
+[
+  {
+    "id": 751,
+    "title": "IP to CIDR",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/ip-to-cidr",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 213,
+    "title": "House Robber II",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/house-robber-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 198,
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/house-robber",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 362,
+    "title": "Design Hit Counter",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/design-hit-counter",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 348,
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-tic-tac-toe",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1146,
+    "title": "Snapshot Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 36.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/snapshot-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2096,
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 933,
+    "title": "Number of Recent Calls",
+    "difficulty": "Easy",
+    "acceptanceRate": 77.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-recent-calls",
+    "tags": [],
+    "isPremium": false
+  }
+]

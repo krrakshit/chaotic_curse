@@ -1,0 +1,42 @@
+[
+  {
+    "id": 927,
+    "title": "Three Equal Parts",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/three-equal-parts",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 48,
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "acceptanceRate": 78.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/rotate-image",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1146,
+    "title": "Snapshot Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 36.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/snapshot-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3525,
+    "title": "Find X Value of Array II",
+    "difficulty": "Hard",
+    "acceptanceRate": 27.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-x-value-of-array-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3524,
+    "title": "Find X Value of Array I",
+    "difficulty": "Medium",
+    "acceptanceRate": 33.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-x-value-of-array-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2502,
+    "title": "Design Memory Allocator",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/design-memory-allocator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1236,
+    "title": "Web Crawler",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/web-crawler",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 31,
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/next-permutation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 621,
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/task-scheduler",
+    "tags": [],
+    "isPremium": false
+  }
+]

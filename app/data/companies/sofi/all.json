@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 13,
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "acceptanceRate": 65,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/roman-to-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "acceptanceRate": 53,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-window-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 430,
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 845,
+    "title": "Longest Mountain in Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-mountain-in-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 697,
+    "title": "Degree of an Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 57.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/degree-of-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1347,
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "difficulty": "Medium",
+    "acceptanceRate": 82.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 253,
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "acceptanceRate": 57,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/palindromic-substrings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2472,
+    "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1823,
+    "title": "Find the Winner of the Circular Game",
+    "difficulty": "Medium",
+    "acceptanceRate": 82.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 347,
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/top-k-frequent-elements",
+    "tags": [],
+    "isPremium": false
+  }
+]

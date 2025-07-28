@@ -1,4 +1,3 @@
-// src/lib/data-fetcher.ts
 import { Company, CompanyQuestions, Question, TimePeriod } from './types';
 
 const CSV_FILE_MAPPING = {
@@ -8,14 +7,23 @@ const CSV_FILE_MAPPING = {
 };
 
 export async function fetchCompanies(): Promise<Company[]> {
-  // Always fetch from backend API
-  const backendBaseUrl = process.env.NEXT_PUBLIC_BACKEND_URL || 'http://localhost:4000';
+  // Try to use fs if available (server-side)
   try {
-    const response = await fetch(`${backendBaseUrl}/api/companies-list`);
-    return await response.json();
-  } catch (error) {
-    console.error('Error fetching companies:', error);
-    return [];
+    // Only import fs on the server
+    const fs = await import('fs');
+    const path = await import('path');
+    const filePath = path.join(process.cwd(), 'app', 'data', 'companies-list.json');
+    const data = fs.readFileSync(filePath, 'utf-8');
+    return JSON.parse(data);
+  } catch (err) {
+    // Fallback to fetch for client-side (should rarely happen)
+    try {
+      const response = await fetch('/data/companies-list.json');
+      return await response.json();
+    } catch (error) {
+      console.error('Error fetching companies:', error);
+      return [];
+    }
   }
 }
 
@@ -26,17 +34,63 @@ export async function fetchCompanyQuestions(companySlug: string): Promise<Compan
     
     if (!company) return null;
 
-    const backendBaseUrl = process.env.NEXT_PUBLIC_BACKEND_URL || 'http://localhost:4000';
-    const response = await fetch(`${backendBaseUrl}/api/company/${companySlug}`);
-    if (!response.ok) return null;
-    const data = await response.json();
-    // data.questions is an object with period keys
+    const questions: Partial<CompanyQuestions['questions']> = {};
+
+    // Only fetch files that are available for this company
+    for (const period of company.availablePeriods) {
+      try {
+        // Try to use fs if available (server-side)
+        const fs = await import('fs');
+        const path = await import('path');
+        const filePath = path.join(process.cwd(), 'app', 'data', 'companies', companySlug, `${period}.json`);
+        const data = fs.readFileSync(filePath, 'utf-8');
+        questions[period as TimePeriod] = JSON.parse(data);
+      } catch (error) {
+        // Fallback to fetch for client-side (should rarely happen)
+        try {
+          const response = await fetch(`/data/companies/${companySlug}/${period}.json`);
+          if (response.ok) {
+            questions[period as TimePeriod] = await response.json();
+          } else {
+            questions[period as TimePeriod] = [];
+          }
+        } catch (err) {
+          questions[period as TimePeriod] = [];
+        }
+      }
+    }
+
     return {
       company,
-      questions: data.questions as CompanyQuestions['questions']
+      questions: questions as CompanyQuestions['questions']
     };
   } catch (error) {
     console.error('Error fetching company questions:', error);
+    return null;
+  }
+}
+
+// Fetch questions for a specific company and period (like the API did)
+export async function fetchCompanyQuestionsByPeriod(slug: string, period: import('./types').TimePeriod): Promise<Question[] | null> {
+  // Map period to file name (as in API)
+  const PERIOD_FILE_MAP: Record<string, string> = {
+    'all': 'all.json',
+    'moreThanSixMonths': 'more-than-six-months.json',
+    'underSixMonths': 'six-months.json',
+    'threeMonths': 'three-months.json',
+    'thirtyDays': 'thirty-days.json',
+  };
+  const fileName = PERIOD_FILE_MAP[period] || `${period}.json`;
+  try {
+    const fs = await import('fs');
+    const path = await import('path');
+    const filePath = path.join(process.cwd(), 'app', 'data', 'companies', slug, fileName);
+    if (!fs.existsSync(filePath)) {
+      return null;
+    }
+    const data = fs.readFileSync(filePath, 'utf-8');
+    return JSON.parse(data);
+  } catch (error) {
     return null;
   }
 }

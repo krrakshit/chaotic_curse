@@ -1,0 +1,32 @@
+[
+  {
+    "id": 168,
+    "title": "Excel Sheet Column Title",
+    "difficulty": "Easy",
+    "acceptanceRate": 43.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/excel-sheet-column-title",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 273,
+    "title": "Integer to English Words",
+    "difficulty": "Hard",
+    "acceptanceRate": 34.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/integer-to-english-words",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 348,
+    "title": "Design Tic-Tac-Toe",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/design-tic-tac-toe",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 936,
+    "title": "Stamping The Sequence",
+    "difficulty": "Hard",
+    "acceptanceRate": 61.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/stamping-the-sequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2607,
+    "title": "Make K-Subarray Sums Equal",
+    "difficulty": "Medium",
+    "acceptanceRate": 36.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/make-k-subarray-sums-equal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1658,
+    "title": "Minimum Operations to Reduce X to Zero",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero",
+    "tags": [],
+    "isPremium": false
+  }
+]

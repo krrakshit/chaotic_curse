@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1405,
+    "title": "Longest Happy String",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-happy-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 122,
+    "title": "Best Time to Buy and Sell Stock II",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  }
+]

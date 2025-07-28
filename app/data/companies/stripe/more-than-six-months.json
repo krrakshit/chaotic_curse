@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2483,
+    "title": "Minimum Penalty for a Shop",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 465,
+    "title": "Optimal Account Balancing",
+    "difficulty": "Hard",
+    "acceptanceRate": 50,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/optimal-account-balancing",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 399,
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1087,
+    "title": "Brace Expansion",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/brace-expansion",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2050,
+    "title": "Parallel Courses III",
+    "difficulty": "Hard",
+    "acceptanceRate": 66.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/parallel-courses-iii",
+    "tags": [],
+    "isPremium": false
+  }
+]

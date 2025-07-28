@@ -1,0 +1,32 @@
+[
+  {
+    "id": 349,
+    "title": "Intersection of Two Arrays",
+    "difficulty": "Easy",
+    "acceptanceRate": 76.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2759,
+    "title": "Convert JSON String to Object",
+    "difficulty": "Hard",
+    "acceptanceRate": 61.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/convert-json-string-to-object",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 642,
+    "title": "Design Search Autocomplete System",
+    "difficulty": "Hard",
+    "acceptanceRate": 49.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "tags": [],
+    "isPremium": false
+  }
+]

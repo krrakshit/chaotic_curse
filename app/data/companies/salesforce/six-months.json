@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1326,
+    "title": "Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2957,
+    "title": "Remove Adjacent Almost-Equal Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/remove-adjacent-almost-equal-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 210,
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/course-schedule-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 79,
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/word-search",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1297,
+    "title": "Maximum Number of Occurrences of a Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 115,
+    "title": "Distinct Subsequences",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/distinct-subsequences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 25,
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "acceptanceRate": 63.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 628,
+    "title": "Maximum Product of Three Numbers",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 460,
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lfu-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "acceptanceRate": 53,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 863,
+    "title": "All Nodes Distance K in Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 443,
+    "title": "String Compression",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/string-compression",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 6,
+    "title": "Zigzag Conversion",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/zigzag-conversion",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/decode-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1221,
+    "title": "Split a String in Balanced Strings",
+    "difficulty": "Easy",
+    "acceptanceRate": 86.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/split-a-string-in-balanced-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 844,
+    "title": "Backspace String Compare",
+    "difficulty": "Easy",
+    "acceptanceRate": 49.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/backspace-string-compare",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1481,
+    "title": "Least Number of Unique Integers after K Removals",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3488,
+    "title": "Closest Equal Element Queries",
+    "difficulty": "Medium",
+    "acceptanceRate": 31.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/closest-equal-element-queries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "acceptanceRate": 57,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2571,
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1143,
+    "title": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-common-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 353,
+    "title": "Design Snake Game",
+    "difficulty": "Medium",
+    "acceptanceRate": 39.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/design-snake-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3540,
+    "title": "Minimum Time to Visit All Houses",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-time-to-visit-all-houses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2488,
+    "title": "Count Subarrays With Median K",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 465,
+    "title": "Optimal Account Balancing",
+    "difficulty": "Hard",
+    "acceptanceRate": 50,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/optimal-account-balancing",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3295,
+    "title": "Report Spam Message",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/report-spam-message",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 535,
+    "title": "Encode and Decode TinyURL",
+    "difficulty": "Medium",
+    "acceptanceRate": 86.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 21,
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "acceptanceRate": 67,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1200,
+    "title": "Minimum Absolute Difference",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/minimum-absolute-difference",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3607,
+    "title": "Power Grid Maintenance",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/power-grid-maintenance",
+    "tags": [],
+    "isPremium": false
+  }
+]

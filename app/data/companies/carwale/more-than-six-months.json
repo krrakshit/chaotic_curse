@@ -1,0 +1,42 @@
+[
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 539,
+    "title": "Minimum Time Difference",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-time-difference",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3412,
+    "title": "Find Mirror Score of a String",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+    "tags": [],
+    "isPremium": false
+  }
+]

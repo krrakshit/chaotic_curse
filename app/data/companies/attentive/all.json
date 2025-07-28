@@ -1,0 +1,92 @@
+[
+  {
+    "id": 736,
+    "title": "Parse Lisp Expression",
+    "difficulty": "Hard",
+    "acceptanceRate": 52.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/parse-lisp-expression",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/valid-sudoku",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1209,
+    "title": "Remove All Adjacent Duplicates in String II",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 273,
+    "title": "Integer to English Words",
+    "difficulty": "Hard",
+    "acceptanceRate": 34.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/integer-to-english-words",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 680,
+    "title": "Valid Palindrome II",
+    "difficulty": "Easy",
+    "acceptanceRate": 43.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/valid-palindrome-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 692,
+    "title": "Top K Frequent Words",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/top-k-frequent-words",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 724,
+    "title": "Find Pivot Index",
+    "difficulty": "Easy",
+    "acceptanceRate": 60.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-pivot-index",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 47,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

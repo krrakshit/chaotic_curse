@@ -1,0 +1,22 @@
+[
+  {
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "difficulty": "Hard",
+    "acceptanceRate": 29.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/regular-expression-matching",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 35.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-product-subarray",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": 559,
+    "title": "Maximum Depth of N-ary Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 73,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 408,
+    "title": "Valid Word Abbreviation",
+    "difficulty": "Easy",
+    "acceptanceRate": 36.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-word-abbreviation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 568,
+    "title": "Maximum Vacation Days",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-vacation-days",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 322,
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/coin-change",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 622,
+    "title": "Design Circular Queue",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-circular-queue",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 480,
+    "title": "Sliding Window Median",
+    "difficulty": "Hard",
+    "acceptanceRate": 38.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sliding-window-median",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1232,
+    "title": "Check If It Is a Straight Line",
+    "difficulty": "Easy",
+    "acceptanceRate": 39.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 819,
+    "title": "Most Common Word",
+    "difficulty": "Easy",
+    "acceptanceRate": 44.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/most-common-word",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1038,
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 88.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1452,
+    "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2451,
+    "title": "Odd String Difference",
+    "difficulty": "Easy",
+    "acceptanceRate": 61.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/odd-string-difference",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1160,
+    "title": "Find Words That Can Be Formed by Characters",
+    "difficulty": "Easy",
+    "acceptanceRate": 71.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1071,
+    "title": "Greatest Common Divisor of Strings",
+    "difficulty": "Easy",
+    "acceptanceRate": 52.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 211,
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1229,
+    "title": "Meeting Scheduler",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/meeting-scheduler",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 213,
+    "title": "House Robber II",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/house-robber-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 198,
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/house-robber",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 112,
+    "title": "Path Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/path-sum",
+    "tags": [],
+    "isPremium": false
+  }
+]

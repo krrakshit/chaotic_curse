@@ -1,0 +1,92 @@
+[
+  {
+    "id": 13,
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "acceptanceRate": 65,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/roman-to-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 460,
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lfu-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 780,
+    "title": "Reaching Points",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/reaching-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 670,
+    "title": "Maximum Swap",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-swap",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3584,
+    "title": "Maximum Product of First and Last Elements of a Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 30,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "tags": [],
+    "isPremium": false
+  }
+]

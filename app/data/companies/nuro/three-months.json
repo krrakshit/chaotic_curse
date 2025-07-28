@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1610,
+    "title": "Maximum Number of Visible Points",
+    "difficulty": "Hard",
+    "acceptanceRate": 37.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 399,
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  }
+]

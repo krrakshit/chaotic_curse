@@ -1,0 +1,52 @@
+[
+  {
+    "id": 554,
+    "title": "Brick Wall",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/brick-wall",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1432,
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 64,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  }
+]

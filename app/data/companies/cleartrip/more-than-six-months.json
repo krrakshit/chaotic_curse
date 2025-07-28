@@ -1,0 +1,22 @@
+[
+  {
+    "id": 139,
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/word-break",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 198,
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/house-robber",
+    "tags": [],
+    "isPremium": false
+  }
+]

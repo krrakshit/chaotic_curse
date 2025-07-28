@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2180,
+    "title": "Count Integers With Even Digit Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 68.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-integers-with-even-digit-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 560,
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "tags": [],
+    "isPremium": false
+  }
+]

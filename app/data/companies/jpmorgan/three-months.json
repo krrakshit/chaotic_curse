@@ -1,0 +1,62 @@
+[
+  {
+    "id": 48,
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "acceptanceRate": 78.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/rotate-image",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/set-matrix-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 384,
+    "title": "Shuffle an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/shuffle-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2273,
+    "title": "Find Resultant Array After Removing Anagrams",
+    "difficulty": "Easy",
+    "acceptanceRate": 59.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 696,
+    "title": "Count Binary Substrings",
+    "difficulty": "Easy",
+    "acceptanceRate": 66,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/count-binary-substrings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 907,
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "tags": [],
+    "isPremium": false
+  }
+]

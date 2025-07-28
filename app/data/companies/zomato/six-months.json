@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2145,
+    "title": "Count the Hidden Sequences",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-the-hidden-sequences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 909,
+    "title": "Snakes and Ladders",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/snakes-and-ladders",
+    "tags": [],
+    "isPremium": false
+  }
+]

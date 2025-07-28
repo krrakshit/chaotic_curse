@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2043,
+    "title": "Simple Bank System",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/simple-bank-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 843,
+    "title": "Guess the Word",
+    "difficulty": "Hard",
+    "acceptanceRate": 37.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/guess-the-word",
+    "tags": [],
+    "isPremium": false
+  }
+]

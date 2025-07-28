@@ -1,0 +1,62 @@
+[
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/daily-temperatures",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1554,
+    "title": "Strings Differ by One Character",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/strings-differ-by-one-character",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  }
+]

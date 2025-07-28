@@ -1,0 +1,292 @@
+[
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 190,
+    "title": "Reverse Bits",
+    "difficulty": "Easy",
+    "acceptanceRate": 63.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/reverse-bits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2592,
+    "title": "Maximize Greatness of an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 18,
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/4sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 63,
+    "title": "Unique Paths II",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/unique-paths-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 61,
+    "title": "Rotate List",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/rotate-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 560,
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 179,
+    "title": "Largest Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/largest-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 141,
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "acceptanceRate": 52.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/linked-list-cycle",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 238,
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/product-of-array-except-self",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2,
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/add-two-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "acceptanceRate": 57,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1046,
+    "title": "Last Stone Weight",
+    "difficulty": "Easy",
+    "acceptanceRate": 66,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/last-stone-weight",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 133,
+    "title": "Clone Graph",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/clone-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/daily-temperatures",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 761,
+    "title": "Special Binary String",
+    "difficulty": "Hard",
+    "acceptanceRate": 63.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/special-binary-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1353,
+    "title": "Maximum Number of Events That Can Be Attended",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 138,
+    "title": "Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "tags": [],
+    "isPremium": false
+  }
+]

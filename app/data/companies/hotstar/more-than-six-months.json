@@ -1,0 +1,22 @@
+[
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 927,
+    "title": "Three Equal Parts",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/three-equal-parts",
+    "tags": [],
+    "isPremium": false
+  }
+]

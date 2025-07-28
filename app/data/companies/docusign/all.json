@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/sort-colors",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 133,
+    "title": "Clone Graph",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/clone-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 138,
+    "title": "Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 238,
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/product-of-array-except-self",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 780,
+    "title": "Reaching Points",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/reaching-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 347,
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/top-k-frequent-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 881,
+    "title": "Boats to Save People",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/boats-to-save-people",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2405,
+    "title": "Optimal Partition of String",
+    "difficulty": "Medium",
+    "acceptanceRate": 78.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/optimal-partition-of-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 502,
+    "title": "IPO",
+    "difficulty": "Hard",
+    "acceptanceRate": 53,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/ipo",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 266,
+    "title": "Palindrome Permutation",
+    "difficulty": "Easy",
+    "acceptanceRate": 68.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/palindrome-permutation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1797,
+    "title": "Design Authentication Manager",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-authentication-manager",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 171,
+    "title": "Excel Sheet Column Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 65.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/excel-sheet-column-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1466,
+    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 285,
+    "title": "Inorder Successor in BST",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/inorder-successor-in-bst",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 934,
+    "title": "Shortest Bridge",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/shortest-bridge",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1448,
+    "title": "Count Good Nodes in Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 73.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 211,
+    "title": "Design Add and Search Words Data Structure",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1010,
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 726,
+    "title": "Number of Atoms",
+    "difficulty": "Hard",
+    "acceptanceRate": 65,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-atoms",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 213,
+    "title": "House Robber II",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/house-robber-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 12,
+    "title": "Integer to Roman",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/integer-to-roman",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1268,
+    "title": "Search Suggestions System",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/search-suggestions-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 253,
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 23,
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "acceptanceRate": 57,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3588,
+    "title": "Find Maximum Area of a Triangle",
+    "difficulty": "Medium",
+    "acceptanceRate": 27,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/find-maximum-area-of-a-triangle",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 337,
+    "title": "House Robber III",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/house-robber-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1368,
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "difficulty": "Hard",
+    "acceptanceRate": 70.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 217,
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "acceptanceRate": 63.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/contains-duplicate",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 443,
+    "title": "String Compression",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/string-compression",
+    "tags": [],
+    "isPremium": false
+  }
+]

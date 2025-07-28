@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2747,
+    "title": "Count Zero Request Servers",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-zero-request-servers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

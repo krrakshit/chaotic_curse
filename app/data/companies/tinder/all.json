@@ -1,0 +1,22 @@
+[
+  {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 703,
+    "title": "Kth Largest Element in a Stream",
+    "difficulty": "Easy",
+    "acceptanceRate": 60,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "tags": [],
+    "isPremium": false
+  }
+]

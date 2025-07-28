@@ -1,0 +1,52 @@
+[
+  {
+    "id": 717,
+    "title": "1-bit and 2-bit Characters",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 227,
+    "title": "Basic Calculator II",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/basic-calculator-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 207,
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/course-schedule",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 353,
+    "title": "Design Snake Game",
+    "difficulty": "Medium",
+    "acceptanceRate": 39.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-snake-game",
+    "tags": [],
+    "isPremium": false
+  }
+]

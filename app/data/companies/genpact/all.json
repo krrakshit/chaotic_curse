@@ -1,0 +1,32 @@
+[
+  {
+    "id": 176,
+    "title": "Second Highest Salary",
+    "difficulty": "Medium",
+    "acceptanceRate": 44.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/second-highest-salary",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1797,
+    "title": "Design Authentication Manager",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/design-authentication-manager",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 268,
+    "title": "Missing Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/missing-number",
+    "tags": [],
+    "isPremium": false
+  }
+]

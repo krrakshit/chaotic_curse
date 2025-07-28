@@ -1,0 +1,162 @@
+[
+  {
+    "id": 30,
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 71,
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/simplify-path",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/decode-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 844,
+    "title": "Backspace String Compare",
+    "difficulty": "Easy",
+    "acceptanceRate": 49.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/backspace-string-compare",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 43,
+    "title": "Multiply Strings",
+    "difficulty": "Medium",
+    "acceptanceRate": 42.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/multiply-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 628,
+    "title": "Maximum Product of Three Numbers",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 864,
+    "title": "Shortest Path to Get All Keys",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 679,
+    "title": "24 Game",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/24-game",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 680,
+    "title": "Valid Palindrome II",
+    "difficulty": "Easy",
+    "acceptanceRate": 43.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-palindrome-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 347,
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/top-k-frequent-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 678,
+    "title": "Valid Parenthesis String",
+    "difficulty": "Medium",
+    "acceptanceRate": 39,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-parenthesis-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 135,
+    "title": "Candy",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/candy",
+    "tags": [],
+    "isPremium": false
+  }
+]

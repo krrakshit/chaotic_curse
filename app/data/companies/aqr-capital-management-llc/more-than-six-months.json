@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1696,
+    "title": "Jump Game VI",
+    "difficulty": "Medium",
+    "acceptanceRate": 46,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/jump-game-vi",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 268,
+    "title": "Missing Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/missing-number",
+    "tags": [],
+    "isPremium": false
+  }
+]
