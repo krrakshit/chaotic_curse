@@ -17,7 +17,7 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
   // Fetch company meta from companies-list.json (filesystem)
   const fs = await import('fs');
   const path = await import('path');
-  const companiesPath = path.join(process.cwd(), 'public', 'data', 'companies-list.json');
+  const companiesPath = path.join(process.cwd(), 'app', 'data', 'companies-list.json');
   const companies = JSON.parse(fs.readFileSync(companiesPath, 'utf-8'));
   const company = companies.find((c: any) => c.slug === resolvedParams.slug);
   if (!company) {

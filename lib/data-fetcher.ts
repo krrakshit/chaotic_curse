@@ -13,7 +13,7 @@ export async function fetchCompanies(): Promise<Company[]> {
     // Only import fs on the server
     const fs = await import('fs');
     const path = await import('path');
-    const filePath = path.join(process.cwd(), 'public', 'data', 'companies-list.json');
+    const filePath = path.join(process.cwd(), 'app', 'data', 'companies-list.json');
     const data = fs.readFileSync(filePath, 'utf-8');
     return JSON.parse(data);
   } catch (err) {
@@ -43,7 +43,7 @@ export async function fetchCompanyQuestions(companySlug: string): Promise<Compan
         // Try to use fs if available (server-side)
         const fs = await import('fs');
         const path = await import('path');
-        const filePath = path.join(process.cwd(), 'public', 'data', 'companies', companySlug, `${period}.json`);
+        const filePath = path.join(process.cwd(), 'app', 'data', 'companies', companySlug, `${period}.json`);
         const data = fs.readFileSync(filePath, 'utf-8');
         questions[period as TimePeriod] = JSON.parse(data);
       } catch (error) {

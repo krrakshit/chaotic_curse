@@ -22,7 +22,7 @@ export async function GET(req: NextRequest) {
   const fileName = PERIOD_FILE_MAP[period] || `${period}.json`;
 
   try {
-    const filePath = path.join(process.cwd(), 'public', 'data', 'companies', slug, fileName);
+    const filePath = path.join(process.cwd(), 'app', 'data', 'companies', slug, fileName);
     if (!fs.existsSync(filePath)) {
       return NextResponse.json({ error: 'Data not found' }, { status: 404 });
     }
