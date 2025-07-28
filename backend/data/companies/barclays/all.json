@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3070,
+    "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 46,
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "acceptanceRate": 80.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/permutations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 871,
+    "title": "Minimum Number of Refueling Stops",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2961,
+    "title": "Double Modular Exponentiation",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/double-modular-exponentiation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2127,
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "difficulty": "Hard",
+    "acceptanceRate": 62,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "difficulty": "Easy",
+    "acceptanceRate": 47,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/isomorphic-strings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2833,
+    "title": "Furthest Point From Origin",
+    "difficulty": "Easy",
+    "acceptanceRate": 64.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/furthest-point-from-origin",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3080,
+    "title": "Mark Elements on Array by Performing Queries",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "acceptanceRate": 56.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/palindrome-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 386,
+    "title": "Lexicographical Numbers",
+    "difficulty": "Medium",
+    "acceptanceRate": 76,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lexicographical-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/climbing-stairs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3474,
+    "title": "Lexicographically Smallest Generated String",
+    "difficulty": "Hard",
+    "acceptanceRate": 29,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 176,
+    "title": "Second Highest Salary",
+    "difficulty": "Medium",
+    "acceptanceRate": 44.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/second-highest-salary",
+    "tags": [],
+    "isPremium": false
+  }
+]

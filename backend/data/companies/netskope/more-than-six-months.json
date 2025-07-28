@@ -1,0 +1,22 @@
+[
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 139,
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/word-break",
+    "tags": [],
+    "isPremium": false
+  }
+]

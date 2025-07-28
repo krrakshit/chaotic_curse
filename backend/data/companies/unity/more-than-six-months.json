@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2470,
+    "title": "Number of Subarrays With LCM Equal to K",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2038,
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "tags": [],
+    "isPremium": false
+  }
+]

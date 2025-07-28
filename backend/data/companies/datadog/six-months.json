@@ -1,0 +1,92 @@
+[
+  {
+    "id": 322,
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/coin-change",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 559,
+    "title": "Maximum Depth of N-ary Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 73,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 622,
+    "title": "Design Circular Queue",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/design-circular-queue",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 819,
+    "title": "Most Common Word",
+    "difficulty": "Easy",
+    "acceptanceRate": 44.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/most-common-word",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 408,
+    "title": "Valid Word Abbreviation",
+    "difficulty": "Easy",
+    "acceptanceRate": 36.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-word-abbreviation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1452,
+    "title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 213,
+    "title": "House Robber II",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/house-robber-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 198,
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/house-robber",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 568,
+    "title": "Maximum Vacation Days",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-vacation-days",
+    "tags": [],
+    "isPremium": false
+  }
+]

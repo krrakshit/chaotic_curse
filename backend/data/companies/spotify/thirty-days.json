@@ -1,0 +1,22 @@
+[
+  {
+    "id": 346,
+    "title": "Moving Average from Data Stream",
+    "difficulty": "Easy",
+    "acceptanceRate": 80,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1152,
+    "title": "Analyze User Website Visit Pattern",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "tags": [],
+    "isPremium": false
+  }
+]

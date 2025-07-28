@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2750,
+    "title": "Ways to Split Array Into Good Subarrays",
+    "difficulty": "Medium",
+    "acceptanceRate": 34,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/ways-to-split-array-into-good-subarrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/koko-eating-bananas",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 16,
+    "title": "3Sum Closest",
+    "difficulty": "Medium",
+    "acceptanceRate": 47,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/3sum-closest",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 134,
+    "title": "Gas Station",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/gas-station",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 210,
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/course-schedule-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 907,
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1552,
+    "title": "Magnetic Force Between Two Balls",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/magnetic-force-between-two-balls",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3576,
+    "title": "Transform Array to All Equal Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 32,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/transform-array-to-all-equal-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 399,
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "acceptanceRate": 77.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/generate-parentheses",
+    "tags": [],
+    "isPremium": false
+  }
+]

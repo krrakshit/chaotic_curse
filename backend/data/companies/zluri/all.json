@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3205,
+    "title": "Maximum Array Hopping Score I",
+    "difficulty": "Medium",
+    "acceptanceRate": 77.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-array-hopping-score-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3221,
+    "title": "Maximum Array Hopping Score II",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1653,
+    "title": "Minimum Deletions to Make String Balanced",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced",
+    "tags": [],
+    "isPremium": false
+  }
+]

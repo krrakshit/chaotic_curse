@@ -1,0 +1,172 @@
+[
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1010,
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2592,
+    "title": "Maximize Greatness of an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1514,
+    "title": "Path with Maximum Probability",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/path-with-maximum-probability",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 399,
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 242,
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 202,
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 58.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/happy-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 545,
+    "title": "Boundary of Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 322,
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/coin-change",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "acceptanceRate": 77.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/generate-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2291,
+    "title": "Maximum Profit From Trading Stocks",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3004,
+    "title": "Maximum Subtree of the Same Color",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3068,
+    "title": "Find the Maximum Sum of Node Values",
+    "difficulty": "Hard",
+    "acceptanceRate": 69.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  }
+]

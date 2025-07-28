@@ -1,0 +1,32 @@
+[
+  {
+    "id": 289,
+    "title": "Game of Life",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/game-of-life",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 227,
+    "title": "Basic Calculator II",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/basic-calculator-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 224,
+    "title": "Basic Calculator",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/basic-calculator",
+    "tags": [],
+    "isPremium": false
+  }
+]

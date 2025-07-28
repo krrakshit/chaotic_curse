@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2610,
+    "title": "Convert an Array Into a 2D Array With Conditions",
+    "difficulty": "Medium",
+    "acceptanceRate": 86.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "acceptanceRate": 70.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 71,
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/simplify-path",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  }
+]

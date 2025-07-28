@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1642,
+    "title": "Furthest Building You Can Reach",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 337,
+    "title": "House Robber III",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/house-robber-iii",
+    "tags": [],
+    "isPremium": false
+  }
+]

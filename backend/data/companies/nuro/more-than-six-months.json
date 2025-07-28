@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1476,
+    "title": "Subrectangle Queries",
+    "difficulty": "Medium",
+    "acceptanceRate": 86,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/subrectangle-queries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1610,
+    "title": "Maximum Number of Visible Points",
+    "difficulty": "Hard",
+    "acceptanceRate": 37.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 356,
+    "title": "Line Reflection",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/line-reflection",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 97,
+    "title": "Interleaving String",
+    "difficulty": "Medium",
+    "acceptanceRate": 42.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/interleaving-string",
+    "tags": [],
+    "isPremium": false
+  }
+]

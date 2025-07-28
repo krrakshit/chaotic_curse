@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1598,
+    "title": "Crawler Log Folder",
+    "difficulty": "Easy",
+    "acceptanceRate": 71.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/crawler-log-folder",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1399,
+    "title": "Count Largest Group",
+    "difficulty": "Easy",
+    "acceptanceRate": 75,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-largest-group",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2598,
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "difficulty": "Medium",
+    "acceptanceRate": 40,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1403,
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "difficulty": "Easy",
+    "acceptanceRate": 73,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1432,
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "tags": [],
+    "isPremium": false
+  }
+]

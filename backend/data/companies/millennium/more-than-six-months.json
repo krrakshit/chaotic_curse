@@ -1,0 +1,62 @@
+[
+  {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/powx-n",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1283,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 991,
+    "title": "Broken Calculator",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/broken-calculator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2035,
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "Hard",
+    "acceptanceRate": 21.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/palindromic-substrings",
+    "tags": [],
+    "isPremium": false
+  }
+]

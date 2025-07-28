@@ -1,0 +1,42 @@
+[
+  {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/koko-eating-bananas",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 498,
+    "title": "Diagonal Traverse",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/diagonal-traverse",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 179,
+    "title": "Largest Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/largest-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 80,
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "Medium",
+    "acceptanceRate": 63,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "tags": [],
+    "isPremium": false
+  }
+]

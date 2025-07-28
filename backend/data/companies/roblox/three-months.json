@@ -1,0 +1,52 @@
+[
+  {
+    "id": 621,
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/task-scheduler",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 767,
+    "title": "Reorganize String",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/reorganize-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 210,
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/course-schedule-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 723,
+    "title": "Candy Crush",
+    "difficulty": "Medium",
+    "acceptanceRate": 77.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/candy-crush",
+    "tags": [],
+    "isPremium": false
+  }
+]

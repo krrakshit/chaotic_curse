@@ -1,0 +1,92 @@
+[
+  {
+    "id": 322,
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/coin-change",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1292,
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 392,
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "acceptanceRate": 48.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/is-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 270,
+    "title": "Closest Binary Search Tree Value",
+    "difficulty": "Easy",
+    "acceptanceRate": 49.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/closest-binary-search-tree-value",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 273,
+    "title": "Integer to English Words",
+    "difficulty": "Hard",
+    "acceptanceRate": 34.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/integer-to-english-words",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3445,
+    "title": "Maximum Difference Between Even and Odd Frequency II",
+    "difficulty": "Hard",
+    "acceptanceRate": 49.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3441,
+    "title": "Minimum Cost Good Caption",
+    "difficulty": "Hard",
+    "acceptanceRate": 19,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-cost-good-caption",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 238,
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/product-of-array-except-self",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-common-prefix",
+    "tags": [],
+    "isPremium": false
+  }
+]

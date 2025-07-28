@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2334,
+    "title": "Subarray With Elements Greater Than Varying Threshold",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 238,
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/product-of-array-except-self",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 25,
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "acceptanceRate": 63.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "tags": [],
+    "isPremium": false
+  }
+]

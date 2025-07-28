@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 896,
+    "title": "Monotonic Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 61.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/monotonic-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 73.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 185,
+    "title": "Department Top Three Salaries",
+    "difficulty": "Hard",
+    "acceptanceRate": 58,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/department-top-three-salaries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 387,
+    "title": "First Unique Character in a String",
+    "difficulty": "Easy",
+    "acceptanceRate": 63.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 79.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/invert-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/decode-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 184,
+    "title": "Department Highest Salary",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/department-highest-salary",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  }
+]

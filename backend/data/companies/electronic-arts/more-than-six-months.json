@@ -1,0 +1,32 @@
+[
+  {
+    "id": 376,
+    "title": "Wiggle Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/wiggle-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 506,
+    "title": "Relative Ranks",
+    "difficulty": "Easy",
+    "acceptanceRate": 73.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/relative-ranks",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 392,
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "acceptanceRate": 48.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/is-subsequence",
+    "tags": [],
+    "isPremium": false
+  }
+]

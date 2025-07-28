@@ -1,0 +1,32 @@
+[
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 304,
+    "title": "Range Sum Query 2D - Immutable",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 120,
+    "title": "Triangle",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/triangle",
+    "tags": [],
+    "isPremium": false
+  }
+]

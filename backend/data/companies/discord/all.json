@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2301,
+    "title": "Match Substring After Replacement",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/match-substring-after-replacement",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 631,
+    "title": "Design Excel Sum Formula",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/design-excel-sum-formula",
+    "tags": [],
+    "isPremium": false
+  }
+]

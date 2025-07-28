@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 101,
+    "title": "Symmetric Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 59.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/symmetric-tree",
+    "tags": [],
+    "isPremium": false
+  }
+]

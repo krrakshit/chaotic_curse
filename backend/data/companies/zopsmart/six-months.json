@@ -1,0 +1,52 @@
+[
+  {
+    "id": 6,
+    "title": "Zigzag Conversion",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/zigzag-conversion",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 151,
+    "title": "Reverse Words in a String",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3602,
+    "title": "Hexadecimal and Hexatrigesimal Conversion",
+    "difficulty": "Easy",
+    "acceptanceRate": 79.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion",
+    "tags": [],
+    "isPremium": false
+  }
+]

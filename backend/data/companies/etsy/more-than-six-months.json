@@ -1,0 +1,12 @@
+[
+  {
+    "id": 412,
+    "title": "Fizz Buzz",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/fizz-buzz",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 907,
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3576,
+    "title": "Transform Array to All Equal Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 32,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/transform-array-to-all-equal-elements",
+    "tags": [],
+    "isPremium": false
+  }
+]

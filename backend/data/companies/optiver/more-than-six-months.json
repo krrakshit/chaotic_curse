@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1360,
+    "title": "Number of Days Between Two Dates",
+    "difficulty": "Easy",
+    "acceptanceRate": 51.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-days-between-two-dates",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 188,
+    "title": "Best Time to Buy and Sell Stock IV",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "tags": [],
+    "isPremium": false
+  }
+]

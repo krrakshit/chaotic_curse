@@ -1,0 +1,102 @@
+[
+  {
+    "id": 2499,
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "difficulty": "Hard",
+    "acceptanceRate": 40.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2054,
+    "title": "Two Best Non-Overlapping Events",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/two-best-non-overlapping-events",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2070,
+    "title": "Most Beautiful Item for Each Query",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 171,
+    "title": "Excel Sheet Column Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 65.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/excel-sheet-column-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1574,
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/decode-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 189,
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/rotate-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2468,
+    "title": "Split Message Based on Limit",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/split-message-based-on-limit",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3071,
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3043,
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "tags": [],
+    "isPremium": false
+  }
+]

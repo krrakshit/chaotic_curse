@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3003,
+    "title": "Maximize the Number of Partitions After Operations",
+    "difficulty": "Hard",
+    "acceptanceRate": 27.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1518,
+    "title": "Water Bottles",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/water-bottles",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1106,
+    "title": "Parsing A Boolean Expression",
+    "difficulty": "Hard",
+    "acceptanceRate": 69.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/parsing-a-boolean-expression",
+    "tags": [],
+    "isPremium": false
+  }
+]

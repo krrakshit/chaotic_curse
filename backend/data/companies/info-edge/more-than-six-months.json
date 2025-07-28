@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2058,
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3334,
+    "title": "Find the Maximum Factor Score of Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  }
+]

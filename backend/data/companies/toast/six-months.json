@@ -1,0 +1,12 @@
+[
+  {
+    "id": 277,
+    "title": "Find the Celebrity",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-the-celebrity",
+    "tags": [],
+    "isPremium": false
+  }
+]

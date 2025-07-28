@@ -1,0 +1,22 @@
+[
+  {
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 403,
+    "title": "Frog Jump",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/frog-jump",
+    "tags": [],
+    "isPremium": false
+  }
+]

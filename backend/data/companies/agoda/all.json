@@ -1,0 +1,402 @@
+[
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 554,
+    "title": "Brick Wall",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/brick-wall",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 66,
+    "title": "Plus One",
+    "difficulty": "Easy",
+    "acceptanceRate": 47.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/plus-one",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 120,
+    "title": "Triangle",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/triangle",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 198,
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/house-robber",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 230,
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "Medium",
+    "acceptanceRate": 75.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 322,
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/coin-change",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3178,
+    "title": "Find the Child Who Has the Ball After K Seconds",
+    "difficulty": "Easy",
+    "acceptanceRate": 61.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-window-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 605,
+    "title": "Can Place Flowers",
+    "difficulty": "Easy",
+    "acceptanceRate": 28.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/can-place-flowers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1636,
+    "title": "Sort Array by Increasing Frequency",
+    "difficulty": "Easy",
+    "acceptanceRate": 80.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 45,
+    "title": "Jump Game II",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/jump-game-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2734,
+    "title": "Lexicographically Smallest String After Substring Operation",
+    "difficulty": "Medium",
+    "acceptanceRate": 32.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1190,
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 394,
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/decode-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 63,
+    "title": "Unique Paths II",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/unique-paths-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 567,
+    "title": "Permutation in String",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/permutation-in-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 12,
+    "title": "Integer to Roman",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/integer-to-roman",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 496,
+    "title": "Next Greater Element I",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/next-greater-element-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1283,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "difficulty": "Medium",
+    "acceptanceRate": 63.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1200,
+    "title": "Minimum Absolute Difference",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-absolute-difference",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 73.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/daily-temperatures",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "acceptanceRate": 53,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 844,
+    "title": "Backspace String Compare",
+    "difficulty": "Easy",
+    "acceptanceRate": 49.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/backspace-string-compare",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 724,
+    "title": "Find Pivot Index",
+    "difficulty": "Easy",
+    "acceptanceRate": 60.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-pivot-index",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1921,
+    "title": "Eliminate Maximum Number of Monsters",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/eliminate-maximum-number-of-monsters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 46,
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "acceptanceRate": 80.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/permutations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "tags": [],
+    "isPremium": false
+  }
+]

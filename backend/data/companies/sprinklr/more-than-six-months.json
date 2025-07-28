@@ -1,0 +1,392 @@
+[
+  {
+    "id": 2846,
+    "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+    "difficulty": "Hard",
+    "acceptanceRate": 43.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 15,
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/3sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 540,
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 59.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 32,
+    "title": "Longest Valid Parentheses",
+    "difficulty": "Hard",
+    "acceptanceRate": 36.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 547,
+    "title": "Number of Provinces",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-provinces",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1981,
+    "title": "Minimize the Difference Between Target and Chosen Elements",
+    "difficulty": "Medium",
+    "acceptanceRate": 35.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 73,
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/set-matrix-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2897,
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "difficulty": "Hard",
+    "acceptanceRate": 43.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2086,
+    "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 149,
+    "title": "Max Points on a Line",
+    "difficulty": "Hard",
+    "acceptanceRate": 29.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/max-points-on-a-line",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 687,
+    "title": "Longest Univalue Path",
+    "difficulty": "Medium",
+    "acceptanceRate": 42.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-univalue-path",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 763,
+    "title": "Partition Labels",
+    "difficulty": "Medium",
+    "acceptanceRate": 81.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/partition-labels",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2718,
+    "title": "Sum of Matrix After Queries",
+    "difficulty": "Medium",
+    "acceptanceRate": 31.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sum-of-matrix-after-queries",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2751,
+    "title": "Robot Collisions",
+    "difficulty": "Hard",
+    "acceptanceRate": 56.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/robot-collisions",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 354,
+    "title": "Russian Doll Envelopes",
+    "difficulty": "Hard",
+    "acceptanceRate": 37.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/russian-doll-envelopes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 380,
+    "title": "Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "acceptanceRate": 55,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 468,
+    "title": "Validate IP Address",
+    "difficulty": "Medium",
+    "acceptanceRate": 27.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/validate-ip-address",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 297,
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "acceptanceRate": 59.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 75,
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sort-colors",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3031,
+    "title": "Minimum Time to Revert Word to Initial State II",
+    "difficulty": "Hard",
+    "acceptanceRate": 34.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3029,
+    "title": "Minimum Time to Revert Word to Initial State I",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2440,
+    "title": "Create Components With Same Value",
+    "difficulty": "Hard",
+    "acceptanceRate": 52.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/create-components-with-same-value",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1746,
+    "title": "Maximum Subarray Sum After One Operation",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2546,
+    "title": "Apply Bitwise Operations to Make Strings Equal",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2518,
+    "title": "Number of Great Partitions",
+    "difficulty": "Hard",
+    "acceptanceRate": 32.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-great-partitions",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2999,
+    "title": "Count the Number of Powerful Integers",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2955,
+    "title": "Number of Same-End Substrings",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-same-end-substrings",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1799,
+    "title": "Maximize Score After N Operations",
+    "difficulty": "Hard",
+    "acceptanceRate": 57.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximize-score-after-n-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2378,
+    "title": "Choose Edges to Maximize Score in a Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1755,
+    "title": "Closest Subsequence Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/closest-subsequence-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2048,
+    "title": "Next Greater Numerically Balanced Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/next-greater-numerically-balanced-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 84,
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 41,
+    "title": "First Missing Positive",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/first-missing-positive",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3414,
+    "title": "Maximum Score of Non-overlapping Intervals",
+    "difficulty": "Hard",
+    "acceptanceRate": 30.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "tags": [],
+    "isPremium": false
+  }
+]

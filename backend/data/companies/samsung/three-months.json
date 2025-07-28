@@ -1,0 +1,22 @@
+[
+  {
+    "id": 374,
+    "title": "Guess Number Higher or Lower",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/guess-number-higher-or-lower",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 849,
+    "title": "Maximize Distance to Closest Person",
+    "difficulty": "Medium",
+    "acceptanceRate": 49,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 849,
+    "title": "Maximize Distance to Closest Person",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 125,
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "acceptanceRate": 51.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/valid-palindrome",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 228,
+    "title": "Summary Ranges",
+    "difficulty": "Easy",
+    "acceptanceRate": 53.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/summary-ranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1493,
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  }
+]

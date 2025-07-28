@@ -1,0 +1,22 @@
+[
+  {
+    "id": 611,
+    "title": "Valid Triangle Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-triangle-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2826,
+    "title": "Sorting Three Groups",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sorting-three-groups",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1036,
+    "title": "Escape a Large Maze",
+    "difficulty": "Hard",
+    "acceptanceRate": 35.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/escape-a-large-maze",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1162,
+    "title": "As Far from Land as Possible",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 12,
+    "title": "Integer to Roman",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/integer-to-roman",
+    "tags": [],
+    "isPremium": false
+  }
+]

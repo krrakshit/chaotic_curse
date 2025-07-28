@@ -1,0 +1,22 @@
+[
+  {
+    "id": 513,
+    "title": "Find Bottom Left Tree Value",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-bottom-left-tree-value",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1353,
+    "title": "Maximum Number of Events That Can Be Attended",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+    "tags": [],
+    "isPremium": false
+  }
+]

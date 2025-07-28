@@ -1,0 +1,262 @@
+[
+  {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-window-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 109,
+    "title": "Convert Sorted List to Binary Search Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 632,
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "Hard",
+    "acceptanceRate": 69.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 126,
+    "title": "Word Ladder II",
+    "difficulty": "Hard",
+    "acceptanceRate": 27.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/word-ladder-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 47,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 155,
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/min-stack",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 158,
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "difficulty": "Hard",
+    "acceptanceRate": 42.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1094,
+    "title": "Car Pooling",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/car-pooling",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 716,
+    "title": "Max Stack",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/max-stack",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 208,
+    "title": "Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 253,
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 304,
+    "title": "Range Sum Query 2D - Immutable",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 365,
+    "title": "Water and Jug Problem",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/water-and-jug-problem",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 443,
+    "title": "String Compression",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/string-compression",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1882,
+    "title": "Process Tasks Using Servers",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.3,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/process-tasks-using-servers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 981,
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/time-based-key-value-store",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1723,
+    "title": "Find Minimum Time to Finish All Jobs",
+    "difficulty": "Hard",
+    "acceptanceRate": 43.8,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 91,
+    "title": "Decode Ways",
+    "difficulty": "Medium",
+    "acceptanceRate": 36.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/decode-ways",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1620,
+    "title": "Coordinate With Maximum Network Quality",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.5,
+    "frequency": 37.5,
+    "url": "https://leetcode.com/problems/coordinate-with-maximum-network-quality",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 238,
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/product-of-array-except-self",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1298,
+    "title": "Maximum Candies You Can Get from Boxes",
+    "difficulty": "Hard",
+    "acceptanceRate": 68.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 958,
+    "title": "Check Completeness of a Binary Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 148,
+    "title": "Sort List",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/sort-list",
+    "tags": [],
+    "isPremium": false
+  }
+]

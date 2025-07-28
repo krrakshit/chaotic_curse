@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1160,
+    "title": "Find Words That Can Be Formed by Characters",
+    "difficulty": "Easy",
+    "acceptanceRate": 71.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2133,
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "difficulty": "Easy",
+    "acceptanceRate": 52.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1604,
+    "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 79,
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/word-search",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 36,
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/valid-sudoku",
+    "tags": [],
+    "isPremium": false
+  }
+]

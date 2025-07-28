@@ -1,0 +1,412 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/two-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 11,
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-common-prefix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "acceptanceRate": 42.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "acceptanceRate": 60.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1953,
+    "title": "Maximum Number of Weeks for Which You Can Work",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 69,
+    "title": "Sqrt(x)",
+    "difficulty": "Easy",
+    "acceptanceRate": 40.5,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/sqrtx",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 77.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 47,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2065,
+    "title": "Maximum Path Quality of a Graph",
+    "difficulty": "Hard",
+    "acceptanceRate": 59.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-path-quality-of-a-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2954,
+    "title": "Count the Number of Infection Sequences",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2127,
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "difficulty": "Hard",
+    "acceptanceRate": 62,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 206,
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "acceptanceRate": 79.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/reverse-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 215,
+    "title": "Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1349,
+    "title": "Maximum Students Taking Exam",
+    "difficulty": "Hard",
+    "acceptanceRate": 52.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-students-taking-exam",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1341,
+    "title": "Movie Rating",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/movie-rating",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2552,
+    "title": "Count Increasing Quadruplets",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-increasing-quadruplets",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/daily-temperatures",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 796,
+    "title": "Rotate String",
+    "difficulty": "Easy",
+    "acceptanceRate": 64.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/rotate-string",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1636,
+    "title": "Sort Array by Increasing Frequency",
+    "difficulty": "Easy",
+    "acceptanceRate": 80.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 52.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 221,
+    "title": "Maximal Square",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximal-square",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 125,
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "acceptanceRate": 51.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/valid-palindrome",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 738,
+    "title": "Monotone Increasing Digits",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.8,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/monotone-increasing-digits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 509,
+    "title": "Fibonacci Number",
+    "difficulty": "Easy",
+    "acceptanceRate": 73.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/fibonacci-number",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "difficulty": "Easy",
+    "acceptanceRate": 44.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/valid-perfect-square",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 141,
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "acceptanceRate": 52.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/linked-list-cycle",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 139,
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/word-break",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1428,
+    "title": "Leftmost Column with at Least a One",
+    "difficulty": "Medium",
+    "acceptanceRate": 54.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1038,
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "difficulty": "Medium",
+    "acceptanceRate": 88.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 322,
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/coin-change",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "acceptanceRate": 66.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.9,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 392,
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "acceptanceRate": 48.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/is-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "tags": [],
+    "isPremium": false
+  }
+]

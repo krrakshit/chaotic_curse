@@ -1,0 +1,212 @@
+[
+  {
+    "id": 475,
+    "title": "Heaters",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/heaters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 224,
+    "title": "Basic Calculator",
+    "difficulty": "Hard",
+    "acceptanceRate": 45.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/basic-calculator",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/daily-temperatures",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1610,
+    "title": "Maximum Number of Visible Points",
+    "difficulty": "Hard",
+    "acceptanceRate": 37.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 227,
+    "title": "Basic Calculator II",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/basic-calculator-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 243,
+    "title": "Shortest Word Distance",
+    "difficulty": "Easy",
+    "acceptanceRate": 66,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/shortest-word-distance",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 289,
+    "title": "Game of Life",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/game-of-life",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 49,
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "acceptanceRate": 71.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 951,
+    "title": "Flip Equivalent Binary Trees",
+    "difficulty": "Medium",
+    "acceptanceRate": 69.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/flip-equivalent-binary-trees",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1268,
+    "title": "Search Suggestions System",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.1,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/search-suggestions-system",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 114,
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "Medium",
+    "acceptanceRate": 68.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 207,
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/course-schedule",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 244,
+    "title": "Shortest Word Distance II",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 295,
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 283,
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "acceptanceRate": 62.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 210,
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/course-schedule-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 909,
+    "title": "Snakes and Ladders",
+    "difficulty": "Medium",
+    "acceptanceRate": 47.9,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/snakes-and-ladders",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 287,
+    "title": "Find the Duplicate Number",
+    "difficulty": "Medium",
+    "acceptanceRate": 63,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/find-the-duplicate-number",
+    "tags": [],
+    "isPremium": false
+  }
+]

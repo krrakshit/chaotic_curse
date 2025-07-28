@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 575,
+    "title": "Distribute Candies",
+    "difficulty": "Easy",
+    "acceptanceRate": 69.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/distribute-candies",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 581,
+    "title": "Shortest Unsorted Continuous Subarray",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 594,
+    "title": "Longest Harmonious Subsequence",
+    "difficulty": "Easy",
+    "acceptanceRate": 63.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 949,
+    "title": "Largest Time for Given Digits",
+    "difficulty": "Medium",
+    "acceptanceRate": 35.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/largest-time-for-given-digits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 207,
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/course-schedule",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 981,
+    "title": "Time Based Key-Value Store",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.4,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/time-based-key-value-store",
+    "tags": [],
+    "isPremium": false
+  }
+]

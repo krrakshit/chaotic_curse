@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1466,
+    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 316,
+    "title": "Remove Duplicate Letters",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/remove-duplicate-letters",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2098,
+    "title": "Subsequence of Size K With the Largest Even Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 35.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1615,
+    "title": "Maximal Network Rank",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.5,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/maximal-network-rank",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1426,
+    "title": "Counting Elements",
+    "difficulty": "Easy",
+    "acceptanceRate": 60.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/counting-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 489,
+    "title": "Robot Room Cleaner",
+    "difficulty": "Hard",
+    "acceptanceRate": 77.6,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/robot-room-cleaner",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3496,
+    "title": "Maximize Score After Pair Deletions",
+    "difficulty": "Medium",
+    "acceptanceRate": 59,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 221,
+    "title": "Maximal Square",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximal-square",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 643,
+    "title": "Maximum Average Subarray I",
+    "difficulty": "Easy",
+    "acceptanceRate": 45.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-average-subarray-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 365,
+    "title": "Water and Jug Problem",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/water-and-jug-problem",
+    "tags": [],
+    "isPremium": false
+  }
+]

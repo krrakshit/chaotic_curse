@@ -1,0 +1,312 @@
+[
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 134,
+    "title": "Gas Station",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/gas-station",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1094,
+    "title": "Car Pooling",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/car-pooling",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 42,
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 45,
+    "title": "Jump Game II",
+    "difficulty": "Medium",
+    "acceptanceRate": 41.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/jump-game-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 437,
+    "title": "Path Sum III",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/path-sum-iii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1373,
+    "title": "Maximum Sum BST in Binary Tree",
+    "difficulty": "Hard",
+    "acceptanceRate": 44.6,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 84,
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 752,
+    "title": "Open the Lock",
+    "difficulty": "Medium",
+    "acceptanceRate": 60.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/open-the-lock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1385,
+    "title": "Find the Distance Value Between Two Arrays",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2659,
+    "title": "Make Array Empty",
+    "difficulty": "Hard",
+    "acceptanceRate": 25.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/make-array-empty",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1905,
+    "title": "Count Sub Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 72.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/count-sub-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 781,
+    "title": "Rabbits in Forest",
+    "difficulty": "Medium",
+    "acceptanceRate": 58.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/rabbits-in-forest",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 79,
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/word-search",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.1,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/koko-eating-bananas",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 43,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 63,
+    "title": "Unique Paths II",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/unique-paths-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 47,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 983,
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.4,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 162,
+    "title": "Find Peak Element",
+    "difficulty": "Medium",
+    "acceptanceRate": 46.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/find-peak-element",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 962,
+    "title": "Maximum Width Ramp",
+    "difficulty": "Medium",
+    "acceptanceRate": 55.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-width-ramp",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 29,
+    "title": "Divide Two Integers",
+    "difficulty": "Medium",
+    "acceptanceRate": 18.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/divide-two-integers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.8,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 687,
+    "title": "Longest Univalue Path",
+    "difficulty": "Medium",
+    "acceptanceRate": 42.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/longest-univalue-path",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 200,
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 31,
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/next-permutation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3026,
+    "title": "Maximum Good Subarray Sum",
+    "difficulty": "Medium",
+    "acceptanceRate": 20.3,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-good-subarray-sum",
+    "tags": [],
+    "isPremium": false
+  }
+]

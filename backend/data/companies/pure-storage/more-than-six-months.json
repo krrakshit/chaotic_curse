@@ -1,0 +1,52 @@
+[
+  {
+    "id": 300,
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "acceptanceRate": 58,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 593,
+    "title": "Valid Square",
+    "difficulty": "Medium",
+    "acceptanceRate": 44.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-square",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1668,
+    "title": "Maximum Repeating Substring",
+    "difficulty": "Easy",
+    "acceptanceRate": 39.7,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/maximum-repeating-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "acceptanceRate": 36,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1206,
+    "title": "Design Skiplist",
+    "difficulty": "Hard",
+    "acceptanceRate": 58.2,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/design-skiplist",
+    "tags": [],
+    "isPremium": false
+  }
+]

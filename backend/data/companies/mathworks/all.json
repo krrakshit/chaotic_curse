@@ -1,0 +1,312 @@
+[
+  {
+    "id": 526,
+    "title": "Beautiful Arrangement",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/beautiful-arrangement",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2861,
+    "title": "Maximum Number of Alloys",
+    "difficulty": "Medium",
+    "acceptanceRate": 39,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximum-number-of-alloys",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2514,
+    "title": "Count Anagrams",
+    "difficulty": "Hard",
+    "acceptanceRate": 35.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/count-anagrams",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 566,
+    "title": "Reshape the Matrix",
+    "difficulty": "Easy",
+    "acceptanceRate": 64,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/reshape-the-matrix",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2038,
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1048,
+    "title": "Longest String Chain",
+    "difficulty": "Medium",
+    "acceptanceRate": 62.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/longest-string-chain",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1163,
+    "title": "Last Substring in Lexicographical Order",
+    "difficulty": "Hard",
+    "acceptanceRate": 34.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1130,
+    "title": "Minimum Cost Tree From Leaf Values",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3049,
+    "title": "Earliest Second to Mark Indices II",
+    "difficulty": "Hard",
+    "acceptanceRate": 20,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3048,
+    "title": "Earliest Second to Mark Indices I",
+    "difficulty": "Medium",
+    "acceptanceRate": 34.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/earliest-second-to-mark-indices-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3035,
+    "title": "Maximum Palindromes After Operations",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 834,
+    "title": "Sum of Distances in Tree",
+    "difficulty": "Hard",
+    "acceptanceRate": 65.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/sum-of-distances-in-tree",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 410,
+    "title": "Split Array Largest Sum",
+    "difficulty": "Hard",
+    "acceptanceRate": 58.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/split-array-largest-sum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2851,
+    "title": "String Transformation",
+    "difficulty": "Hard",
+    "acceptanceRate": 25.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/string-transformation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2444,
+    "title": "Count Subarrays With Fixed Bounds",
+    "difficulty": "Hard",
+    "acceptanceRate": 69.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 500,
+    "title": "Keyboard Row",
+    "difficulty": "Easy",
+    "acceptanceRate": 72.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/keyboard-row",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2462,
+    "title": "Total Cost to Hire K Workers",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.2,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1328,
+    "title": "Break a Palindrome",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.6,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/break-a-palindrome",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 25,
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "acceptanceRate": 63.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2582,
+    "title": "Pass the Pillow",
+    "difficulty": "Easy",
+    "acceptanceRate": 56.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/pass-the-pillow",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2858,
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "difficulty": "Hard",
+    "acceptanceRate": 55.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2964,
+    "title": "Number of Divisible Triplet Sums",
+    "difficulty": "Medium",
+    "acceptanceRate": 67.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2016,
+    "title": "Maximum Difference Between Increasing Elements",
+    "difficulty": "Easy",
+    "acceptanceRate": 66.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1290,
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "difficulty": "Easy",
+    "acceptanceRate": 81.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "acceptanceRate": 57.4,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 115,
+    "title": "Distinct Subsequences",
+    "difficulty": "Hard",
+    "acceptanceRate": 50.3,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/distinct-subsequences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 968,
+    "title": "Binary Tree Cameras",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.3,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/binary-tree-cameras",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1648,
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "difficulty": "Medium",
+    "acceptanceRate": 30,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 638,
+    "title": "Shopping Offers",
+    "difficulty": "Medium",
+    "acceptanceRate": 51.9,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/shopping-offers",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 621,
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "acceptanceRate": 61.7,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/task-scheduler",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 108,
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 74.2,
+    "frequency": 50,
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "tags": [],
+    "isPremium": false
+  }
+]

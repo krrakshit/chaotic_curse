@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2539,
+    "title": "Count the Number of Good Subsequences",
+    "difficulty": "Medium",
+    "acceptanceRate": 50.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3136,
+    "title": "Valid Word",
+    "difficulty": "Easy",
+    "acceptanceRate": 38.9,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/valid-word",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3511,
+    "title": "Make a Positive Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 37.8,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/make-a-positive-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3138,
+    "title": "Minimum Length of Anagram Concatenation",
+    "difficulty": "Medium",
+    "acceptanceRate": 39.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 761,
+    "title": "Special Binary String",
+    "difficulty": "Hard",
+    "acceptanceRate": 63.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/special-binary-string",
+    "tags": [],
+    "isPremium": false
+  }
+]

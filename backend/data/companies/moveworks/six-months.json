@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3076,
+    "title": "Shortest Uncommon Substring in an Array",
+    "difficulty": "Medium",
+    "acceptanceRate": 48.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1258,
+    "title": "Synonymous Sentences",
+    "difficulty": "Medium",
+    "acceptanceRate": 56.6,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/synonymous-sentences",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  }
+]

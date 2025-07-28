@@ -1,0 +1,42 @@
+[
+  {
+    "id": 502,
+    "title": "IPO",
+    "difficulty": "Hard",
+    "acceptanceRate": 53.1,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/ipo",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 460,
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.8,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/lfu-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "acceptanceRate": 47.7,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 3367,
+    "title": "Maximize Sum of Weights after Edge Removals",
+    "difficulty": "Hard",
+    "acceptanceRate": 28.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals",
+    "tags": [],
+    "isPremium": false
+  }
+]

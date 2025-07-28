@@ -1,0 +1,22 @@
+[
+  {
+    "id": 780,
+    "title": "Reaching Points",
+    "difficulty": "Hard",
+    "acceptanceRate": 33.7,
+    "frequency": 87.5,
+    "url": "https://leetcode.com/problems/reaching-points",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 460,
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.8,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lfu-cache",
+    "tags": [],
+    "isPremium": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 37,
+    "title": "Sudoku Solver",
+    "difficulty": "Hard",
+    "acceptanceRate": 64,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sudoku-solver",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 403,
+    "title": "Frog Jump",
+    "difficulty": "Hard",
+    "acceptanceRate": 46.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/frog-jump",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1547,
+    "title": "Minimum Cost to Cut a Stick",
+    "difficulty": "Hard",
+    "acceptanceRate": 62.2,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+    "tags": [],
+    "isPremium": false
+  }
+]

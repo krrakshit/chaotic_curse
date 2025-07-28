@@ -1,4 +1,3 @@
-// src/lib/data-fetcher.ts
 import { Company, CompanyQuestions, Question, TimePeriod } from './types';
 
 const CSV_FILE_MAPPING = {

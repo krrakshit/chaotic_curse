@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1507,
+    "title": "Reformat Date",
+    "difficulty": "Easy",
+    "acceptanceRate": 67.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/reformat-date",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 2381,
+    "title": "Shifting Letters II",
+    "difficulty": "Medium",
+    "acceptanceRate": 53.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/shifting-letters-ii",
+    "tags": [],
+    "isPremium": false
+  }
+]

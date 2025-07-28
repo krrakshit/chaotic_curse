@@ -1,0 +1,52 @@
+[
+  {
+    "id": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "acceptanceRate": 55.4,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "Medium",
+    "acceptanceRate": 40.5,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 476,
+    "title": "Number Complement",
+    "difficulty": "Easy",
+    "acceptanceRate": 70.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-complement",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1009,
+    "title": "Complement of Base 10 Integer",
+    "difficulty": "Easy",
+    "acceptanceRate": 60.7,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1061,
+    "title": "Lexicographically Smallest Equivalent String",
+    "difficulty": "Medium",
+    "acceptanceRate": 81.1,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+    "tags": [],
+    "isPremium": false
+  }
+]

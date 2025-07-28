@@ -1,0 +1,22 @@
+[
+  {
+    "id": 3006,
+    "title": "Find Beautiful Indices in the Given Array I",
+    "difficulty": "Medium",
+    "acceptanceRate": 38.6,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 56,
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "acceptanceRate": 49.5,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "tags": [],
+    "isPremium": false
+  }
+]

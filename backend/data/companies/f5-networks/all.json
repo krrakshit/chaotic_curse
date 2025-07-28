@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1291,
+    "title": "Sequential Digits",
+    "difficulty": "Medium",
+    "acceptanceRate": 65.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/sequential-digits",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 100,
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "acceptanceRate": 65.3,
+    "frequency": 62.5,
+    "url": "https://leetcode.com/problems/same-tree",
+    "tags": [],
+    "isPremium": false
+  }
+]

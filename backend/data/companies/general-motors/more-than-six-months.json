@@ -1,0 +1,42 @@
+[
+  {
+    "id": 146,
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "acceptanceRate": 45.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/lru-cache",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 1904,
+    "title": "The Number of Full Rounds You Have Played",
+    "difficulty": "Medium",
+    "acceptanceRate": 43.4,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/the-number-of-full-rounds-you-have-played",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 323,
+    "title": "Number of Connected Components in an Undirected Graph",
+    "difficulty": "Medium",
+    "acceptanceRate": 64.3,
+    "frequency": 100,
+    "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "tags": [],
+    "isPremium": false
+  },
+  {
+    "id": 41,
+    "title": "First Missing Positive",
+    "difficulty": "Hard",
+    "acceptanceRate": 41.2,
+    "frequency": 75,
+    "url": "https://leetcode.com/problems/first-missing-positive",
+    "tags": [],
+    "isPremium": false
+  }
+]
