@@ -3,6 +3,7 @@ import FilterTabs from '@/components/FilterTabs';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
+import { fetchCompanies, fetchCompanyQuestionsByPeriod } from '@/lib/data-fetcher';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -14,11 +15,8 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
   const resolvedParams = await params;
   const resolvedSearchParams = await searchParams;
 
-  // Fetch company meta from companies-list.json (filesystem)
-  const fs = await import('fs');
-  const path = await import('path');
-  const companiesPath = path.join(process.cwd(), 'app', 'data', 'companies-list.json');
-  const companies = JSON.parse(fs.readFileSync(companiesPath, 'utf-8'));
+  // Fetch company meta from data-fetcher
+  const companies = await fetchCompanies();
   const company = companies.find((c: any) => c.slug === resolvedParams.slug);
   if (!company) {
     notFound();
@@ -33,21 +31,11 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
     notFound();
   }
 
-  // Fetch questions from API
-  // Build absolute URL for fetch
-  let baseUrl = process.env.NEXT_PUBLIC_BASE_URL;
-  if (!baseUrl) {
-    // Try to infer from environment (localhost or production)
-    baseUrl = process.env.VERCEL_URL
-      ? `https://${process.env.VERCEL_URL}`
-      : 'http://localhost:3000';
-  }
-  const apiUrl = `${baseUrl}/api/company?slug=${resolvedParams.slug}&period=${period}`;
-  const res = await fetch(apiUrl, { cache: 'no-store' });
-  if (!res.ok) {
+  // Fetch questions directly from filesystem
+  const questions = await fetchCompanyQuestionsByPeriod(resolvedParams.slug, period as import('@/lib/types').TimePeriod);
+  if (!questions) {
     notFound();
   }
-  const { questions } = await res.json();
 
   return (
     <div className="min-h-screen">
@@ -107,7 +95,7 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
       <div className="container mx-auto px-4 pb-16">
         <FilterTabs 
           companySlug={resolvedParams.slug}
-          currentPeriod={period}
+          currentPeriod={period as import('@/lib/types').TimePeriod}
           availablePeriods={company.availablePeriods}
           questionCounts={company.questionCounts}
         />

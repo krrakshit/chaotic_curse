@@ -71,6 +71,31 @@ export async function fetchCompanyQuestions(companySlug: string): Promise<Compan
   }
 }
 
+// Fetch questions for a specific company and period (like the API did)
+export async function fetchCompanyQuestionsByPeriod(slug: string, period: import('./types').TimePeriod): Promise<Question[] | null> {
+  // Map period to file name (as in API)
+  const PERIOD_FILE_MAP: Record<string, string> = {
+    'all': 'all.json',
+    'moreThanSixMonths': 'more-than-six-months.json',
+    'underSixMonths': 'six-months.json',
+    'threeMonths': 'three-months.json',
+    'thirtyDays': 'thirty-days.json',
+  };
+  const fileName = PERIOD_FILE_MAP[period] || `${period}.json`;
+  try {
+    const fs = await import('fs');
+    const path = await import('path');
+    const filePath = path.join(process.cwd(), 'app', 'data', 'companies', slug, fileName);
+    if (!fs.existsSync(filePath)) {
+      return null;
+    }
+    const data = fs.readFileSync(filePath, 'utf-8');
+    return JSON.parse(data);
+  } catch (error) {
+    return null;
+  }
+}
+
 // Helper function to check if a company has a specific period
 export function hasTimePeriod(company: Company, period: TimePeriod): boolean {
   return company.availablePeriods.includes(period);
