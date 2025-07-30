@@ -41,16 +41,15 @@ export default function TimeComplexityAnalyzer() {
   };
 
   return (
-    <div className="glass-card rounded-2xl p-6 max-w-2xl mx-auto my-12">
-      <h2 className="text-2xl font-bold mb-4 text-white">
-        Time Complexity Analyzer
-      </h2>
-      <div className="mb-4 flex gap-4">
+    <div className="glass-card rounded-3xl max-w-3xl mx-auto my-16 p-8 shadow-xl">
+      <h2 className="text-4xl font-bold mb-2 gradient-text text-center">Time Complexity Analyzer</h2>
+      <p className="text-gray-300 text-center mb-8 text-lg">Paste your code and get an instant time complexity analysis powered by AI.</p>
+      <div className="flex flex-col md:flex-row gap-4 mb-6 justify-center items-center">
         <select
           title="Select Language"
           value={language}
           onChange={(e) => setLanguage(e.target.value)}
-          className="bg-white/10 text-white rounded-lg px-3 py-2 border border-white/20"
+          className="bg-white/10 text-white rounded-xl px-4 py-3 border border-white/20 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 font-semibold shadow"
         >
           {LANGUAGES.map((lang) => (
             <option key={lang} value={lang} className="bg-gray-900">
@@ -61,7 +60,7 @@ export default function TimeComplexityAnalyzer() {
         <button
           onClick={handleAnalyze}
           disabled={loading || !code.trim()}
-          className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-semibold transition disabled:opacity-50"
+          className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-xl font-semibold transition disabled:opacity-50 shadow"
         >
           {loading ? "Analyzing..." : "Analyze"}
         </button>
@@ -71,18 +70,21 @@ export default function TimeComplexityAnalyzer() {
         onChange={(e) => setCode(e.target.value)}
         rows={8}
         placeholder="Paste your code here..."
-        className="w-full bg-white/10 text-white rounded-lg p-3 border border-white/20 font-mono mb-4"
+        className="w-full bg-white/10 text-white rounded-xl p-4 border border-white/20 font-mono mb-4 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 shadow"
       />
-      <div>
-        {error && <div className="text-red-400 mb-2">{error}</div>}
+      <div className="min-h-[48px]">
+        {error && <div className="text-red-400 mb-2 text-center font-semibold">{error}</div>}
         {result && (
-          <div className="mt-6">
+          <div className="glass-card rounded-2xl p-6 mt-6 text-center border border-blue-400/30 shadow-lg animate-fade-in">
             <div className="mb-2">
-              <span className="font-bold text-white">Time Complexity:</span>{" "}
-              <span className="text-blue-400 font-mono">
-                {result.complexity}
-              </span>
+              <span className="font-bold text-white text-lg">Time Complexity:</span>{' '}
+              <span className="text-blue-400 font-mono text-lg">{result.complexity}</span>
             </div>
+            {result.explanation && (
+              <div className="text-gray-300 mt-2 text-base">
+                {result.explanation}
+              </div>
+            )}
           </div>
         )}
       </div>

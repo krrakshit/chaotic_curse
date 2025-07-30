@@ -5,10 +5,12 @@ import SearchBar from './SearchBar';
 import CompanySortFilter from './CompanySortFilter';
 import InfiniteCompanies from './InfiniteCompanies';
 import Squares from './Squares/Squares';
+import TimeComplexityAnalyzer from '../app/analyze/page';
 
 export default function MainPageClient({ companies }: { companies: any[] }) {
   const [sort, setSort] = useState('az');
   const [period, setPeriod] = useState('all');
+  const [showAnalyzer, setShowAnalyzer] = useState(false);
 
   // Sorting and filtering logic
   const sortedCompanies = useMemo(() => {
@@ -29,6 +31,15 @@ export default function MainPageClient({ companies }: { companies: any[] }) {
 
   return (
     <div className="min-h-screen">
+      {/* Navbar */}
+      <nav className="w-full bg-black/40 backdrop-blur sticky top-0 z-30 px-4 py-3 flex justify-end">
+        <button
+          className="text-white font-semibold hover:text-blue-400 transition px-4 py-2 rounded"
+          onClick={() => setShowAnalyzer((prev) => !prev)}
+        >
+          {showAnalyzer ? 'Back to Companies' : 'Time Complexity'}
+        </button>
+      </nav>
       {/* Hero Section with Squares Background */}
       <div className="relative rounded-b-3xl mb-12 overflow-hidden">
         {/* Squares background */}
@@ -41,10 +52,8 @@ export default function MainPageClient({ companies }: { companies: any[] }) {
             hoverFillColor="rgba(255, 255, 255, 0.1)"
           />
         </div>
-        
         {/* Glass overlay for better text readability */}
         <div className="absolute inset-0 bg-black/30 backdrop-blur-[2px]"></div>
-        
         {/* Hero content above squares */}
         <div className="relative z-10">
           <div className="container mx-auto px-4 py-16">
@@ -71,32 +80,31 @@ export default function MainPageClient({ companies }: { companies: any[] }) {
           </div>
         </div>
       </div>
-
-      {/* Companies Grid */}
-      <div className="container mx-auto px-4 pb-16">
-
-        {/* Search Bar */}
-        <div className="mb-10">
-          <SearchBar companies={companies} />
-        </div>
-
-        <CompanySortFilter
-          sort={sort}
-          period={period}
-          onChange={(s, p) => { setSort(s); setPeriod(p); }}
-        />
-
-        <InfiniteCompanies companies={sortedCompanies} batchSize={20} />
-
-        {/* Footer note */}
-        <div className="text-center mt-16">
-          <div className="glass rounded-2xl p-6 max-w-2xl mx-auto">
-            <p className="text-gray-400 text-sm">
-              💡 Tip: Questions are categorized by recency to help you focus on the most relevant content for your interviews.
-            </p>
+      {/* Conditional rendering for Time Complexity Analyzer */}
+      {showAnalyzer ? (
+        <TimeComplexityAnalyzer />
+      ) : (
+        <div className="container mx-auto px-4 pb-16">
+          {/* Search Bar */}
+          <div className="mb-10">
+            <SearchBar companies={companies} />
+          </div>
+          <CompanySortFilter
+            sort={sort}
+            period={period}
+            onChange={(s, p) => { setSort(s); setPeriod(p); }}
+          />
+          <InfiniteCompanies companies={sortedCompanies} batchSize={20} />
+          {/* Footer note */}
+          <div className="text-center mt-16">
+            <div className="glass rounded-2xl p-6 max-w-2xl mx-auto">
+              <p className="text-gray-400 text-sm">
+                💡 Tip: Questions are categorized by recency to help you focus on the most relevant content for your interviews.
+              </p>
+            </div>
           </div>
         </div>
-      </div>
+      )}
     </div>
   );
 }
