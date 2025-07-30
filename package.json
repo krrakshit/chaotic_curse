@@ -11,6 +11,7 @@
     "start:backend": "cd backend && npx ts-node server.ts"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@vercel/analytics": "^1.5.0",
     "framer-motion": "^12.23.9",
     "fs": "^0.0.1-security",
