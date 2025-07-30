@@ -58,15 +58,7 @@ Analyze the following ${language} code and estimate its time complexity using Bi
 Return your answer in the following JSON format:
 
 {
-  "complexity": "O(n^2)",
-  "graphData": [
-    {"n": 1, "ops": 1},
-    {"n": 2, "ops": 4},
-    {"n": 3, "ops": 9},
-    {"n": 4, "ops": 16},
-    {"n": 5, "ops": 25}
-  ],
-  "explanation": "This code uses a nested loop, so for each n, it does n*n operations."
+  "complexity": "O(n^2)"
 }
 
 Here is the code:
