@@ -30,4 +30,4 @@ jobs:
           touch /home/runner/.ssh/known_hosts
           echo "${{ secrets.KNOWN_HOSTS }}" &> /home/runner/.ssh/known_hosts
           chmod 700 /home/runner/ssh_key
-          ssh -o StrictHostKeyChecking=no -i ~/ssh_key ubuntu@{{ secrets.HOST_IP }} -t " sudo docker stop cqc-app && docker run --name cqc-app -d -p 3000:3000 r3x7t/chaotic_curse:${{ github.sha }}"
+          ssh -o StrictHostKeyChecking=no -i ~/ssh_key ubuntu@52.66.195.207 -t " sudo docker stop cqc-app && docker run --name cqc-app -d -p 3000:3000 r3x7t/chaotic_curse:${{ github.sha }}"
