@@ -59,7 +59,7 @@ export default function MainPageClient({ companies }: { companies: any[] }) {
           <div className="container mx-auto px-4 py-16">
             <div className="text-center max-w-4xl mx-auto">
               <h1 className="text-5xl md:text-6xl font-bold mb-6 gradient-text">
-                CompQCode Testing Platform
+                CompQCode Testing Platform with docker 
               </h1>
               <p className="text-xl text-gray-300 mb-8 leading-relaxed">
                 Master your technical interviews with company-specific LeetCode questions.
