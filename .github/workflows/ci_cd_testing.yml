@@ -22,7 +22,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: rexit/chaotic_curse:${{ github.sha }}
+          tags: r3x7t/chaotic_curse:${{ github.sha }}
       - run: |
           echo "${{ secrets.SSH_PRIVATE_KEY }}" &> ~/ssh_key
           mkdir -p /home/runner/.ssh
