@@ -1,9 +1,6 @@
-import MainPageClient from '@/components/MainPageClient';
-import { fetchCompanies } from '@/lib/data-fetcher';
-export default async function HomePage() {
-  const companies = await fetchCompanies();
-  return (
-    <MainPageClient companies={companies} />
-  );
-}
+import AuthGate from "@/components/AuthGate";
+import LandingPage from "@/components/landingpage"
 
+export default function Home() {
+  return <AuthGate fallback={<LandingPage />} />;
+}

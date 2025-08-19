@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Inter } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
 const inter = Inter({ subsets: ["latin"] })
+import { Providers} from "./providers"
 export const metadata: Metadata = {
   title: {
     default: "CompQCode",
@@ -41,7 +42,6 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   manifest: "/site.webmanifest",
-  themeColor: "#ffffff",
 }
 
 export default function RootLayout({
@@ -54,7 +54,9 @@ export default function RootLayout({
       <body
         className={`${inter.className} antialiased`}
       >
+        <Providers>
         {children}
+        </Providers>
         <Analytics />
       </body>
     </html>

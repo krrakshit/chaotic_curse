@@ -1,11 +1,5 @@
 import { Company, CompanyQuestions, Question, TimePeriod } from './types';
 
-const CSV_FILE_MAPPING = {
-  'underSixMonths': 'under-six-months.csv',
-  'moreThanSixMonths': 'more-than-six-months.csv',
-  'all': 'all.csv'
-};
-
 export async function fetchCompanies(): Promise<Company[]> {
   // Try to use fs if available (server-side)
   try {

@@ -45,7 +45,7 @@ export default async function CompanyPage({ params, searchParams }: PageProps) {
           {/* Breadcrumb */}
           <div className="mb-6">
             <Link 
-              href="/" 
+              href="/homepage" 
               className="inline-flex items-center gap-2 text-gray-400 hover:text-white transition-colors duration-300"
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

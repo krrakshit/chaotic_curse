@@ -40,6 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# backend
-/backend/node_modules
-/backend/package-lock.json
+
+/prisma/generated/prisma
